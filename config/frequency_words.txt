@@ -2,6 +2,7 @@
 AI
 ChatGPT
 agent
+通信
 英伟达
 Google
 CPU
