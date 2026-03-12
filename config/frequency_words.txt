@@ -4,7 +4,9 @@ ChatGPT
 agent
 英伟达
 Google
-海光
+CPU
+GPU
+6G
 +技术
 !广告
 !培训
