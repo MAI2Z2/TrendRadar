@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T16:33:26.097549+08:00",
-  "total_titles_processed": 1540,
+  "generated_at": "2026-03-19T17:36:02.064491+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 277,
+      "match_count": 284,
       "titles": [
         {
           "title": "美以伊战争丨伊朗最高领袖就拉里贾尼遇害发声",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时54分 ~ 09时23分]"
+        },
+        {
+          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 17时36分]"
         },
         {
           "title": "伊朗总统证实：拉里贾尼遇袭身亡！儿子与副手一同遇害，以色列对其进行了数周跟踪，内塔尼亚胡：后续会有更多“惊喜”",
@@ -88,6 +100,17 @@
           "time_info": "[00时03分 ~ 06时26分]"
         },
         {
+          "title": "美联储宣布维持利率不变",
+          "url": "https://www.douyin.com/hot/2435566",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 17时36分]"
+        },
+        {
           "title": "中东战火下首场美联储决议：今晚鲍威尔会放出哪些猛料？",
           "url": "https://www.cls.cn/detail/2316601",
           "source": "财联社热门",
@@ -99,27 +122,27 @@
           "time_info": "[00时03分 ~ 06时26分]"
         },
         {
-          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
-          "url": "https://wallstreetcn.com/articles/3767807",
+          "title": "鲍威尔：通胀改善前不会降息，调查期间不会离开美联储，必要时将以临时主席身份履职（附全文）",
+          "url": "https://wallstreetcn.com/articles/3767868",
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 17时36分]"
         },
         {
-          "title": "美联储宣布维持利率不变",
-          "url": "https://www.douyin.com/hot/2435566",
-          "source": "抖音",
+          "title": "伊朗对美相关能源设施发动大规模导弹袭击，列明中东三国目标，卡塔尔称“全球最大LNG设施遭严重破坏”",
+          "url": "https://wallstreetcn.com/articles/3767863",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 17时36分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -163,31 +186,17 @@
           "time_info": "[00时03分 ~ 07时25分]"
         },
         {
-          "title": "鲍威尔：通胀改善前不会降息，调查期间不会离开美联储，必要时将以临时主席身份履职（附全文）",
-          "url": "https://wallstreetcn.com/articles/3767868",
-          "source": "华尔街见闻",
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
           "ranks": [
+            4,
             3,
             2
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时33分]"
-        },
-        {
-          "title": "以军空袭,伊朗最高安全官遇害",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351988&amp;topic_name=%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%2C%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%AE%89%E5%85%A8%E5%AE%98%E9%81%87%E5%AE%B3",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            4,
-            11,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时03分 ~ 16时33分]"
+          "time_info": "[12时15分 ~ 17时36分]"
         },
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -202,15 +211,20 @@
           "time_info": "[00时03分 ~ 06时26分]"
         },
         {
-          "title": "伊朗对美相关能源设施发动大规模导弹袭击，列明中东三国目标，卡塔尔称“全球最大LNG设施遭严重破坏”",
-          "url": "https://wallstreetcn.com/articles/3767863",
-          "source": "华尔街见闻",
+          "title": "以军空袭,伊朗最高安全官遇害",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351988&amp;topic_name=%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%2C%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E5%AE%89%E5%85%A8%E5%AE%98%E9%81%87%E5%AE%B3",
+          "source": "贴吧",
           "ranks": [
-            4
+            5,
+            4,
+            11,
+            15,
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时03分 ~ 17时36分]"
         },
         {
           "title": "伊朗处决摩萨德间谍",
@@ -304,6 +318,19 @@
           "time_info": "[00时03分 ~ 07时25分]"
         },
         {
+          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
+          "url": "https://wallstreetcn.com/articles/3767848",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 17时36分]"
+        },
+        {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
           "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
@@ -313,6 +340,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时03分 ~ 14时47分]"
+        },
+        {
+          "title": "战火蔓延!伊朗猛攻海湾油库",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352049&amp;topic_name=%E6%88%98%E7%81%AB%E8%94%93%E5%BB%B6%21%E4%BC%8A%E6%9C%97%E7%8C%9B%E6%94%BB%E6%B5%B7%E6%B9%BE%E6%B2%B9%E5%BA%93",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 17时36分]"
         },
         {
           "title": "以色列防长称伊朗情报部长身亡",
@@ -325,8 +365,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时03分 ~ 16时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时03分 ~ 17时36分]"
         },
         {
           "title": "【早报】沙特、卡塔尔油气设施遇袭起火；伊朗警告：中东三国石油设施成为合法打击目标",
@@ -354,6 +394,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时03分 ~ 07时25分]"
+        },
+        {
+          "title": "美联储维持利率不变",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 17时36分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -406,8 +459,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时03分 ~ 16时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时03分 ~ 17时36分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -557,6 +610,17 @@
           "time_info": "[01时54分 ~ 07时25分]"
         },
         {
+          "title": "美以袭击伊朗进入第 20 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2017692346066630422",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 17时36分]"
+        },
+        {
           "title": "一图解读美联储3月决议：如期“按兵不动”，年内料仅降息一次！",
           "url": "https://www.cls.cn/detail/2317472",
           "source": "财联社热门",
@@ -570,29 +634,35 @@
           "time_info": "[09时22分 ~ 14时47分]"
         },
         {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
+          "title": "伊朗最高领袖：血债将很快得到清算",
+          "url": "https://www.toutiao.com/trending/7618732232047627827/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            3,
-            2
+            6,
+            15,
+            16,
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 17时36分]"
         },
         {
-          "title": "战火蔓延!伊朗猛攻海湾油库",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352049&amp;topic_name=%E6%88%98%E7%81%AB%E8%94%93%E5%BB%B6%21%E4%BC%8A%E6%9C%97%E7%8C%9B%E6%94%BB%E6%B5%B7%E6%B9%BE%E6%B2%B9%E5%BA%93",
-          "source": "贴吧",
+          "title": "伊朗打击利雅得炼油厂美方专属区域",
+          "url": "https://www.toutiao.com/trending/7618631216359096374/",
+          "source": "今日头条",
           "ranks": [
-            3,
-            5
+            12,
+            14,
+            21,
+            22,
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[09时22分 ~ 17时36分]"
         },
         {
           "title": "伊朗发动第62波攻势 打击美以基地",
@@ -624,6 +694,18 @@
           "time_info": "[01时54分 ~ 07时25分]"
         },
         {
+          "title": "伊朗外长：不担心自己被刺杀",
+          "url": "https://news.ifeng.com/c/8rcYing9sHH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 17时36分]"
+        },
+        {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
           "url": "https://news.ifeng.com/c/8rcHthVvS8A",
           "source": "凤凰网",
@@ -635,30 +717,18 @@
           "time_info": "[12时15分 ~ 15时42分]"
         },
         {
-          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
-          "url": "https://wallstreetcn.com/articles/3767848",
-          "source": "华尔街见闻",
+          "title": "伊拉克称伊朗供应天然气已完全中断",
+          "url": "https://www.toutiao.com/trending/7618744631366487590/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            10,
-            9
+            15,
+            23,
+            28,
+            27
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时25分 ~ 16时33分]"
-        },
-        {
-          "title": "美联储维持利率不变",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时33分]"
+          "time_info": "[09时22分 ~ 17时36分]"
         },
         {
           "title": "拉里贾尼葬礼在伊朗德黑兰举行",
@@ -689,44 +759,38 @@
           "time_info": "[00时03分 ~ 07时25分]"
         },
         {
-          "title": "美以袭击伊朗进入第 20 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2017692346066630422",
-          "source": "知乎",
+          "title": "以军：继续“追杀”伊朗所有高层",
+          "url": "https://news.ifeng.com/c/8rcaCfnZ2H3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时36分]"
+        },
+        {
+          "title": "伊朗重要能源设施遭袭",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%87%8D%E8%A6%81%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时33分]"
+          "time_info": "[12时15分 ~ 17时36分]"
         },
         {
-          "title": "伊朗最高领袖：血债将很快得到清算",
-          "url": "https://www.toutiao.com/trending/7618732232047627827/",
-          "source": "今日头条",
+          "title": "重大升级！能源设施已被卷入，华尔街“重估”伊朗战争时间表，再提“2022场景”",
+          "url": "https://wallstreetcn.com/articles/3767878",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            15,
-            16,
-            12
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时33分]"
-        },
-        {
-          "title": "伊朗打击利雅得炼油厂美方专属区域",
-          "url": "https://www.toutiao.com/trending/7618631216359096374/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14,
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时33分]"
+          "time_info": "[12时15分 ~ 17时36分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -757,16 +821,15 @@
           "time_info": "[02时48分 ~ 07时25分]"
         },
         {
-          "title": "伊朗外长：不担心自己被刺杀",
-          "url": "https://news.ifeng.com/c/8rcYing9sHH",
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
           "source": "凤凰网",
           "ranks": [
-            4,
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时33分]"
+          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "伊朗战争要是打久了，那就远不只是油价暴涨的事了",
@@ -791,6 +854,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
+          "title": "留任理事+临时主席？鲍威尔首度透露不急着离开美联储 这意味着什么",
+          "url": "https://www.cls.cn/detail/2317548",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 17时36分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -850,31 +938,6 @@
           "time_info": "[09时22分 ~ 15时42分]"
         },
         {
-          "title": "伊拉克称伊朗供应天然气已完全中断",
-          "url": "https://www.toutiao.com/trending/7618744631366487590/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            23,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 16时33分]"
-        },
-        {
-          "title": "以军：继续“追杀”伊朗所有高层",
-          "url": "https://news.ifeng.com/c/8rcaCfnZ2H3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "美联储主席鲍威尔：较长时间的高油价将拖累消费，但尚不清楚是否会如此。",
           "url": "https://flash.jin10.com/detail/20260319024135528800",
           "source": "金十数据",
@@ -908,17 +971,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 13时53分]"
-        },
-        {
-          "title": "伊朗重要能源设施遭袭",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%87%8D%E8%A6%81%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%E9%81%AD%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时33分]"
         },
         {
           "title": "美联储主席鲍威尔：我们真的不知道能源价格上涨会产生什么影响。",
@@ -1031,18 +1083,6 @@
           "time_info": "02时48分"
         },
         {
-          "title": "重大升级！能源设施已被卷入，华尔街“重估”伊朗战争时间表，再提“2022场景”",
-          "url": "https://wallstreetcn.com/articles/3767878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时33分]"
-        },
-        {
           "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
           "url": "https://wallstreetcn.com/articles/3767807",
           "source": "华尔街见闻",
@@ -1105,6 +1145,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时22分 ~ 15时42分]"
+        },
+        {
+          "title": "以军称伊朗使用集束弹头导弹发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E7%A7%B0%E4%BC%8A%E6%9C%97%E4%BD%BF%E7%94%A8%E9%9B%86%E6%9D%9F%E5%BC%B9%E5%A4%B4%E5%AF%BC%E5%BC%B9%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时47分 ~ 17时36分]"
         },
         {
           "title": "伊朗总统证实拉里贾尼已遇难",
@@ -1203,6 +1255,18 @@
           "time_info": "[05时29分 ~ 06时26分]"
         },
         {
+          "title": "美反恐高官辞职后爆料：是以色列逼美国开战的 伊朗离拥核还早",
+          "url": "https://www.cls.cn/detail/2317857",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 17时36分]"
+        },
+        {
           "title": "美联储4月维持利率不变的概率为100%",
           "url": "https://flash.jin10.com/detail/20260319060728956800",
           "source": "金十数据",
@@ -1239,18 +1303,16 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "留任理事+临时主席？鲍威尔首度透露不急着离开美联储 这意味着什么",
-          "url": "https://www.cls.cn/detail/2317548",
-          "source": "财联社热门",
+          "title": "伊朗判处3名为美以行动提供支持的人员死刑",
+          "url": "https://news.ifeng.com/c/8rcXm4x2Lxp",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            8,
-            7,
-            9
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时53分 ~ 16时33分]"
+          "time_info": "[15时42分 ~ 17时36分]"
         },
         {
           "title": "【以军：开战以来首次袭击伊朗北部目标】以色列国防军18日夜间宣布，自以色列和美国2月28日联手对伊朗发起大规模军事行动以来，以军首次对伊朗北部地区的目标发动空袭。（新华社）",
@@ -1278,6 +1340,17 @@
           "time_info": "[09时22分 ~ 13时53分]"
         },
         {
+          "title": "高市早苗访美与特朗普如何“面对面”？",
+          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 17时36分]"
+        },
+        {
           "title": "伊朗发起“真实承诺4”第63轮行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC63%E8%BD%AE%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
@@ -1289,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时25分 ~ 12时15分]"
+        },
+        {
+          "title": "外交部回应伊朗拉里贾尼遇害",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E9%81%87%E5%AE%B3%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时36分]"
         },
         {
           "title": "美将只剩一艘航母用于对伊朗袭击",
@@ -1314,6 +1398,18 @@
           "time_info": "[12时15分 ~ 14时47分]"
         },
         {
+          "title": "外交部回应伊朗拉里贾尼遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时36分]"
+        },
+        {
           "title": "中东能源危机急剧升级！伊朗重要天然气设施遭以色列袭击",
           "url": "https://www.cls.cn/detail/2317310",
           "source": "财联社热门",
@@ -1326,16 +1422,16 @@
           "time_info": "[09时22分 ~ 12时15分]"
         },
         {
-          "title": "以军称伊朗使用集束弹头导弹发动袭击",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E5%86%9B%E7%A7%B0%E4%BC%8A%E6%9C%97%E4%BD%BF%E7%94%A8%E9%9B%86%E6%9D%9F%E5%BC%B9%E5%A4%B4%E5%AF%BC%E5%BC%B9%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
+          "title": "伊朗称将打击中东三国石油设施，全力打击美相关石油设施，冲突是否会彻底失控？油价会涨到多少？",
+          "url": "https://www.zhihu.com/question/2017713766402385101",
+          "source": "知乎",
           "ranks": [
-            15,
-            13
+            13,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时47分 ~ 16时33分]"
+          "time_info": "[16时33分 ~ 17时36分]"
         },
         {
           "title": "泽连斯基：乌专家团队已抵达海湾多国应对伊朗无人机",
@@ -1447,16 +1543,16 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "美反恐高官辞职后爆料：是以色列逼美国开战的 伊朗离拥核还早",
-          "url": "https://www.cls.cn/detail/2317857",
-          "source": "财联社热门",
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://wallstreetcn.com/livenews/3073117",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            6,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时33分]"
+          "time_info": "[16时33分 ~ 17时36分]"
         },
         {
           "title": "普京就拉里贾尼遇难向伊朗最高领袖表示哀悼",
@@ -1493,17 +1589,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时26分]"
-        },
-        {
-          "title": "伊朗判处3名为美以行动提供支持的人员死刑",
-          "url": "https://news.ifeng.com/c/8rcXm4x2Lxp",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时33分]"
         },
         {
           "title": "伊朗警告数小时后，卡塔尔拉斯拉凡工业城遭导弹袭击",
@@ -1552,6 +1637,17 @@
           "time_info": "[07时25分 ~ 16时33分]"
         },
         {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
           "title": "伊朗最高领袖就拉里贾尼遇害发表声明：血债将很快得到清算",
           "url": "https://www.cls.cn/detail/2317384",
           "source": "财联社热门",
@@ -1573,17 +1669,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时47分 ~ 15时42分]"
-        },
-        {
-          "title": "高市早苗访美与特朗普如何“面对面”？",
-          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时33分]"
         },
         {
           "title": "美联储3月货币政策会议关注点",
@@ -1761,17 +1846,6 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "外交部回应伊朗拉里贾尼遇难",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "策略师：油价上涨意味着美联储会变得更加强硬的观点是错误的",
           "url": "https://flash.jin10.com/detail/20260319031937746800",
           "source": "金十数据",
@@ -1803,28 +1877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
-        },
-        {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://wallstreetcn.com/livenews/3073117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "外交部回应伊朗拉里贾尼遇害",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E9%81%87%E5%AE%B3%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         },
         {
           "title": "美联储主席鲍威尔：我们相信关税通胀问题将会取得进展，但可能需要更多时间。",
@@ -1937,6 +1989,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "美前反恐中心主任辞职后首发声：大量关键意见根本传不到特朗普耳边！",
+          "url": "https://flash.jin10.com/detail/20260319171537924800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "美官员否认袭击伊朗天然气设施，称系以色列所为",
           "url": "https://wallstreetcn.com/livenews/3072619",
           "source": "华尔街见闻-快讯",
@@ -1946,6 +2009,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "以军称击落并摧毁一架伊朗米-17直升机",
+          "url": "https://wallstreetcn.com/livenews/3073141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "据ABC新闻：自战争开始以来，至少有10个美国及其盟友使用的雷达站已被伊朗无人机或导弹袭击。",
@@ -2086,9 +2160,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "伊朗外长：美2000亿美元战争拨款“只是冰山一角”",
+          "url": "https://flash.jin10.com/detail/20260319171530651800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "两年期美债收益率短线下挫2个基点，至3.69%下方。现货黄金持稳于4900美元下方，美元指数维持0.2%的涨幅。美联储按兵不动，理事米兰要求降息。",
@@ -2300,17 +2385,6 @@
           "time_info": "02时48分"
         },
         {
-          "title": "伊朗称将打击中东三国石油设施，全力打击美相关石油设施，冲突是否会彻底失控？油价会涨到多少？",
-          "url": "https://www.zhihu.com/question/2017713766402385101",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "机构：市场聚焦美联储如何权衡通胀与就业双重使命",
           "url": "https://flash.jin10.com/detail/20260319010919027800",
           "source": "金十数据",
@@ -2386,6 +2460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "伊朗议员称，议会正在考虑通过一项法案，对试图安全通过霍尔木兹海峡的船只征收通行费和税款。",
+          "url": "https://flash.jin10.com/detail/20260319171436030800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美国美联储FOMC利率决策(上限) 3.75%，预期 3.75%，前值 3.75%。",
@@ -2570,7 +2655,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -2812,7 +2897,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -2955,7 +3040,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
