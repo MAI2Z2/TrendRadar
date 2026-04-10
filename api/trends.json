@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T03:38:33.189469+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-04-11T04:27:18.168447+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "伊朗副外长：各方已达成共识，伊方十点计划将作为谈判基础",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "伊朗战争丨霍尔木兹海峡过去2天仍保持关闭状态",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时38分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时27分]"
         },
         {
           "title": "伊朗战争丨万斯：相信与伊朗的谈判将取得积极成果",
@@ -74,16 +74,75 @@
           "time_info": "01时42分"
         },
         {
+          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
+          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025706275451795397",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
           "url": "https://wallstreetcn.com/livenews/3086048",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时27分]"
+        },
+        {
+          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
+          "url": "https://wallstreetcn.com/articles/3769663",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "【伊朗警告：将有力回应对黎巴嫩的持续袭击】伊朗武装部队哈塔姆安比亚中央总部10日发表声明说，如果敌方持续对黎巴嫩发动袭击，伊朗将予以有力回应。声明说，伊朗将继续掌握对霍尔木兹海峡的控制权，如果敌方持续对黎巴嫩真主党及黎巴嫩人民发动袭击，伊朗将予以有力回应。声明指出，鉴于美国和以色列方面屡次违背承诺，伊朗武装力量始终将“指头放在扳机上”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3086047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时27分]"
+        },
+        {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的5.07亿美元。",
@@ -97,61 +156,87 @@
           "time_info": "01时42分"
         },
         {
-          "title": "【伊朗警告：将有力回应对黎巴嫩的持续袭击】伊朗武装部队哈塔姆安比亚中央总部10日发表声明说，如果敌方持续对黎巴嫩发动袭击，伊朗将予以有力回应。声明说，伊朗将继续掌握对霍尔木兹海峡的控制权，如果敌方持续对黎巴嫩真主党及黎巴嫩人民发动袭击，伊朗将予以有力回应。声明指出，鉴于美国和以色列方面屡次违背承诺，伊朗武装力量始终将“指头放在扳机上”。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3086047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时38分]"
-        },
-        {
-          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
-          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
           "source": "凤凰网",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
-          "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025706275451795397",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
-        },
-        {
-          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
-          "url": "https://wallstreetcn.com/articles/3769663",
+          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
+          "url": "https://wallstreetcn.com/articles/3769660",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
           "source": "凤凰网",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "伊朗武装部队称随时准备开火",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E7%A7%B0%E9%9A%8F%E6%97%B6%E5%87%86%E5%A4%87%E5%BC%80%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
+          "url": "https://www.zhihu.com/question/2025899367144453577",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
+          "url": "https://www.zhihu.com/question/2025233700363727989",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
+        },
+        {
+          "title": "伊朗媒体称以军停止袭击黎巴嫩首都",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E7%A7%B0%E4%BB%A5%E5%86%9B%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A6%96%E9%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时27分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
@@ -178,29 +263,6 @@
           "time_info": "[00时42分 ~ 01时42分]"
         },
         {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
-        },
-        {
-          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
-          "url": "https://wallstreetcn.com/articles/3769660",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
-        },
-        {
           "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
           "url": "https://flash.jin10.com/detail/20260411003033068800",
           "source": "金十数据",
@@ -213,63 +275,16 @@
           "time_info": "[00时42分 ~ 01时42分]"
         },
         {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
+          "title": "伊朗官员：霍尔木兹海峡过去两天内仍保持关闭状态",
+          "url": "https://wallstreetcn.com/livenews/3086053",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
-        },
-        {
-          "title": "伊朗武装部队称随时准备开火",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E7%A7%B0%E9%9A%8F%E6%97%B6%E5%87%86%E5%A4%87%E5%BC%80%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
-        },
-        {
-          "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
-          "url": "https://www.zhihu.com/question/2025899367144453577",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
-        },
-        {
-          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
-          "url": "https://www.zhihu.com/question/2025233700363727989",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
-        },
-        {
-          "title": "伊朗媒体称以军停止袭击黎巴嫩首都",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E7%A7%B0%E4%BB%A5%E5%86%9B%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A6%96%E9%83%BD",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24,
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时38分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时27分]"
         },
         {
           "title": "周五（4月10日），美联储隔夜逆回购协议（RRP）使用规模为5.07亿美元（交易对手5家），上个交易日报4.02亿美元。",
@@ -332,17 +347,6 @@
           "time_info": "[00时42分 ~ 01时42分]"
         },
         {
-          "title": "伊朗官员：霍尔木兹海峡过去两天内仍保持关闭状态",
-          "url": "https://wallstreetcn.com/livenews/3086053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时38分]"
-        },
-        {
           "title": "美国参议员敦促CFTC调查特朗普发布伊朗新闻前的石油交易",
           "url": "https://wallstreetcn.com/livenews/3086031",
           "source": "华尔街见闻-快讯",
@@ -363,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗谈判代表团抵达巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3086069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "消息人士：伊朗如愿与美国副总统万斯进行谈判",
@@ -409,6 +424,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队重申停火以来未袭击任何国家",
+          "url": "https://wallstreetcn.com/livenews/3086065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
           "title": "美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。",
           "url": "https://flash.jin10.com/detail/20260410234303682800",
           "source": "金十数据",
@@ -429,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "周五（4月10日）纽约尾盘，ICE美元指数跌0.15%，报98.672点，本周累计下跌1.36%，整体持续下挫，交投区间为100.273-98.525点。 彭博美元指数跌0.10%，报1198.47点，本周累跌1.43%，交投区间为1217.98-1196.85点。 美元兑日元涨0.20%，报159.28日元，本周累跌0.24%，交投区间为160.03-157.89日元。 本周，欧元兑日元累涨1.65%，英镑兑日元累涨1.89%。",
+          "url": "https://wallstreetcn.com/livenews/3086063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "特朗普：若伊朗在谈判中不配合 我们已做好军事准备",
@@ -508,6 +545,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
+          "url": "https://flash.jin10.com/detail/20260411034714242800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
           "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
           "url": "https://flash.jin10.com/detail/20260410233248888800",
           "source": "金十数据",
@@ -519,6 +567,28 @@
           "time_info": "00时42分"
         },
         {
+          "title": "伊朗谈判代表团抵达巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260411034637598800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "伊朗媒体报道称，若“先决条件得到接受”，伊美对话将启动。",
+          "url": "https://flash.jin10.com/detail/20260411034601468800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
           "title": "临时停火第三天，暂无伊朗谈判代表启程消息",
           "url": "https://wallstreetcn.com/livenews/3086005",
           "source": "华尔街见闻-快讯",
@@ -528,6 +598,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，由伊朗议会议长卡利巴夫率领的伊朗代表团已在与美国举行和平会谈前夕抵达伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260411034532513800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "两名参与谈判的巴基斯坦消息人士透露，伊朗官员在巴基斯坦空军护送下抵达伊斯兰堡的努尔汗空军基地，为和平谈判做准备。",
+          "url": "https://flash.jin10.com/detail/20260411034432386800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "据悉美伊代表团抵达巴基斯坦，伊朗将参加谈判",
@@ -574,6 +666,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队重申停火以来未袭击任何国家",
+          "url": "https://flash.jin10.com/detail/20260411033932807800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
           "title": "伊朗议长称谈判开始前需实现黎巴嫩停火及解冻伊朗被冻结资产",
           "url": "https://wallstreetcn.com/livenews/3085998",
           "source": "华尔街见闻-快讯",
@@ -583,6 +686,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 有色金属 标普 英伟达 Google",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     }
