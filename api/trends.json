@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T21:55:37.778200+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-04-12T22:36:14.603096+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 252,
+      "match_count": 272,
       "titles": [
         {
           "title": "美伊谈判进行中！伊朗称美国同意在黎巴嫩停火",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 21时55分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 22时36分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时41分 ~ 21时55分]"
+          "appearance_count": 13,
+          "time_info": "[12时41分 ~ 22时36分]"
         },
         {
           "title": "伊朗称美驱逐舰从霍尔木兹海峡折返",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时41分 ~ 21时55分]"
+          "appearance_count": 13,
+          "time_info": "[12时41分 ~ 22时36分]"
         },
         {
           "title": "凤凰连线：伊朗提出的谈判先决条件，至少有两项没办法实现",
@@ -103,6 +103,30 @@
           "time_info": "[00时27分 ~ 07时25分]"
         },
         {
+          "title": "伊朗称谈判中多次提出新方案，但美方要求过度",
+          "url": "https://news.ifeng.com/c/8sGW5m1VG1G",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 22时36分]"
+        },
+        {
+          "title": "伊朗副议长：霍尔木兹海峡是“红线”，完全由伊掌控",
+          "url": "https://news.ifeng.com/c/8sGT40wj2KX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 22时36分]"
+        },
+        {
           "title": "伊朗称美国同意在黎巴嫩停火",
           "url": "https://news.ifeng.com/c/8sFDQDq7sa5",
           "source": "凤凰网",
@@ -114,6 +138,19 @@
           "time_info": "[00时27分 ~ 06时24分]"
         },
         {
+          "title": "美伊谈判无果而终，霍尔木兹成最大症结之一，美军高调“清雷”遭伊朗击沉警告",
+          "url": "https://wallstreetcn.com/articles/3769752",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时59分 ~ 22时36分]"
+        },
+        {
           "title": "伊美第三轮谈判已结束，双方存在严重分歧，伊朗称伊美 12 日将举行新一轮谈判，透露出哪些信息？",
           "url": "https://www.zhihu.com/question/2026558515645346738",
           "source": "知乎",
@@ -121,8 +158,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时47分 ~ 21时55分]"
+          "appearance_count": 15,
+          "time_info": "[09时47分 ~ 22时36分]"
         },
         {
           "title": "很悲壮，伊朗提高了要价",
@@ -134,30 +171,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 09时48分]"
-        },
-        {
-          "title": "伊朗称谈判中多次提出新方案，但美方要求过度",
-          "url": "https://news.ifeng.com/c/8sGW5m1VG1G",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 21时55分]"
-        },
-        {
-          "title": "伊朗副议长：霍尔木兹海峡是“红线”，完全由伊掌控",
-          "url": "https://news.ifeng.com/c/8sGT40wj2KX",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 21时55分]"
         },
         {
           "title": "伊朗称美国同意在黎巴嫩停火，这意味着什么？",
@@ -181,11 +194,12 @@
             7,
             17,
             28,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时20分 ~ 21时55分]"
+          "appearance_count": 12,
+          "time_info": "[14时20分 ~ 22时36分]"
         },
         {
           "title": "美媒称数艘美国海军舰船通过霍尔木兹海峡，未与伊朗方面协调",
@@ -227,20 +241,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时20分 ~ 21时55分]"
-        },
-        {
-          "title": "美媒称数艘美国海军舰船通过霍尔木兹海峡，未与伊朗方面协调，是伊朗战事爆发以来的首次，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2026402766998843696",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[14时20分 ~ 22时36分]"
         },
         {
           "title": "伊朗军方否认美军舰进入霍尔木兹海峡，为何美伊双方在此事上各执一词？若真已进入，对当前局势意味着什么？",
@@ -254,8 +256,20 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时41分 ~ 22时36分]"
+        },
+        {
+          "title": "美媒称数艘美国海军舰船通过霍尔木兹海峡，未与伊朗方面协调，是伊朗战事爆发以来的首次，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2026402766998843696",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[12时41分 ~ 21时55分]"
+          "time_info": "[00时27分 ~ 09时48分]"
         },
         {
           "title": "美以袭击伊朗进入第 44 天，当前局势如何？哪些信息值得关注？",
@@ -283,17 +297,19 @@
           "time_info": "[00时27分 ~ 09时48分]"
         },
         {
-          "title": "美伊谈判无果而终，霍尔木兹成最大症结之一，美军高调“清雷”遭伊朗击沉警告",
-          "url": "https://wallstreetcn.com/articles/3769752",
-          "source": "华尔街见闻",
+          "title": "帮伊朗扫雷？美舰穿行霍尔木兹海峡成“罗生门”，美伊昼夜谈判陷僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954092",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            5,
-            8
+            19,
+            20,
+            18,
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时59分 ~ 21时55分]"
+          "appearance_count": 10,
+          "time_info": "[15时59分 ~ 22时36分]"
         },
         {
           "title": "伊朗：由于美方的贪婪和野心，双方仍未达成协议",
@@ -364,6 +380,17 @@
           "time_info": "[00时27分 ~ 07时25分]"
         },
         {
+          "title": "英国官员：特朗普的言论让英美关系紧张",
+          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时39分 ~ 22时36分]"
+        },
+        {
           "title": "伊朗战争丨美伊谈判未能达成协议，双方互相指责",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -375,19 +402,15 @@
           "time_info": "[12时41分 ~ 14时21分]"
         },
         {
-          "title": "帮伊朗扫雷？美舰穿行霍尔木兹海峡成“罗生门”，美伊昼夜谈判陷僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954092",
-          "source": "澎湃新闻",
+          "title": "伊朗战争丨特朗普：将封锁霍尔木兹海峡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            20,
-            18,
-            15,
-            14
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时59分 ~ 21时55分]"
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "以色列总理内塔尼亚胡在视频声明中声称：我们（以色列和美国）瓦解了伊朗的核计划和导弹计划。 任务还没有完成，伊朗仍然掌握着浓缩铀。",
@@ -658,17 +681,6 @@
           "time_info": "[16时51分 ~ 19时29分]"
         },
         {
-          "title": "英国官员：特朗普的言论让英美关系紧张",
-          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 21时55分]"
-        },
-        {
           "title": "伊朗不急于再与美国进行谈判",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%86%8D%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E8%B0%88%E5%88%A4",
           "source": "百度热搜",
@@ -742,17 +754,6 @@
           "time_info": "15时59分"
         },
         {
-          "title": "伊朗战争丨特朗普：将封锁霍尔木兹海峡",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
           "title": "美国副总统万斯：需明确确认伊朗不会寻求核武器。",
           "url": "https://flash.jin10.com/detail/20260412093559526800",
           "source": "金十数据",
@@ -764,15 +765,15 @@
           "time_info": "09时48分"
         },
         {
-          "title": "金十整理：下周重要事件与数据预告——中国3月贸易帐与一季度GDP数据将公布；周三美联储官员密集发言",
-          "url": "https://flash.jin10.com/detail/20260412213158138800",
+          "title": "美国总统特朗普：海湾盟友已开始在霍尔木兹海峡协助我们。",
+          "url": "https://flash.jin10.com/detail/20260412222011266800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
           "title": "【伊朗最高领袖顾问：霍尔木兹海峡控制权掌握在伊朗手中】伊朗最高领袖外事顾问韦拉亚提12日在其个人社交媒体平台账号上表示，伊朗外交始终秉持一个原则，即“保护我们的祖国”。他表示，如今霍尔木兹海峡的控制权牢牢掌握在伊朗手中。（央视）",
@@ -784,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队警告称：（美国）在霍尔木兹海峡的任何“错误举动”都将遭到报复。（伊朗媒体Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3086446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "伊朗外交部：伊朗和巴基斯坦等的联系和磋商将继续进行",
@@ -898,6 +910,28 @@
           "time_info": "09时48分"
         },
         {
+          "title": "美国总统特朗普：伊朗人还没有离开谈判桌，预计他们会回来，给我们想要的一切。",
+          "url": "https://flash.jin10.com/detail/20260412221839501800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "伊朗：霍尔木兹海峡在严密监控与完全掌控之下",
+          "url": "https://wallstreetcn.com/livenews/3086445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
           "url": "https://news.ifeng.com/c/8sG0csY9qWa",
           "source": "凤凰网",
@@ -909,6 +943,17 @@
           "time_info": "[12时41分 ~ 16时51分]"
         },
         {
+          "title": "美国总统特朗普：封锁（霍尔木兹海峡的）措施将类似于对委内瑞拉采取的措施。",
+          "url": "https://flash.jin10.com/detail/20260412221712647800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "伊朗副议长：美国应已明白外交不是发号施令的舞台",
           "url": "https://wallstreetcn.com/livenews/3086383",
           "source": "华尔街见闻-快讯",
@@ -918,6 +963,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判代表们还没有离开谈判桌。 我预计伊朗将回来，满足“我们想要的”。 （谈及未来可能进行的会谈）我想要一切。 一个小时之内，我就能摧毁伊朗的全部能源。 （谈及摧毁伊朗的可能性）若他们不放弃，美国就会这么做。",
+          "url": "https://wallstreetcn.com/livenews/3086444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "巴基斯坦：伊朗代表团将于12日离开",
@@ -942,15 +998,15 @@
           "time_info": "09时48分"
         },
         {
-          "title": "伊朗议长卡利巴夫率伊朗谈判代表团离开巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260412212055348800",
+          "title": "美国总统特朗普：关于消灭伊朗文明的社交媒体帖子让伊朗人坐到了谈判桌前。",
+          "url": "https://flash.jin10.com/detail/20260412221641274800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
           "title": "谈判无果，伊朗局势发展有几种可能",
@@ -964,15 +1020,15 @@
           "time_info": "19时29分"
         },
         {
-          "title": "以色列财政部宣称，据初步估算，发动伊朗战争的财政预算代价为350亿谢克尔（折合115.2亿美元）。 其中220亿谢克尔流入国防部。 相关资金已经被纳入2026年预算。",
-          "url": "https://wallstreetcn.com/livenews/3086434",
+          "title": "特朗普：北约现在有意协助处理霍尔木兹海峡问题。",
+          "url": "https://wallstreetcn.com/livenews/3086442",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
           "title": "伊朗官员：霍尔木兹海峡通航必须获得伊朗许可",
@@ -1031,26 +1087,26 @@
           "time_info": "[03时31分 ~ 06时24分]"
         },
         {
-          "title": "以色列财政部：以色列与伊朗的战争已导致预算支出达350亿谢克尔，其中220亿谢克尔用于国防用途。",
-          "url": "https://flash.jin10.com/detail/20260412211959026800",
+          "title": "阿塞拜疆驻伊朗大使馆恢复工作",
+          "url": "https://flash.jin10.com/detail/20260412221244082800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
-          "title": "【伊朗议长卡利巴夫率伊朗谈判代表团离开巴基斯坦】据巴基斯坦政府消息，伊朗伊斯兰议会议长卡利巴夫12日傍晚率领伊朗谈判代表团乘飞机离开巴基斯坦。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3086430",
+          "title": "美国总统特朗普：我们将封锁霍尔木兹海峡。 这将耗费一段时间，但将是行之有效的手段。 伊朗不会掌握核武器，他们没有底牌。 对海峡的封锁级别将比对委内瑞拉“更高”。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3086441",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗已不再拥有任何铀浓缩设施。",
@@ -1217,6 +1273,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时41分 ~ 17时39分]"
+        },
+        {
+          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/articles/3769762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 22时36分]"
         },
         {
           "title": "伊朗不急于与美再谈判",
@@ -1405,6 +1473,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 09时48分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——中国3月贸易帐与一季度GDP数据将公布；周三美联储官员密集发言",
+          "url": "https://flash.jin10.com/detail/20260412213158138800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "伊朗谈判代表团成员：世界将见证霍尔木兹海峡的新格局",
@@ -1598,6 +1678,19 @@
           "time_info": "[09时48分 ~ 14时21分]"
         },
         {
+          "title": "普京与伊朗总统通话，讨论中东局势及双边合作",
+          "url": "https://wallstreetcn.com/livenews/3086417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时36分]"
+        },
+        {
           "title": "伊朗媒体及分析人士：警惕伊美谈判可能遭以色列破坏",
           "url": "https://flash.jin10.com/detail/20260412063325339800",
           "source": "金十数据",
@@ -1658,6 +1751,30 @@
           "time_info": "[20时41分 ~ 21时55分]"
         },
         {
+          "title": "伊朗议长卡利巴夫率伊朗谈判代表团离开巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260412212055348800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时36分]"
+        },
+        {
+          "title": "以色列财政部宣称，据初步估算，发动伊朗战争的财政预算代价为350亿谢克尔（折合115.2亿美元）。 其中220亿谢克尔流入国防部。 相关资金已经被纳入2026年预算。",
+          "url": "https://wallstreetcn.com/livenews/3086434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时36分]"
+        },
+        {
           "title": "伊朗外交部发言人：会谈在互不信任的氛围中进行，因此我们本就不应指望仅通过一次会议就达成协议。",
           "url": "https://flash.jin10.com/detail/20260412114010711800",
           "source": "金十数据",
@@ -1694,16 +1811,28 @@
           "time_info": "[20时41分 ~ 21时55分]"
         },
         {
-          "title": "普京与伊朗总统通话，讨论中东局势及双边合作",
-          "url": "https://wallstreetcn.com/livenews/3086417",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列财政部：以色列与伊朗的战争已导致预算支出达350亿谢克尔，其中220亿谢克尔用于国防用途。",
+          "url": "https://flash.jin10.com/detail/20260412211959026800",
+          "source": "金十数据",
           "ranks": [
             5,
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时55分]"
+          "time_info": "[21时55分 ~ 22时36分]"
+        },
+        {
+          "title": "【伊朗议长卡利巴夫率伊朗谈判代表团离开巴基斯坦】据巴基斯坦政府消息，伊朗伊斯兰议会议长卡利巴夫12日傍晚率领伊朗谈判代表团乘飞机离开巴基斯坦。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3086430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "伊朗140处历史遗迹因美以袭击遭破坏",
@@ -1732,6 +1861,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 03时31分]"
+        },
+        {
+          "title": "万斯称美伊未达成协议，核心原因是伊朗未明确承诺放弃发展核武器，为什么核问题如此关键？下轮谈判重点在哪？",
+          "url": "https://www.zhihu.com/question/2026621489454080830",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 22时36分]"
         },
         {
           "title": "伊朗称伊美谈判结束 双方仍未达成协议",
@@ -1772,6 +1913,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时24分 ~ 06时24分]"
+        },
+        {
+          "title": "普京与伊朗总统通话",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美伊谈判仍在继续，但伊朗坚持维护其军事成果。",
@@ -1878,6 +2030,19 @@
           "time_info": "[05时25分 ~ 07时25分]"
         },
         {
+          "title": "报道：特朗普与财长贝森特讨论如何应付伊朗战争持续8-12周",
+          "url": "https://wallstreetcn.com/livenews/3086412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时36分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们瓦解了伊朗的核计划和导弹计划，但任务还没有完成，伊朗仍然掌握着浓缩铀。",
           "url": "https://flash.jin10.com/detail/20260412022025395800",
           "source": "金十数据",
@@ -1917,15 +2082,17 @@
           "time_info": "[05时25分 ~ 07时25分]"
         },
         {
-          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/articles/3769762",
-          "source": "华尔街见闻",
+          "title": "伊朗议会国家安全与外交政策委员会主席：美国人比我们更需要谈判达成的协议",
+          "url": "https://wallstreetcn.com/livenews/3086410",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9,
+            21,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时31分 ~ 21时55分]"
+          "time_info": "[20时41分 ~ 22时36分]"
         },
         {
           "title": "据福克斯新闻：消息人士称，如果今晚美国和伊朗代表团能够达成协议，那么举行新闻发布会就是有可能的了。",
@@ -1939,6 +2106,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时25分 ~ 07时25分]"
+        },
+        {
+          "title": "阿布扎比国有石油公司（ADNOC）的CEO Sultan al Jaber：霍尔木兹海峡从来就不（单独）属于伊朗，也不是该国能够限制通行的。",
+          "url": "https://wallstreetcn.com/livenews/3086409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时36分]"
         },
         {
           "title": "伊朗梳理21小时谈判全过程",
@@ -2067,6 +2247,18 @@
           "time_info": "[12时41分 ~ 14时21分]"
         },
         {
+          "title": "伊朗法医组织已识别3375具遗体",
+          "url": "https://www.toutiao.com/trending/7627830633193193508/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时36分]"
+        },
+        {
           "title": "伊朗消息人士称美国找借口退出谈判",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%89%BE%E5%80%9F%E5%8F%A3%E9%80%80%E5%87%BA%E8%B0%88%E5%88%A4",
           "source": "百度热搜",
@@ -2127,6 +2319,18 @@
           "time_info": "[19时29分 ~ 20时41分]"
         },
         {
+          "title": "特朗普称除核问题外 美伊就“大多数问题达成一致”",
+          "url": "https://flash.jin10.com/detail/20260412211518019800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时36分]"
+        },
+        {
           "title": "法国总统马克龙：刚刚与伊朗总统通话。",
           "url": "https://flash.jin10.com/detail/20260411235310154800",
           "source": "金十数据",
@@ -2175,16 +2379,16 @@
           "time_info": "[12时41分 ~ 14时21分]"
         },
         {
-          "title": "报道：特朗普与财长贝森特讨论如何应付伊朗战争持续8-12周",
-          "url": "https://wallstreetcn.com/livenews/3086412",
+          "title": "特朗普：美伊谈判除核问题外进展顺利",
+          "url": "https://wallstreetcn.com/livenews/3086427",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时55分]"
+          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
@@ -2271,18 +2475,6 @@
           "time_info": "[18时31分 ~ 19时29分]"
         },
         {
-          "title": "伊朗议会国家安全与外交政策委员会主席：美国人比我们更需要谈判达成的协议",
-          "url": "https://wallstreetcn.com/livenews/3086410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时55分]"
-        },
-        {
           "title": "美前国务卿：攻击伊朗是内塔尼亚胡的梦想",
           "url": "https://flash.jin10.com/detail/20260412004257986800",
           "source": "金十数据",
@@ -2305,18 +2497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时21分 ~ 15时59分]"
-        },
-        {
-          "title": "阿布扎比国有石油公司（ADNOC）的CEO Sultan al Jaber：霍尔木兹海峡从来就不（单独）属于伊朗，也不是该国能够限制通行的。",
-          "url": "https://wallstreetcn.com/livenews/3086409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时55分]"
         },
         {
           "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
@@ -2343,16 +2523,16 @@
           "time_info": "[19时29分 ~ 20时41分]"
         },
         {
-          "title": "万斯称美伊未达成协议，核心原因是伊朗未明确承诺放弃发展核武器，为什么核问题如此关键？下轮谈判重点在哪？",
-          "url": "https://www.zhihu.com/question/2026621489454080830",
-          "source": "知乎",
+          "title": "特朗普：核问题没谈拢，即刻起将封锁霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260412205920833800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            11
+            11,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时55分]"
+          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "伊朗不急于与美再谈判",
@@ -2367,6 +2547,18 @@
           "time_info": "[12时41分 ~ 14时21分]"
         },
         {
+          "title": "美国总统特朗普：任何向我们或和平船只开火的伊朗人，都将被炸进“地狱”。",
+          "url": "https://flash.jin10.com/detail/20260412205546072800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时36分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社援引知情人士称，伊朗并不急于举行谈判；只要美国不同意达成一项合理的协议，霍尔木兹海峡的局势就不会发生任何变化。",
           "url": "https://flash.jin10.com/detail/20260412110118394800",
           "source": "金十数据",
@@ -2377,6 +2569,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 14时21分]"
+        },
+        {
+          "title": "美国总统特朗普：我们也将开始摧毁伊朗人在海峡中布下的水雷。",
+          "url": "https://flash.jin10.com/detail/20260412205517971800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "伊朗谈判代表团将举行新闻发布会",
@@ -2391,6 +2595,18 @@
           "time_info": "[12时41分 ~ 14时21分]"
         },
         {
+          "title": "美国总统特朗普：我还指示美国海军在国际水域搜查并扣押每一艘向伊朗缴纳过通行费的船只。",
+          "url": "https://flash.jin10.com/detail/20260412205511864800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时36分]"
+        },
+        {
           "title": "伊朗代表团全员黑衣",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A8%E5%91%98%E9%BB%91%E8%A1%A3%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -2400,6 +2616,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时51分 ~ 17时39分]"
+        },
+        {
+          "title": "美国总统特朗普：（美伊）会谈进行得不错，大部分议题都达成了共识，但唯一真正重要的核问题没有谈拢。即刻起，美国海军将开始对任何试图进出霍尔木兹海峡的船只实施封锁。",
+          "url": "https://flash.jin10.com/detail/20260412205424024800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "伊朗美国巴基斯坦三方会谈开始举行",
@@ -2448,6 +2676,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时25分]"
+        },
+        {
+          "title": "伊方说封锁伊朗无法让霍尔木兹海峡开放",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%96%B9%E8%AF%B4%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%97%A0%E6%B3%95%E8%AE%A9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%BC%80%E6%94%BE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时35分 ~ 22时36分]"
         },
         {
           "title": "伊朗议长：美国未能赢得伊朗信任",
@@ -2530,13 +2769,24 @@
           "time_info": "[14时20分 ~ 14时21分]"
         },
         {
+          "title": "伊朗接连回怼美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8E%A5%E8%BF%9E%E5%9B%9E%E6%80%BC%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时35分 ~ 22时36分]"
+        },
+        {
           "title": "特朗普称将封锁霍尔木兹海峡",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -2552,15 +2802,15 @@
           "time_info": "09时48分"
         },
         {
-          "title": "特朗普称除核问题外 美伊就“大多数问题达成一致”",
-          "url": "https://flash.jin10.com/detail/20260412211518019800",
+          "title": "美国总统特朗普：周六穿过海峡的两艘美国军舰未遭任何阻挠。",
+          "url": "https://flash.jin10.com/detail/20260412221042333800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
           "title": "伊朗最高领袖顾问：霍尔木兹海峡控制权掌握在伊朗手中",
@@ -2574,26 +2824,26 @@
           "time_info": "19时29分"
         },
         {
-          "title": "普京与伊朗总统通话",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：我们也在调集更多传统扫雷舰，据我了解，英国及其他国家也在派遣扫雷舰。",
+          "url": "https://flash.jin10.com/detail/20260412220845950800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
-          "title": "特朗普：美伊谈判除核问题外进展顺利",
-          "url": "https://wallstreetcn.com/livenews/3086427",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：北约现在愿意帮助维护霍尔木兹海峡的安全。我们认为，众多国家将会在这方面帮助我们。",
+          "url": "https://flash.jin10.com/detail/20260412220801534800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
           "title": "伊朗外交部发言人：这一外交进程能否取得成功，取决于对方是否展现诚意与善意，摒弃“极端主义和非法要求”，并承认伊朗的合法权利。",
@@ -2607,13 +2857,24 @@
           "time_info": "09时48分"
         },
         {
+          "title": "美国总统特朗普：与伊朗的会谈在最后“非常友好”。",
+          "url": "https://flash.jin10.com/detail/20260412220732093800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "特朗普宣布：封锁霍尔木兹海峡，将开始“摧毁”海峡的水雷",
           "url": "https://wallstreetcn.com/livenews/3086424",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -2640,6 +2901,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "美国总统特朗普：清理（霍尔木兹）海峡不会花太长时间。",
+          "url": "https://flash.jin10.com/detail/20260412220726733800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：消息人士称，美伊代表团之间的技术委员会会议持续了两个多小时，至今仍在进行中。",
           "url": "https://flash.jin10.com/detail/20260411233945954800",
           "source": "金十数据",
@@ -2651,15 +2923,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "特朗普：核问题没谈拢，即刻起将封锁霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260412205920833800",
+          "title": "美国总统特朗普：我们将封锁霍尔木兹海峡，这需要一点时间。",
+          "url": "https://flash.jin10.com/detail/20260412220511341800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
           "title": "特朗普：将封锁霍尔木兹海峡",
@@ -2668,20 +2940,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
         {
-          "title": "美国总统特朗普：任何向我们或和平船只开火的伊朗人，都将被炸进“地狱”。",
-          "url": "https://flash.jin10.com/detail/20260412205546072800",
+          "title": "特朗普威胁称“将把伊朗的残余力量终结”",
+          "url": "https://flash.jin10.com/detail/20260412220225508800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时36分"
         },
         {
           "title": "据伊朗官方媒体Press TV：关于延长谈判时间一事尚未作出决定；谈判仍在进行中。",
@@ -2693,17 +2965,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "美国总统特朗普：我们也将开始摧毁伊朗人在海峡中布下的水雷。",
-          "url": "https://flash.jin10.com/detail/20260412205517971800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         },
         {
           "title": "据伊朗官方媒体Press TV：伊朗方面表示，谈判进展将决定谈判团队是否延长留在伊斯兰堡的时间。",
@@ -2726,17 +2987,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
-        },
-        {
-          "title": "美国总统特朗普：我还指示美国海军在国际水域搜查并扣押每一艘向伊朗缴纳过通行费的船只。",
-          "url": "https://flash.jin10.com/detail/20260412205511864800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         },
         {
           "title": "据伊朗媒体：伊朗与美国在伊斯兰堡的面对面会谈结束，双方开始就关键问题交换书面文本。",
@@ -2772,17 +3022,6 @@
           "time_info": "20时41分"
         },
         {
-          "title": "美国总统特朗普：（美伊）会谈进行得不错，大部分议题都达成了共识，但唯一真正重要的核问题没有谈拢。即刻起，美国海军将开始对任何试图进出霍尔木兹海峡的船只实施封锁。",
-          "url": "https://flash.jin10.com/detail/20260412205424024800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗与美国专家团队正在交换文本文件。",
           "url": "https://flash.jin10.com/detail/20260412003519255800",
           "source": "金十数据",
@@ -2803,6 +3042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "特朗普宣布：美军将封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3086424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "美国白宫：美国副总统及其他官员在伊斯兰堡与伊朗代表团面对面会谈。",
@@ -2855,7 +3105,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -2935,17 +3185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
-        },
-        {
-          "title": "伊朗法医组织已识别3375具遗体",
-          "url": "https://www.toutiao.com/trending/7627830633193193508/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         },
         {
           "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
