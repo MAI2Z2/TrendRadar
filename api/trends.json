@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T16:23:33.959909+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-04-17T18:08:17.688811+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 123,
+      "match_count": 126,
       "titles": [
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 18时08分]"
         },
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
@@ -46,8 +46,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 18时08分]"
         },
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -125,8 +125,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 18时08分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 18时08分]"
         },
         {
           "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
@@ -138,18 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 09时47分]"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 16时23分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -211,6 +211,17 @@
           "time_info": "[01时05分 ~ 09时47分]"
         },
         {
+          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028238414336585868",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 18时08分]"
+        },
+        {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
           "url": "https://www.cls.cn/detail/2346178",
           "source": "财联社热门",
@@ -220,6 +231,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 03时01分]"
+        },
+        {
+          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 18时08分]"
+        },
+        {
+          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
+          "url": "https://news.ifeng.com/c/8sOrmZQ0DT7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -242,6 +278,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 18时08分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -291,17 +341,6 @@
           "time_info": "03时01分"
         },
         {
-          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028238414336585868",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 16时23分]"
-        },
-        {
           "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
           "url": "https://flash.jin10.com/detail/20260417024512631800",
           "source": "金十数据",
@@ -346,6 +385,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 18时08分]"
+        },
+        {
           "title": "美国启动“经济狂怒”行动，目标直指伊朗不对称优势！",
           "url": "https://flash.jin10.com/detail/20260417142845302800",
           "source": "金十数据",
@@ -368,30 +418,16 @@
           "time_info": "01时05分"
         },
         {
-          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
-          "source": "澎湃新闻",
+          "title": "态度大反转！贝森特连续两天表态，支持美联储“按兵不动”，战争阴云下降息预期降温",
+          "url": "https://wallstreetcn.com/articles/3770155",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            11,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时47分 ~ 16时23分]"
-        },
-        {
-          "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32990291",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 16时23分]"
+          "time_info": "[12时43分 ~ 18时08分]"
         },
         {
           "title": "伊朗武装部队：已做好全面防御准备",
@@ -515,17 +551,6 @@
           "time_info": "[04时39分 ~ 05时36分]"
         },
         {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 16时23分]"
-        },
-        {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
           "url": "https://flash.jin10.com/detail/20260417051016228800",
           "source": "金十数据",
@@ -548,18 +573,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时34分]"
-        },
-        {
-          "title": "态度大反转！贝森特连续两天表态，支持美联储“按兵不动”，战争阴云下降息预期降温",
-          "url": "https://wallstreetcn.com/articles/3770155",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 16时23分]"
         },
         {
           "title": "据伊朗媒体：伊朗外交部发言人表示，伊朗欢迎黎巴嫩停火，这是伊朗与美国在巴基斯坦调解下达成的停火协议的一部分。",
@@ -699,6 +712,17 @@
           "time_info": "[12时43分 ~ 12时44分]"
         },
         {
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 18时08分]"
+        },
+        {
           "title": "中国向伊朗提供58吨物资援助",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B58%E5%90%A8%E7%89%A9%E8%B5%84%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -733,17 +757,6 @@
           "time_info": "14时31分"
         },
         {
-          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
           "title": "伊朗议会议长：美国屡屡违约阻碍地区和平进程",
           "url": "https://flash.jin10.com/detail/20260417023914531800",
           "source": "金十数据",
@@ -753,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "德国财政部长：我认为伊朗战争的影响将持续一段时间。",
@@ -772,7 +796,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1052,6 +1076,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "伊朗军队总司令：时刻扣住扳机迎击敌人",
+          "url": "https://flash.jin10.com/detail/20260417174056771800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "美元指数16日上涨",
           "url": "https://flash.jin10.com/detail/20260417034114874800",
           "source": "金十数据",
@@ -1201,7 +1236,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -1467,11 +1502,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 18时08分]"
         }
       ]
     }
