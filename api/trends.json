@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T04:38:41.857339+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-04-25T05:41:25.150701+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 86,
+      "match_count": 89,
       "titles": [
         {
           "title": "伊朗战争丨伊朗将与巴基斯坦举行会谈，但不与美谈判",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -84,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -107,19 +107,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
           "url": "https://wallstreetcn.com/articles/3770808",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
@@ -129,30 +130,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "伊朗媒体：阿拉格齐暂无与美方会谈日程",
           "url": "https://flash.jin10.com/detail/20260425040958208800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
-          "title": "美联储：美国上周银行存款19.099万亿美元，之前一周19.056万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3094296",
-          "source": "华尔街见闻-快讯",
+          "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
+          "url": "https://www.zhihu.com/question/2031049898246628283",
+          "source": "知乎",
           "ranks": [
-            1
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
+        },
+        {
+          "title": "伊朗代表团暂不与美方接触",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%9A%82%E4%B8%8D%E4%B8%8E%E7%BE%8E%E6%96%B9%E6%8E%A5%E8%A7%A6",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时41分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -163,28 +176,6 @@
             20,
             9,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
-        },
-        {
-          "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
-          "url": "https://www.zhihu.com/question/2031049898246628283",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时38分]"
-        },
-        {
-          "title": "伊朗代表团暂不与美方接触",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%9A%82%E4%B8%8D%E4%B8%8E%E7%BE%8E%E6%96%B9%E6%8E%A5%E8%A7%A6",
-          "source": "百度热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -268,17 +259,6 @@
           "time_info": "03时46分"
         },
         {
-          "title": "伊朗媒体：伊朗外长暂无与美方会谈日程",
-          "url": "https://wallstreetcn.com/livenews/3094291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
           "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
           "url": "https://wallstreetcn.com/articles/3770741",
           "source": "华尔街见闻",
@@ -350,6 +330,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时38分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.099万亿美元，之前一周19.056万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3094296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
+        },
+        {
+          "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 05时41分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的0.82亿美元。",
@@ -508,15 +512,16 @@
           "time_info": "[03时46分 ~ 04时38分]"
         },
         {
-          "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
-          "url": "https://wallstreetcn.com/articles/3770826",
-          "source": "华尔街见闻",
+          "title": "伊朗媒体：伊朗外长暂无与美方会谈日程",
+          "url": "https://wallstreetcn.com/livenews/3094291",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 04时38分]"
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
           "title": "美国财长贝森特：不排除以后担任美联储主席的可能性。（华尔街日报）",
@@ -541,6 +546,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时38分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队截获一艘船只。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3094290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -578,6 +595,30 @@
           "time_info": "[02时39分 ~ 03时46分]"
         },
         {
+          "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
+          "url": "https://wallstreetcn.com/livenews/3094280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普：只要半句话，美国就能省下1590亿美元",
+          "url": "https://flash.jin10.com/detail/20260425035056520800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
+        },
+        {
           "title": "美媒：特朗普派遣其女婿及特使赴巴基斯坦同伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3094200",
           "source": "华尔街见闻-快讯",
@@ -590,6 +631,18 @@
           "time_info": "[00时46分 ~ 01时44分]"
         },
         {
+          "title": "特朗普称伊朗拟提出提议回应美方要求，伊方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3094279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
+        },
+        {
           "title": "伊朗外长将阐述伊方在结束战争问题上的考量。（塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3094199",
           "source": "华尔街见闻-快讯",
@@ -600,6 +653,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时44分]"
+        },
+        {
+          "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
+          "url": "https://flash.jin10.com/detail/20260425033951908800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
           "title": "伊朗外交部发言人向国家媒体表示，外交部长阿拉格齐的地区之行将包括就结束美以对伊朗战争的最新努力进行磋商。",
@@ -625,15 +690,15 @@
           "time_info": "03时46分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队截获一艘船只。（Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3094290",
+          "title": "伊朗国防部：伊朗仍留存了大部分导弹能力",
+          "url": "https://wallstreetcn.com/livenews/3094305",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时38分"
+          "time_info": "05时41分"
         },
         {
           "title": "美国总统特朗普：伊朗希望进行对话，看看是否能够达成协议。",
@@ -645,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "【伊朗革命卫队：扣押一艘疑似与美军多次合作的船只】伊朗伊斯兰革命卫队当地时间24日夜间发布消息称，一艘疑似与美军合作的船只在违反规定并忽视伊朗方面警告后被扣押。声明称，根据革命卫队海军过去六个月的情报监控，该船只多次往返美国港口，因无视警告及多次违反海事规定，已被革命卫队海军扣押。对此，美国方面暂无回应。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3094304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "美国总统特朗普：伊朗计划提出一项旨在解决美方要求的方案。",
@@ -790,17 +866,6 @@
           "time_info": "02时39分"
         },
         {
-          "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
-          "url": "https://wallstreetcn.com/livenews/3094280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐已抵达伊斯兰堡。",
           "url": "https://flash.jin10.com/detail/20260425023236050800",
           "source": "金十数据",
@@ -812,17 +877,6 @@
           "time_info": "03时46分"
         },
         {
-          "title": "特朗普：只要半句话，美国就能省下1590亿美元",
-          "url": "https://flash.jin10.com/detail/20260425035056520800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
           "title": "白宫：对美联储主席鲍威尔的调查仍在进行中。 美联储的案件不一定会被撤销。",
           "url": "https://wallstreetcn.com/livenews/3094233",
           "source": "华尔街见闻-快讯",
@@ -832,17 +886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        },
-        {
-          "title": "特朗普称伊朗拟提出提议回应美方要求，伊方暂无回应",
-          "url": "https://wallstreetcn.com/livenews/3094279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
         },
         {
           "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
@@ -865,17 +908,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
-          "url": "https://flash.jin10.com/detail/20260425033951908800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
         },
         {
           "title": "卡塔尔埃米尔告诉美国总统特朗普，多哈将继续协调以支持巴基斯坦的调解努力。",
@@ -928,7 +960,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -950,9 +982,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "以色列防长威胁将伊朗打回石器时期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%98%B2%E9%95%BF%E5%A8%81%E8%83%81%E5%B0%86%E4%BC%8A%E6%9C%97%E6%89%93%E5%9B%9E%E7%9F%B3%E5%99%A8%E6%97%B6%E6%9C%9F%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "据CNN：美国特使威特科夫与库什纳将参与与伊朗外长阿拉格齐的会谈。",
@@ -1002,41 +1045,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 04时38分]"
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 05时41分]"
         },
         {
           "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
           "url": "https://wallstreetcn.com/livenews/3094289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨2.46%，可选消费板块涨1.36%，电信板块涨0.88%，能源板块则收跌0.24%，金融板块跌0.64%，工业板块跌0.89%，保健板块跌1.37%。",
           "url": "https://wallstreetcn.com/livenews/3094287",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         },
         {
           "title": "美股收盘：三大股指涨跌互现 英特尔涨逾23%",
           "url": "https://flash.jin10.com/detail/20260425040149158800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时38分 ~ 05时41分]"
         }
       ]
     },
