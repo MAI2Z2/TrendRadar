@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T14:17:19.924736+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-04-25T16:02:29.955086+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 133,
+      "match_count": 142,
       "titles": [
         {
           "title": "伊朗战争丨伊朗将与巴基斯坦举行会谈，但不与美谈判",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 14时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 16时02分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -87,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 14时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 16时02分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -101,6 +101,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 05时41分]"
+        },
+        {
+          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 16时02分]"
         },
         {
           "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
@@ -138,17 +151,26 @@
           "time_info": "[00时46分 ~ 06时34分]"
         },
         {
-          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
-          "url": "https://wallstreetcn.com/articles/3770826",
-          "source": "华尔街见闻",
+          "title": "伊朗议会要员：外长访巴不涉核谈事宜",
+          "url": "https://news.ifeng.com/c/8sbTn7bD0ut",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            4,
             3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时34分 ~ 14时17分]"
+          "time_info": "[09时30分 ~ 16时02分]"
+        },
+        {
+          "title": "团结还是分裂？新旧秩序交叠下的伊朗政权谜题",
+          "url": "https://news.ifeng.com/c/8sbUcjlB3Oo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 16时02分]"
         },
         {
           "title": "伊朗代表团暂不与美方接触",
@@ -174,17 +196,6 @@
           "time_info": "[00时46分 ~ 04时38分]"
         },
         {
-          "title": "伊朗议会要员：外长访巴不涉核谈事宜",
-          "url": "https://news.ifeng.com/c/8sbTn7bD0ut",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 14时17分]"
-        },
-        {
           "title": "伊朗媒体：阿拉格齐暂无与美方会谈日程",
           "url": "https://flash.jin10.com/detail/20260425040958208800",
           "source": "金十数据",
@@ -198,15 +209,20 @@
           "time_info": "[04时38分 ~ 09时31分]"
         },
         {
-          "title": "团结还是分裂？新旧秩序交叠下的伊朗政权谜题",
-          "url": "https://news.ifeng.com/c/8sbUcjlB3Oo",
-          "source": "凤凰网",
+          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
+          "url": "https://wallstreetcn.com/livenews/3094320",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            4,
+            11,
+            17,
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[06时34分 ~ 16时02分]"
         },
         {
           "title": "伊朗战争丨地缘政治冲突让美国四大军火商赚麻了",
@@ -245,30 +261,38 @@
           "time_info": "[05时41分 ~ 09时31分]"
         },
         {
-          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
-          "url": "https://wallstreetcn.com/livenews/3094320",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
+          "url": "https://www.cls.cn/detail/2355560",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            4,
-            11,
-            17,
-            18
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时34分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 16时02分]"
         },
         {
-          "title": "伊朗驻俄大使：伊朗最高领袖或与普京在里海峰会期间首次会晤",
-          "url": "https://wallstreetcn.com/livenews/3094341",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗战争丨凤凰直击德黑兰恢复赴华航班",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "16时02分"
+        },
+        {
+          "title": "据半岛电视台：伊朗处决一名被指控为以色列“代理人”的男子。",
+          "url": "https://flash.jin10.com/detail/20260425153233247800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -283,17 +307,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时46分 ~ 04时38分]"
-        },
-        {
-          "title": "伊朗最高领袖或与普京会晤",
-          "url": "https://www.toutiao.com/trending/7632236319007182399/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
         },
         {
           "title": "以总理称与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -329,6 +342,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "美以袭击伊朗进入第 57 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2031139008277739488",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 16时02分]"
+        },
+        {
           "title": "美国财政部网站发布新的伊朗相关制裁措施。",
           "url": "https://flash.jin10.com/detail/20260425020408958800",
           "source": "金十数据",
@@ -349,18 +373,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
-          "url": "https://www.cls.cn/detail/2355560",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 14时17分]"
         },
         {
           "title": "伊朗议会媒体办公室否认了关于卡利巴夫辞去谈判团队负责人职务的报道，并表示尚未安排新的谈判轮次。",
@@ -385,6 +397,30 @@
           "time_info": "03时46分"
         },
         {
+          "title": "伊朗最高领袖发表致辞",
+          "url": "https://www.toutiao.com/trending/7632123301925801514/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 16时02分]"
+        },
+        {
           "title": "巴基斯坦外交部：伊朗外长阿拉格齐将与巴基斯坦高级领导层举行会议，讨论最新的地区发展及为地区和平与稳定所做的持续努力。",
           "url": "https://flash.jin10.com/detail/20260425025309983800",
           "source": "金十数据",
@@ -394,6 +430,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "观察｜团结还是分裂？新旧秩序交叠下的伊朗政权谜题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33046359",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 16时02分]"
         },
         {
           "title": "美联储：美国上周银行存款19.099万亿美元，之前一周19.056万亿美元。",
@@ -410,6 +459,20 @@
           "time_info": "[04时38分 ~ 07时34分]"
         },
         {
+          "title": "伊朗国防部称仍掌控霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3094329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 16时02分]"
+        },
+        {
           "title": "伊朗国防部：伊朗仍留存了大部分导弹能力",
           "url": "https://wallstreetcn.com/livenews/3094305",
           "source": "华尔街见闻-快讯",
@@ -423,6 +486,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时41分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://wallstreetcn.com/livenews/3094328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 16时02分]"
         },
         {
           "title": "伊朗：不与美国官员会面，但将通过巴基斯坦转达意见",
@@ -481,27 +558,16 @@
           "time_info": "[06时34分 ~ 14时17分]"
         },
         {
-          "title": "美以袭击伊朗进入第 57 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2031139008277739488",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 14时17分]"
-        },
-        {
-          "title": "伊朗最高领袖发表致辞",
-          "url": "https://www.toutiao.com/trending/7632123301925801514/",
+          "title": "伊朗最高领袖或与普京会晤",
+          "url": "https://www.toutiao.com/trending/7632236319007182399/",
           "source": "今日头条",
           "ranks": [
-            6,
+            2,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 14时17分]"
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 16时02分]"
         },
         {
           "title": "埃尼集团：市场低估了伊朗战争对能源价格的影响",
@@ -515,19 +581,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 02时39分]"
-        },
-        {
-          "title": "伊朗国防部称仍掌控霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3094329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时17分]"
         },
         {
           "title": "伊朗最高领袖发表致辞：伊朗人民构筑全国防线 给予敌人沉重打击",
@@ -578,17 +631,16 @@
           "time_info": "[03时46分 ~ 04时38分]"
         },
         {
-          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
-          "url": "https://wallstreetcn.com/livenews/3094328",
+          "title": "伊朗驻俄大使：伊朗最高领袖或与普京在里海峰会期间首次会晤",
+          "url": "https://wallstreetcn.com/livenews/3094341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            10,
+            1,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时17分]"
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 16时02分]"
         },
         {
           "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -649,17 +701,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时46分]"
-        },
-        {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 14时17分]"
         },
         {
           "title": "白宫表示，特朗普政府将迅速准备就庇护裁决提出上诉。",
@@ -760,6 +801,20 @@
           "time_info": "[04时38分 ~ 07时34分]"
         },
         {
+          "title": "伊朗议会要员：外长访巴不涉核谈事宜",
+          "url": "https://wallstreetcn.com/livenews/3094326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 16时02分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
           "url": "https://wallstreetcn.com/livenews/3094244",
           "source": "华尔街见闻-快讯",
@@ -782,18 +837,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时38分]"
-        },
-        {
-          "title": "观察｜团结还是分裂？新旧秩序交叠下的伊朗政权谜题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33046359",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 14时17分]"
         },
         {
           "title": "特朗普：只要半句话，美国就能省下1590亿美元",
@@ -831,17 +874,30 @@
           "time_info": "[07时34分 ~ 09时31分]"
         },
         {
-          "title": "伊朗议会要员：外长访巴不涉核谈事宜",
-          "url": "https://wallstreetcn.com/livenews/3094326",
+          "title": "美军称拦截一艘驶向伊朗港口的伊朗船只",
+          "url": "https://wallstreetcn.com/livenews/3094335",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12,
-            13
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时31分 ~ 14时17分]"
+          "time_info": "[12时31分 ~ 16时02分]"
+        },
+        {
+          "title": "伊朗最高领袖或与普京会晤",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%88%96%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 16时02分]"
         },
         {
           "title": "伊朗革命卫队：扣押一艘疑似与美军多次合作的船只",
@@ -867,18 +923,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时30分 ~ 14时17分]"
-        },
-        {
-          "title": "美军称拦截一艘驶向伊朗港口的伊朗船只",
-          "url": "https://wallstreetcn.com/livenews/3094335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时17分]"
         },
         {
           "title": "美伊谈判有望：伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -927,6 +971,18 @@
           "time_info": "[01时44分 ~ 02时39分]"
         },
         {
+          "title": "巴基斯坦新闻部分享伊朗外长抵达伊斯兰堡后的会见图片",
+          "url": "https://flash.jin10.com/detail/20260425132420868800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 16时02分]"
+        },
+        {
           "title": "特朗普政府冻结3.44亿美元加密货币，借口是与伊朗有关联。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3094210",
           "source": "华尔街见闻-快讯",
@@ -949,6 +1005,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时46分]"
+        },
+        {
+          "title": "解析特朗普与教皇冲突",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%95%99%E7%9A%87%E5%86%B2%E7%AA%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 16时02分]"
         },
         {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
@@ -1011,18 +1079,6 @@
           "time_info": "[00时46分 ~ 01时44分]"
         },
         {
-          "title": "伊朗最高领袖或与普京会晤",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%88%96%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 14时17分]"
-        },
-        {
           "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
           "url": "https://flash.jin10.com/detail/20260425025242021800",
           "source": "金十数据",
@@ -1056,17 +1112,6 @@
           "time_info": "03时46分"
         },
         {
-          "title": "巴基斯坦新闻部分享伊朗外长抵达伊斯兰堡后的会见图片",
-          "url": "https://flash.jin10.com/detail/20260425132420868800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "【伊朗革命卫队：扣押一艘疑似与美军多次合作的船只】伊朗伊斯兰革命卫队当地时间24日夜间发布消息称，一艘疑似与美军合作的船只在违反规定并忽视伊朗方面警告后被扣押。声明称，根据革命卫队海军过去六个月的情报监控，该船只多次往返美国港口，因无视警告及多次违反海事规定，已被革命卫队海军扣押。对此，美国方面暂无回应。（央视）",
           "url": "https://wallstreetcn.com/livenews/3094304",
           "source": "华尔街见闻-快讯",
@@ -1076,6 +1121,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "伊朗德黑兰机场恢复国际航班",
+          "url": "https://wallstreetcn.com/livenews/3094345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "伊朗最高领袖或与普京首次会晤！被曝“身负重伤”：一条腿已手术3次将安假肢，面部烧伤说话困难",
+          "url": "https://wallstreetcn.com/articles/3770885",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "意大利会取代伊朗踢世界杯吗",
@@ -1177,6 +1244,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "巴基斯坦陆军参谋长与伊朗外长会谈",
+          "url": "https://wallstreetcn.com/livenews/3094342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "伊朗方面否认卡利巴夫辞去谈判代表团团长一职",
           "url": "https://flash.jin10.com/detail/20260425024402114800",
           "source": "金十数据",
@@ -1265,6 +1343,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "伊朗德黑兰机场恢复国际航班",
+          "url": "https://flash.jin10.com/detail/20260425143648276800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐将与巴基斯坦官员会晤。",
           "url": "https://flash.jin10.com/detail/20260425023321713800",
           "source": "金十数据",
@@ -1282,9 +1371,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗方面表示，已处决一名被指控在近期全国抗议活动中从事破坏活动的以色列特工。",
+          "url": "https://flash.jin10.com/detail/20260425143410943800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "美国媒体称伊朗议长将缺席下一轮巴基斯坦会谈，但被伊朗媒体否认",
@@ -1326,7 +1426,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -1381,7 +1481,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -1430,6 +1530,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "伊朗媒体称巴基斯坦陆军参谋长与伊朗外长会面",
+          "url": "https://flash.jin10.com/detail/20260425140536021800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "特朗普派特使和女婿前往巴基斯坦 与伊朗进行更多谈判",
           "url": "https://flash.jin10.com/detail/20260424235210132800",
           "source": "金十数据",
@@ -1450,6 +1561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗代表团在伊斯兰堡会见了巴基斯坦陆军参谋长穆尼尔。",
+          "url": "https://flash.jin10.com/detail/20260425135711845800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "美联储监察长：正积极推进完成对美联储总部大楼翻修问题的调查。",
@@ -1538,17 +1660,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "解析特朗普与教皇冲突",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%95%99%E7%9A%87%E5%86%B2%E7%AA%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐奇将以外交代表团团长身份出访。",
