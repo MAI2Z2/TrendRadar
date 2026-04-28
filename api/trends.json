@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T07:45:02.815394+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-04-28T10:04:40.443902+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 94,
+      "match_count": 110,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -42,6 +42,19 @@
           "time_info": "[00时28分 ~ 07时45分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时04分]"
+        },
+        {
           "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
           "url": "https://news.ifeng.com/c/8sf2y52FJcG",
           "source": "凤凰网",
@@ -51,6 +64,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 06时42分]"
+        },
+        {
+          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
+          "url": "https://wallstreetcn.com/articles/3770985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时04分]"
         },
         {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
@@ -68,41 +95,16 @@
           "time_info": "[00时28分 ~ 07时45分]"
         },
         {
-          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
-          "url": "https://wallstreetcn.com/articles/3770985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时45分]"
-        },
-        {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
           "url": "https://www.toutiao.com/trending/7633444247001189938/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时45分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 10时04分]"
         },
         {
           "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
@@ -181,6 +183,17 @@
           "time_info": "[00时28分 ~ 06时42分]"
         },
         {
+          "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
+          "url": "https://www.cls.cn/detail/2357460",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "美国务卿鲁比奥：美国不会允许伊朗控制霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260427235356688800",
           "source": "金十数据",
@@ -209,7 +222,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -242,9 +255,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "特朗普：希望白宫记者协会晚宴在“约30天内”重启",
+          "url": "https://wallstreetcn.com/livenews/3095346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "迪士尼股价短线下挫，从涨约0.5%转而下跌约0.4%。 美国总统特朗普声称，ABC与迪士尼应当立即解雇Jimmy Kimmel，Kimmel一点都不风趣。",
@@ -391,6 +437,41 @@
           "time_info": "[06时42分 ~ 07时45分]"
         },
         {
+          "title": "伊朗战争丨美伊在核不扩散条约审议大会上交锋",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时04分]"
+        },
+        {
+          "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
+          "url": "https://www.cls.cn/detail/2357269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时04分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时04分]"
+        },
+        {
           "title": "普京会见伊朗外长阿拉格齐",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90",
           "source": "百度热搜",
@@ -415,28 +496,6 @@
           "time_info": "[05时47分 ~ 06时42分]"
         },
         {
-          "title": "伊朗战争丨美伊在核不扩散条约审议大会上交锋",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
           "title": "美国财长贝森特：上周五与欧盟委员会副主席谢夫乔维奇举行会谈。强调了应对伊朗对霍尔木兹海峡构成的威胁的必要性，并着重指出美国担任G20轮值主席国期间将重点关注粮食与化肥供应链问题。",
           "url": "https://flash.jin10.com/detail/20260428033348055800",
           "source": "金十数据",
@@ -459,17 +518,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时45分]"
-        },
-        {
-          "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
-          "url": "https://www.cls.cn/detail/2357269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
         },
         {
           "title": "MSCI新兴市场股票指数收涨1.2%，突破美国与以色列发动伊朗战争之前出现的顶部，台积电、SK海力士等亚洲半导体概念股贡献突出。 MSCI新兴市场外汇指数涨0.3%，马来西亚林吉特、泰国泰铢、以色列谢克尔等货币涨幅居前。",
@@ -600,6 +648,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2357445",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：你们将很快听到美国总统特朗普关于伊朗的消息。",
           "url": "https://flash.jin10.com/detail/20260428012929234800",
           "source": "金十数据",
@@ -694,7 +753,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -721,6 +780,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "伊朗向美国提3个条件",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%9B%BD%E6%8F%903%E4%B8%AA%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：此外，两国之间的合作也得到了考虑，并且提出了许多非常好的建议。",
           "url": "https://flash.jin10.com/detail/20260427234723216800",
           "source": "金十数据",
@@ -741,6 +811,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "达利欧警告“滞胀已至”：此时降息将损害美联储信誉",
+          "url": "https://www.cls.cn/detail/2357402",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "伊朗外长阿拉格齐：会谈涵盖了双边关系、地区问题以及有关美国政权和以色列的战争与侵略行为等诸多议题，并且对所有这些内容都进行了详细的讨论和回顾。",
@@ -771,7 +863,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -798,6 +890,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：我不会说美国正在考虑伊朗的提议。",
           "url": "https://flash.jin10.com/detail/20260428012607940800",
           "source": "金十数据",
@@ -820,6 +923,28 @@
           "time_info": "04时04分"
         },
         {
+          "title": "特朗普被曝不满意伊朗提案：因为接受就“赢麻”不了",
+          "url": "https://flash.jin10.com/detail/20260428092800071800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "伊朗边见普京边提方案 美闭门研判",
+          "url": "https://www.toutiao.com/trending/7633580302010420745/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "据沙特媒体哈达斯（alhadath）：巴林外交大臣表示，国际社会必须意识到伊朗关闭霍尔木兹海峡的严重后果。",
           "url": "https://flash.jin10.com/detail/20260427234110331800",
           "source": "金十数据",
@@ -829,6 +954,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美驱逐舰拦截一艘驶往伊朗港口油轮",
+          "url": "https://wallstreetcn.com/livenews/3095328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美国白宫：特朗普的红线已经明确。",
@@ -859,9 +995,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
+          "url": "https://wallstreetcn.com/livenews/3095326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美国白宫：正在讨论伊朗的提议。",
@@ -906,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "主持人读枪手宣言让特朗普破防",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AF%BB%E6%9E%AA%E6%89%8B%E5%AE%A3%E8%A8%80%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E7%A0%B4%E9%98%B2",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "特朗普寻求为移民执法工作拨款 要求共和党人齐心支持",
@@ -1040,6 +1198,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "特朗普第三度与“死神”擦肩",
+          "url": "https://www.toutiao.com/trending/7633592087165799955/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "城堡证券：伊朗冲突风险消退，股债市场有望同步上涨",
           "url": "https://wallstreetcn.com/livenews/3095141",
           "source": "华尔街见闻-快讯",
@@ -1071,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
+          "url": "https://flash.jin10.com/detail/20260428091425679800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美国国务卿卢比奥：美国无法容忍伊朗将控制霍尔木兹海峡的做法常态化。",
