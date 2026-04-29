@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T04:55:11.991253+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-30T05:54:36.686136+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 75,
+      "match_count": 94,
       "titles": [
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
         },
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
         },
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -49,8 +49,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
+        },
+        {
+          "title": "伊朗：将以前所未有军事行动回应美",
+          "url": "https://www.toutiao.com/trending/7633112393258172443/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
         },
         {
           "title": "美联储主席鲍威尔：这将取决于事态的发展。",
@@ -64,15 +76,65 @@
           "time_info": "03时11分"
         },
         {
-          "title": "伊朗外长：美以在40多天内对伊“犯下最严重反人类罪行”",
-          "url": "https://wallstreetcn.com/livenews/3096941",
-          "source": "华尔街见闻-快讯",
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
           "ranks": [
-            1
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032594578629292226",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
+        },
+        {
+          "title": "伊朗：将以前所未有的军事行动回应美",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
+        },
+        {
+          "title": "特朗普再次无视英王室规矩拍国王肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
+        },
+        {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时54分]"
         },
         {
           "title": "美联储主席鲍威尔：我们处于一个可以朝任何方向行动的良好位置。",
@@ -86,15 +148,26 @@
           "time_info": "03时11分"
         },
         {
-          "title": "伊朗海军司令警告美军“勿进一步行动”",
-          "url": "https://wallstreetcn.com/livenews/3096940",
+          "title": "特朗普称乌克兰在军事上已败？或将伊朗混淆",
+          "url": "https://flash.jin10.com/detail/20260430052917316800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美国总统特朗普告诉以色列总理内塔尼亚胡：只能对黎巴嫩实施“外科手术式”袭击。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096964",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时55分"
+          "time_info": "05时54分"
         },
         {
           "title": "美联储主席鲍威尔：目前没有人呼吁加息。",
@@ -108,29 +181,6 @@
           "time_info": "03时11分"
         },
         {
-          "title": "伊媒：已有6名遭美军扣押伊朗船员获释",
-          "url": "https://wallstreetcn.com/livenews/3096939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "伊朗：将以前所未有军事行动回应美",
-          "url": "https://www.toutiao.com/trending/7633112393258172443/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
-        },
-        {
           "title": "美联储主席鲍威尔：如果需要加息，我们会发出信号并采取行动，反之亦然。",
           "url": "https://flash.jin10.com/detail/20260430030114200800",
           "source": "金十数据",
@@ -142,63 +192,15 @@
           "time_info": "03时11分"
         },
         {
-          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
-          "url": "https://www.zhihu.com/question/2032828585195434245",
-          "source": "知乎",
+          "title": "据美军中央司令部29日在社交媒体上发布消息，自美国对伊朗港口实施海上封锁以来，已有42艘“试图违反封锁令”的商船被指示调转航向。",
+          "url": "https://flash.jin10.com/detail/20260430052145567800",
+          "source": "金十数据",
           "ranks": [
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032594578629292226",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
-        },
-        {
-          "title": "伊朗：将以前所未有的军事行动回应美",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
-        },
-        {
-          "title": "特朗普再次无视英王室规矩拍国王肩膀",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
-        },
-        {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "伊朗战争丨伊朗议长：敌人正发起新一轮攻势，我们要团结",
@@ -208,8 +210,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 05时54分]"
+        },
+        {
+          "title": "伊朗外长：美以在40多天内对伊“犯下最严重反人类罪行”",
+          "url": "https://wallstreetcn.com/livenews/3096941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时54分]"
+        },
+        {
+          "title": "伊朗海军司令警告美军“勿进一步行动”",
+          "url": "https://wallstreetcn.com/livenews/3096940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时54分]"
+        },
+        {
+          "title": "伊媒：已有6名遭美军扣押伊朗船员获释",
+          "url": "https://wallstreetcn.com/livenews/3096939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时54分]"
         },
         {
           "title": "特朗普支持率降至任内新低",
@@ -217,11 +255,34 @@
           "source": "抖音",
           "ranks": [
             7,
-            11
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 05时54分]"
+        },
+        {
+          "title": "美联储主席人选沃什通过参议院关键关卡 换帅进入倒计时",
+          "url": "https://www.cls.cn/detail/2360167",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 05时54分]"
+        },
+        {
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时11分 ~ 04时55分]"
+          "time_info": "[04时54分 ~ 05时54分]"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -235,15 +296,15 @@
           "time_info": "[01时19分 ~ 03时11分]"
         },
         {
-          "title": "美联储主席人选沃什通过参议院关键关卡 换帅进入倒计时",
-          "url": "https://www.cls.cn/detail/2360167",
+          "title": "美联储如期维持利率不变 内部分歧创1992年以来新高",
+          "url": "https://www.cls.cn/detail/2360231",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时11分 ~ 04时55分]"
+          "time_info": "[04时54分 ~ 05时54分]"
         },
         {
           "title": "伊朗战争丨五角大楼：伊朗战事已“烧掉”250亿美元",
@@ -257,33 +318,11 @@
           "time_info": "[01时19分 ~ 01时20分]"
         },
         {
-          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
-          "url": "https://www.zhihu.com/question/2032422954055776061",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 04时55分]"
-        },
-        {
           "title": "新美联储通讯社：美联储本周料按兵不动，关键分歧在于“降息搁浅，还是仅推迟”",
           "url": "https://wallstreetcn.com/articles/3771174",
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 04时55分]"
-        },
-        {
-          "title": "美联储如期维持利率不变 内部分歧创1992年以来新高",
-          "url": "https://www.cls.cn/detail/2360231",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -301,6 +340,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "特朗普称同伊朗的谈判正通过电话进行",
+          "url": "https://flash.jin10.com/detail/20260430051203198800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "美联储主席鲍威尔：我们的沟通良好。",
           "url": "https://flash.jin10.com/detail/20260430030025472800",
           "source": "金十数据",
@@ -310,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "伊朗议长回击美国“储油爆炸论”：油价140美元见",
+          "url": "https://flash.jin10.com/detail/20260430050825900800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "美联储主席鲍威尔：每次会议的新闻发布会已成为“行业规范”。",
@@ -345,13 +406,24 @@
           "time_info": "03时11分"
         },
         {
+          "title": "【特朗普：同伊朗的谈判正通过电话进行】美国总统特朗普29日表示，美国同伊朗正在通过电话进行谈判，同时强调伊朗方面必须明确承诺彻底放弃核武器。 特朗普当天在白宫椭圆形办公室对媒体说，美伊一直在进行对话，现在通过电话进行沟通，“不再像以前那样，每次想看一份文件都要飞18个小时去开会”。他说，这种方式非常便捷，“我打个电话，或让我的人去打，15分钟内就能知道答案”，但“我向来更倾向于面对面交流”。 特朗普说，目前双方谈判已经取得一些进展，但问题是伊朗方面所做让步是否能满足美方要求。“目前而言，除非他们明确承诺彻底放弃核武器，否则双方绝无可能达成任何协议。” 伊朗日前经由巴基斯坦向美国提出一份新谈判方案。据媒体披露，方案提议分三阶段渐进展开谈判：第一阶段谈结束战争，第二阶段聚焦霍尔木兹海峡通航，第三阶段涉及伊朗核问题。白宫新闻秘书莱维特27日证实，特朗普当天召集国家安全团队讨论伊朗提出的新方案。美国官员稍后告诉媒体，特朗普对这一方案不满意，原因是方案前两个阶段不涉及伊朗核问题。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3096956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "美元指数29日上涨",
           "url": "https://flash.jin10.com/detail/20260430041002212800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -389,6 +461,28 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国财长贝森特：鲍威尔留在美联储理事会将是非常不寻常的。",
+          "url": "https://flash.jin10.com/detail/20260430045015555800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "周三（4月29日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.8474元，较周二纽约尾盘跌72点，日内整体交投于6.8313-6.8493元区间，美联储宣布按兵不动、鲍威尔新闻发布会结束后继续走低，逼近4月8日底部6.8563元。",
+          "url": "https://wallstreetcn.com/livenews/3096953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "美联储主席鲍威尔：劳动力市场显示出越来越多的稳定迹象。",
           "url": "https://flash.jin10.com/detail/20260430025739511800",
           "source": "金十数据",
@@ -400,6 +494,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "白宫高级官员表示，美国寻求没收在海上扣押的与伊朗有关的油轮。",
+          "url": "https://flash.jin10.com/detail/20260430044919881800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "分析师：美联储分歧出人意料 沃什上任后料困难重重",
           "url": "https://flash.jin10.com/detail/20260430025737362800",
           "source": "金十数据",
@@ -409,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "美国财长贝森特：我相信伊朗冲突后油价会下降。",
+          "url": "https://flash.jin10.com/detail/20260430044841642800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "比尔·阿克曼：在资本市场，我们有庞大的追随者基数。 对市场而言，伊朗局势是（悬在头上）最大的风险。 我们处于一个“愚蠢的、廉价的市场底部”的上方。 投资IPO将需要数周时间，而非数月。",
@@ -428,9 +544,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "周三（4月29日）纽约尾盘，现货黄金下跌1.15%，报4544.05美元/盎司，整体持续走低，交投于4610.29-4510.32美元，美股盘初刷新日低，美联储发布决议声明、鲍威尔新闻发布会期间交投于4540美元附近。 现货白银跌2.44%，报71.2949美元/盎司，13:45刷新日高至73.9497美元，随后在02:45（鲍威尔新闻发布会期间）刷新日低至70.8690美元。",
+          "url": "https://wallstreetcn.com/livenews/3096951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "美联储主席鲍威尔：我们可以在这里观望，看看事情如何发展再采取行动。",
@@ -477,6 +604,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国财长贝森特：我们每天都在对伊朗施加更多经济压力。",
+          "url": "https://flash.jin10.com/detail/20260430044728383800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "鲍威尔：在决定继续留任美联储理事方面，并不是因为理事库克（被特朗普政府起诉）的缘故。",
           "url": "https://wallstreetcn.com/livenews/3096880",
           "source": "华尔街见闻-快讯",
@@ -494,9 +632,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "美国财政部长贝森特声称：凯文·沃什将及时成为美联储主席。 美联储主席鲍威尔任期届满后，若继续担任美联储理事将有失体面、违反惯例。",
+          "url": "https://wallstreetcn.com/livenews/3096948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "美联储主席鲍威尔：我们需要静观其变。",
@@ -527,9 +676,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "美国企图没收在海上扣押的、与伊朗相关的油轮。财长贝森特认为，油价将在伊朗冲突结束后下跌。WTI原油跌破108美元/桶关口，目前报107.99美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3096947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "美联储主席鲍威尔：核心通胀上升的前景是现实的。",
@@ -543,6 +703,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国财长贝森特：我们正全力以赴与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260430044608638800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "鲍威尔：美联储新的领导层将不得不在利率指引方面发挥重要作用。",
           "url": "https://wallstreetcn.com/livenews/3096878",
           "source": "华尔街见闻-快讯",
@@ -552,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。",
+          "url": "https://wallstreetcn.com/livenews/3096945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "市场消息：美国最高法院似乎对特朗普政府撤销对叙利亚人和海地人的人道主义驱逐保护措施表示理解。",
@@ -576,6 +758,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "加拿大政府：禁止伊朗革命卫队官员入境。",
+          "url": "https://flash.jin10.com/detail/20260430044545534800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "特朗普拒绝伊朗提议，称将继续封锁霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3096814",
           "source": "华尔街见闻-快讯",
@@ -585,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美国财政部长贝森特宣称：与伊朗的磋商正冲向终点线。 （特朗普政府）每天都在加大对伊朗的经济压力。",
+          "url": "https://wallstreetcn.com/livenews/3096944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
           "title": "美联储主席鲍威尔：主席有一票，并且要有能力使美联储达成共识。",
@@ -615,7 +819,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -631,13 +835,24 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国财长贝森特：消费者和股市（投资者）正在关注伊朗。",
+          "url": "https://flash.jin10.com/detail/20260430044453564800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
           "title": "【普京：特朗普延长对伊朗及周边地区停火的决定是正确的】俄罗斯总统助理乌沙科夫29日晚通报说，俄总统普京与美国总统特朗普当天举行电话会谈，双方就白宫记协晚宴枪击事件、伊朗局势、乌克兰问题等议题交换意见。 据乌沙科夫介绍，特朗普在通话中向普京介绍了他对中东局势的看法。普京认为，特朗普延长对伊朗及周边地区停火的决定是正确的，这将有助于稳定局势。普京还表示，针对伊朗采取地面军事行动的选项是完全不可接受且极其危险的。 乌沙科夫说，此次通话是由俄方发起，持续超过一个半小时，双方对话“坦诚且务实”。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3096914",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -681,7 +896,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -714,7 +929,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -747,7 +962,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -769,7 +984,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -802,7 +1017,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -813,7 +1028,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -835,7 +1050,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         }
