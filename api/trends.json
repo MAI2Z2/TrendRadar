@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T18:18:04.615214+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-05-01T19:53:08.041500+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 129,
+      "match_count": 134,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时50分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[05时50分 ~ 19时53分]"
         },
         {
           "title": "美联储宣布维持利率不变",
@@ -124,6 +124,29 @@
           "time_info": "[00时24分 ~ 14时02分]"
         },
         {
+          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
+          "url": "https://www.cls.cn/detail/2361658",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 19时53分]"
+        },
+        {
+          "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
+          "url": "https://news.ifeng.com/c/8slqGlLgVRj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 19时53分]"
+        },
+        {
           "title": "鲍威尔“告别会”现34年最大分歧，美联储再次按兵不动，但四票委反对决议声明",
           "url": "https://wallstreetcn.com/articles/3771302",
           "source": "华尔街见闻",
@@ -146,16 +169,16 @@
           "time_info": "[00时24分 ~ 02时06分]"
         },
         {
-          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
-          "url": "https://www.cls.cn/detail/2361658",
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 19时53分]"
         },
         {
           "title": "还是不解气，特朗普又炮轰默茨",
@@ -202,17 +225,6 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
-          "url": "https://news.ifeng.com/c/8slqGlLgVRj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
-        },
-        {
           "title": "伊朗住联合国代表指责部分阿拉伯国家参与对伊“侵略”行动",
           "url": "https://flash.jin10.com/detail/20260501095116924800",
           "source": "金十数据",
@@ -222,6 +234,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 19时53分]"
         },
         {
           "title": "以媒：美国“即将决定”是否重启对伊朗军事行动",
@@ -235,6 +259,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "土耳其外交消息人士：土耳其外交部长在与伊朗外长的通话中讨论了美伊谈判的最新情况。",
+          "url": "https://flash.jin10.com/detail/20260501192240316800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "周四（4月30日）纽约尾盘，ICE美元指数跌0.88%，报98.090点，4月份累计下跌1.88%，整体交投区间为100.273-97.632点，大部分时间交投于99点下方。",
           "url": "https://wallstreetcn.com/livenews/3097685",
           "source": "华尔街见闻-快讯",
@@ -244,18 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 18时18分]"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -313,6 +336,19 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊朗总统：美国海上封锁“不可容忍”",
+          "url": "https://www.toutiao.com/trending/7633995165912465444/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 19时53分]"
+        },
+        {
           "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
           "url": "https://wallstreetcn.com/livenews/3097732",
           "source": "华尔街见闻-快讯",
@@ -337,6 +373,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时44分 ~ 10时09分]"
+        },
+        {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 19时53分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
@@ -387,6 +434,17 @@
           "time_info": "[05时51分 ~ 06时44分]"
         },
         {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 19时53分]"
+        },
+        {
           "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
           "url": "https://flash.jin10.com/detail/20260501052348245800",
           "source": "金十数据",
@@ -411,16 +469,16 @@
           "time_info": "[06时44分 ~ 07时44分]"
         },
         {
-          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            13
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时02分 ~ 18时18分]"
+          "time_info": "[18时17分 ~ 19时53分]"
         },
         {
           "title": "特朗普称美国结束对伊朗战争",
@@ -456,18 +514,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时50分 ~ 06时44分]"
-        },
-        {
-          "title": "伊朗总统：美国海上封锁“不可容忍”",
-          "url": "https://www.toutiao.com/trending/7633995165912465444/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时18分]"
         },
         {
           "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
@@ -527,6 +573,17 @@
           "time_info": "[18时17分 ~ 18时18分]"
         },
         {
+          "title": "伊朗战争丨伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
+        },
+        {
           "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
           "url": "https://news.ifeng.com/c/8slUlo0THc1",
           "source": "凤凰网",
@@ -536,17 +593,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时02分 ~ 16时20分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "特朗普：不在乎鲍威尔是否留任理事",
@@ -573,15 +619,16 @@
           "time_info": "[07时44分 ~ 10时09分]"
         },
         {
-          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
-          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
-          "source": "凤凰网",
+          "title": "伊朗外长同欧盟外交与安全政策高级代表通话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3097860",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
+          "time_info": "[18时18分 ~ 19时53分]"
         },
         {
           "title": "伊朗股市暂停交易至5月4日",
@@ -594,6 +641,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 10时09分]"
+        },
+        {
+          "title": "伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
+          "url": "https://wallstreetcn.com/livenews/3097859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时53分]"
         },
         {
           "title": "伊朗称其40%的贸易可转向陆路运输",
@@ -654,6 +713,17 @@
           "time_info": "[14时02分 ~ 16时20分]"
         },
         {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
+        },
+        {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
           "url": "https://wallstreetcn.com/livenews/3097733",
           "source": "华尔街见闻-快讯",
@@ -664,17 +734,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时44分]"
-        },
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "伊朗最高领袖：将确保波斯湾区域安全",
@@ -721,17 +780,6 @@
           "time_info": "04时07分"
         },
         {
-          "title": "伊朗外长同欧盟外交与安全政策高级代表通话 讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3097860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "国际足联主席因凡蒂诺：伊朗将参加世界杯，并将在美国比赛。",
           "url": "https://flash.jin10.com/detail/20260501014421006800",
           "source": "金十数据",
@@ -774,17 +822,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
-        },
-        {
-          "title": "伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
-          "url": "https://wallstreetcn.com/livenews/3097859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "美国官员：伊朗战争成本接近500亿美元。",
@@ -859,7 +896,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -870,7 +907,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -903,7 +940,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -947,7 +984,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1024,9 +1061,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "埃克森美孚和雪佛龙顶住美国总统特朗普施压，拒绝提高石油产量。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3097875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "美国总统特朗普称美联储主席提名人沃什可能需要在白宫有个办公室。",
@@ -1156,7 +1204,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1343,7 +1391,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1354,7 +1402,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1409,9 +1457,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外交部长阿拉格齐与欧盟外交与安全政策高级代表拉斯于周五上午进行了电话交谈，就最新的地区和国际局势发展交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260501184624753800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
@@ -1442,7 +1501,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1467,6 +1526,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3097879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     }
