@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T22:07:38.597365+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-05-02T23:39:47.562254+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 203,
+      "match_count": 208,
       "titles": [
         {
           "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时43分 ~ 22时07分]"
+          "appearance_count": 16,
+          "time_info": "[07时43分 ~ 23时39分]"
         },
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时56分 ~ 22时07分]"
+          "appearance_count": 14,
+          "time_info": "[09时56分 ~ 23时39分]"
         },
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时55分 ~ 22时07分]"
+          "appearance_count": 12,
+          "time_info": "[12时55分 ~ 23时39分]"
         },
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
@@ -112,11 +112,12 @@
           "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时56分 ~ 22时07分]"
+          "appearance_count": 14,
+          "time_info": "[09时56分 ~ 23时39分]"
         },
         {
           "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
@@ -133,8 +134,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时55分 ~ 22时07分]"
+          "appearance_count": 12,
+          "time_info": "[12时55分 ~ 23时39分]"
+        },
+        {
+          "title": "伊朗战争丨美媒急了：美军短板暴露了，对手正近距观察",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 23时39分]"
         },
         {
           "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
@@ -145,8 +157,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时59分 ~ 22时07分]"
+          "appearance_count": 22,
+          "time_info": "[02时59分 ~ 23时39分]"
         },
         {
           "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
@@ -166,11 +178,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时56分 ~ 22时07分]"
+          "appearance_count": 14,
+          "time_info": "[09时56分 ~ 23时39分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -224,15 +237,18 @@
           "time_info": "[00时46分 ~ 09时57分]"
         },
         {
-          "title": "伊朗战争丨美媒急了：美军短板暴露了，对手正近距观察",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9,
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时38分 ~ 22时07分]"
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 23时39分]"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
@@ -264,20 +280,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 22时07分]"
-        },
-        {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -361,6 +363,19 @@
           "time_info": "[04时05分 ~ 07时44分]"
         },
         {
+          "title": "新美联储通讯社：从“降不降息”到“加息条件”，美联储内部讨论重心转向",
+          "url": "https://wallstreetcn.com/articles/3771482",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 23时39分]"
+        },
+        {
           "title": "资深共和党官员理查德·沃尔特斯（Richard Walters）有望加入白宫 ，担任特朗普政府的副幕僚长。",
           "url": "https://flash.jin10.com/detail/20260502034714929800",
           "source": "金十数据",
@@ -428,6 +443,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时05分 ~ 07时44分]"
+        },
+        {
+          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 23时39分]"
         },
         {
           "title": "美国总统特朗普：（关于精神航空）将于周五晚些时候发布公告。",
@@ -542,17 +570,15 @@
           "time_info": "[05时45分 ~ 09时57分]"
         },
         {
-          "title": "新美联储通讯社：从“降不降息”到“加息条件”，美联储内部讨论重心转向",
-          "url": "https://wallstreetcn.com/articles/3771482",
-          "source": "华尔街见闻",
+          "title": "新战线突然开辟，特朗普怒率美国“两线作战”",
+          "url": "https://news.ifeng.com/c/8so6eb1hVjp",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时38分 ~ 22时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我感到不满。",
@@ -588,6 +614,20 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
+          "url": "https://wallstreetcn.com/livenews/3098148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时39分]"
+        },
+        {
           "title": "德国副总理：我们不需要特朗普的建议",
           "url": "https://news.ifeng.com/c/8smc3QaBEXs",
           "source": "凤凰网",
@@ -599,16 +639,32 @@
           "time_info": "[02时59分 ~ 05时45分]"
         },
         {
-          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
-          "source": "澎湃新闻",
+          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
+          "url": "https://wallstreetcn.com/livenews/3098147",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            19
+            3,
+            12,
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时38分 ~ 22时07分]"
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时39分]"
+        },
+        {
+          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
+          "url": "https://wallstreetcn.com/livenews/3098146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时39分]"
         },
         {
           "title": "美国总统特朗普对古巴官员、企业、政府的支持者实施广泛制裁。",
@@ -662,32 +718,6 @@
           "time_info": "[12时55分 ~ 16时21分]"
         },
         {
-          "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
-          "url": "https://wallstreetcn.com/livenews/3098148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 22时07分]"
-        },
-        {
-          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
-          "url": "https://wallstreetcn.com/livenews/3098147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 22时07分]"
-        },
-        {
           "title": "特朗普声称伊朗领导层“四分五裂” 但都想达成协议",
           "url": "https://flash.jin10.com/detail/20260502012836759800",
           "source": "金十数据",
@@ -735,19 +765,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 16时21分]"
-        },
-        {
-          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
-          "url": "https://wallstreetcn.com/livenews/3098146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 22时07分]"
         },
         {
           "title": "美媒：美军在中东8国16处军事设施在伊朗袭击中受损",
@@ -947,6 +964,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 14时59分]"
+        },
+        {
+          "title": "伊朗不回避谈判但反对美方胁迫",
+          "url": "https://wallstreetcn.com/livenews/3098152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 23时39分]"
         },
         {
           "title": "伊朗高级军事官员：伊美间再次爆发军事冲突可能性很大",
@@ -1151,16 +1181,16 @@
           "time_info": "[14时59分 ~ 16时21分]"
         },
         {
-          "title": "伊朗不回避谈判但反对美方胁迫",
-          "url": "https://wallstreetcn.com/livenews/3098152",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国外长：我向伊朗外长表示，考虑到对全球安全和经济的影响，希望地区的和平与稳定能够尽快恢复。",
+          "url": "https://flash.jin10.com/detail/20260502211446744800",
+          "source": "金十数据",
           "ranks": [
             8,
-            12
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时50分 ~ 22时07分]"
+          "time_info": "[22时07分 ~ 23时39分]"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”，美军最大航母“福特”号离开中东",
@@ -1326,6 +1356,18 @@
           "time_info": "[09时56分 ~ 09时57分]"
         },
         {
+          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
+          "url": "https://www.cls.cn/detail/2362106",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时39分]"
+        },
+        {
           "title": "伊朗赞詹省发生弹药爆炸事故，已致14人死亡",
           "url": "https://wallstreetcn.com/livenews/3098003",
           "source": "华尔街见闻-快讯",
@@ -1475,6 +1517,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
+          "url": "https://www.zhihu.com/question/2033868695617933924",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "伊朗递交最新伊美谈判方案",
           "url": "https://www.toutiao.com/trending/7634159062485450795/",
           "source": "今日头条",
@@ -1530,6 +1583,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362134",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "美国总统特朗普：（关于对欧盟汽车的关税）欧盟未遵守协议。",
           "url": "https://flash.jin10.com/detail/20260502002828872800",
           "source": "金十数据",
@@ -1552,17 +1616,6 @@
           "time_info": "01时52分"
         },
         {
-          "title": "韩国外长：我向伊朗外长表示，考虑到对全球安全和经济的影响，希望地区的和平与稳定能够尽快恢复。",
-          "url": "https://flash.jin10.com/detail/20260502211446744800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
           "title": "欧洲央行管委Olaf Sleijpen：对（欧元区）通胀的影响取决于（伊朗战争）危机持续的时间。",
           "url": "https://wallstreetcn.com/livenews/3097963",
           "source": "华尔街见闻-快讯",
@@ -1580,7 +1633,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -1613,7 +1666,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -1706,6 +1759,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "美国威胁制裁向伊朗缴通行费的航运企业",
+          "url": "https://flash.jin10.com/detail/20260502223228748800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "伊朗最高领袖：当前阶段需要推动“经济抗争”",
           "url": "https://wallstreetcn.com/livenews/3098017",
           "source": "华尔街见闻-快讯",
@@ -1717,15 +1781,15 @@
           "time_info": "04时05分"
         },
         {
-          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
-          "url": "https://www.cls.cn/detail/2362106",
-          "source": "财联社热门",
+          "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
+          "url": "https://www.zhihu.com/question/2033826035330978433",
+          "source": "知乎",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时07分"
+          "time_info": "23时39分"
         },
         {
           "title": "美国总统特朗普：不确定我们是否能达成协议。",
@@ -1767,7 +1831,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
