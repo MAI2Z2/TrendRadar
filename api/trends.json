@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T06:04:39.826511+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-05-05T07:45:11.973554+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 101,
+      "match_count": 114,
       "titles": [
         {
           "title": "阿联酋国防部：监测到4枚来自伊朗的巡航导弹",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
         },
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
         },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
         },
         {
           "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
         },
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
@@ -71,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
         },
         {
           "title": "美计划在中东部署“暗鹰”高超音速导弹，伊朗有办法对付吗？",
@@ -82,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
         },
         {
           "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
@@ -95,6 +95,108 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 05时01分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时04分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗：发射两枚导弹击中美国军舰",
+          "url": "https://www.toutiao.com/trending/7635981615012793894/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗称美军舰遭导弹攻击",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E8%88%B0%E9%81%AD%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗武装部队警告美军不要接近或进入霍尔木兹海峡，称已导弹打击美舰，美媒否认被击中，双方是否会再次开战？",
+          "url": "https://www.zhihu.com/question/2034644150029480155",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
+        },
+        {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普又有新绰号：NACHO",
+          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
+        },
+        {
+          "title": "伊媒：美舰在霍尔木兹海峡附近遭伊朗导弹攻击，被迫返航",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097368",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗称2枚导弹击中美军舰",
+          "url": "https://www.douyin.com/hot/2488612",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时45分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -119,15 +221,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
+          "url": "https://flash.jin10.com/detail/20260505073807180800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "07时45分"
         },
         {
           "title": "美联储威廉姆斯：美联储政策在战争不确定性下取得平衡",
@@ -163,39 +265,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "伊朗：发射两枚导弹击中美国军舰",
-          "url": "https://www.toutiao.com/trending/7635981615012793894/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
-        },
-        {
-          "title": "伊朗称美军舰遭导弹攻击",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E8%88%B0%E9%81%AD%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
-        },
-        {
-          "title": "伊朗武装部队警告美军不要接近或进入霍尔木兹海峡，称已导弹打击美舰，美媒否认被击中，双方是否会再次开战？",
-          "url": "https://www.zhihu.com/question/2034644150029480155",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
-        },
-        {
           "title": "伊朗第一副总统：管控霍尔木兹海峡是伊朗的合法权利",
           "url": "https://flash.jin10.com/detail/20260505010122729800",
           "source": "金十数据",
@@ -229,29 +298,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "伊朗外长：霍尔木兹海峡发生的一系列事件表明，政治危机无法通过武力行动来解决。 随着谈判在巴基斯坦的努力下取得进展，美国和阿联酋都应当“警惕别被别有用心之人拖回泥潭”。",
-          "url": "https://wallstreetcn.com/livenews/3098658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
-        },
-        {
           "title": "特朗普：若伊朗攻击美国军舰，将被“从地球上抹去”",
           "url": "https://flash.jin10.com/detail/20260505005901420800",
           "source": "金十数据",
@@ -272,17 +318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
         },
         {
           "title": "据以色列媒体Kann：阿联酋国防委员会主席向其以色列对口官员表示，将对伊朗进行反击。",
@@ -307,27 +342,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "特朗普又有新绰号：NACHO",
-          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
-          "source": "凤凰网",
+          "title": "美情报评估显示：本轮军事打击未进一步削弱伊朗核能力",
+          "url": "https://wallstreetcn.com/livenews/3098669",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
-        },
-        {
-          "title": "伊媒：美舰在霍尔木兹海峡附近遭伊朗导弹攻击，被迫返航",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097368",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -336,17 +359,6 @@
           "ranks": [
             13,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 06时04分]"
-        },
-        {
-          "title": "伊朗称2枚导弹击中美军舰",
-          "url": "https://www.douyin.com/hot/2488612",
-          "source": "抖音",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -390,6 +402,18 @@
           "time_info": "[05时01分 ~ 06时04分]"
         },
         {
+          "title": "伊朗外长：霍尔木兹海峡发生的一系列事件表明，政治危机无法通过武力行动来解决。 随着谈判在巴基斯坦的努力下取得进展，美国和阿联酋都应当“警惕别被别有用心之人拖回泥潭”。",
+          "url": "https://wallstreetcn.com/livenews/3098658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时45分]"
+        },
+        {
           "title": "据沙特国家通讯社：沙特王储与阿联酋总统通话，谴责伊朗对阿联酋的“无理”攻击。",
           "url": "https://flash.jin10.com/detail/20260505042641898800",
           "source": "金十数据",
@@ -411,6 +435,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时16分 ~ 06时04分]"
+        },
+        {
+          "title": "沙特通讯社：沙特王储强烈谴责伊朗袭击阿联酋",
+          "url": "https://wallstreetcn.com/livenews/3098655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时45分]"
         },
         {
           "title": "美国总统特朗普：数亿桶石油正从委内瑞拉流出。",
@@ -448,6 +484,18 @@
           "time_info": "[05时00分 ~ 05时01分]"
         },
         {
+          "title": "古根海姆CIO Anne Walsh：预计美联储将在2026年降息一次。",
+          "url": "https://wallstreetcn.com/livenews/3098645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时45分]"
+        },
+        {
           "title": "伊朗向美军舰发射导弹",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%86%9B%E8%88%B0%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9",
           "source": "百度热搜",
@@ -471,15 +519,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "沙特通讯社：沙特王储强烈谴责伊朗袭击阿联酋",
-          "url": "https://wallstreetcn.com/livenews/3098655",
+          "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
+          "url": "https://wallstreetcn.com/livenews/3098668",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "07时45分"
         },
         {
           "title": "美军称击沉6艘伊朗小型船只",
@@ -510,7 +558,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -548,6 +596,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
+          "url": "https://wallstreetcn.com/livenews/3098664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "美联储威廉姆斯：正在出现显著的供应链中断。",
           "url": "https://flash.jin10.com/detail/20260505005244792800",
           "source": "金十数据",
@@ -576,7 +635,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -590,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
+          "url": "https://wallstreetcn.com/livenews/3098663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "美联储威廉姆斯：经济表现出较强韧性。",
@@ -620,7 +690,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -691,6 +761,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "英国政府：英国首相表示，局势的升级必须停止；伊朗需要积极参与谈判，以确保中东停火能够持续。",
+          "url": "https://flash.jin10.com/detail/20260505065704602800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "阿联酋谴责伊朗袭击该国民用设施",
           "url": "https://wallstreetcn.com/livenews/3098586",
           "source": "华尔街见闻-快讯",
@@ -733,17 +814,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "古根海姆CIO Anne Walsh：预计美联储将在2026年降息一次。",
-          "url": "https://wallstreetcn.com/livenews/3098645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
         },
         {
           "title": "美联储威廉姆斯：前尚无法判断伊朗战争对美国经济的影响将如何演变。",
@@ -845,6 +915,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "阿联酋自美伊临时停火以来首次遇袭，特朗普拒明确停火有效性",
+          "url": "https://flash.jin10.com/detail/20260505063650538800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "美国总统特朗普：重申伊朗不能拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3098620",
           "source": "华尔街见闻-快讯",
@@ -865,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "特朗普：美国与伊朗处于“迷你战争”状态",
+          "url": "https://wallstreetcn.com/livenews/3098665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "阿联酋外交部：伊朗的袭击标志着严重升级，并对阿联酋安全构成直接威胁。",
@@ -911,6 +1003,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美联储6月维持利率不变的概率为95.2%",
+          "url": "https://flash.jin10.com/detail/20260505060820598800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "【无人机袭击，致阿联酋富查伊拉石油工业区起火】阿联酋富查伊拉媒体办公室4日证实，富查伊拉石油工业区发生火灾，原因是受到一架来自伊朗方向的无人机袭击。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3098541",
           "source": "华尔街见闻-快讯",
@@ -955,6 +1058,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "美国总统特朗普：伊朗战争可能还会持续两到三周。",
+          "url": "https://flash.jin10.com/detail/20260505060625240800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：巴林宣布进入警戒状态，因担忧可能遭受袭击。",
           "url": "https://flash.jin10.com/detail/20260505003523304800",
           "source": "金十数据",
@@ -964,6 +1078,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
+          "url": "https://flash.jin10.com/detail/20260505060622689800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "【伊朗军事官员：阿联酋石油设施起火是美国军事冒险所致】当地时间4日，一位知情的伊朗军事官员就阿联酋富查伊拉港石油设施发生大规模火灾的消息向媒体表示，伊朗事先并无预谋袭击富查伊拉港的石油设施，该地所发生的事件是因美国军方的冒险行为所致——美军试图开辟一条非法通道，让船只通过霍尔木兹海峡的禁行航道，美军必须对此负责。 这名伊朗军事官员称，美国政治家必须停止在外交中诉诸武力的恶劣行为，并停止在这一影响全球经济的敏感产油区进行军事冒险。（央视）",
@@ -997,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "以媒：美以权衡对伊朗实施打击",
+          "url": "https://flash.jin10.com/detail/20260505060542807800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "特朗普：提议韩国加入在霍尔木兹海峡的护航行动",
@@ -1052,6 +1188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：霍尔木兹的局势清楚地表明，政治危机无法通过军事手段解决。在巴基斯坦的积极努力下，谈判正取得进展，美国应警惕被别有用心者拖回泥潭，阿联酋方面也应如此。“自由计划”就是一个“僵局计划”。",
+          "url": "https://flash.jin10.com/detail/20260505055458753800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "周一（5月4日），美联储隔夜逆回购协议（RRP）使用规模为6.18亿美元（交易对手11家）。",
