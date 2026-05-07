@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T00:02:43.481923+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-08T01:52:11.127193+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 27,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗战争丨特朗普与教皇争吵后，鲁比奥访问梵蒂冈",
@@ -15,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时52分]"
+        },
+        {
+          "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时52分]"
+        },
+        {
+          "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
+          "url": "https://wallstreetcn.com/articles/3771758",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时52分]"
+        },
+        {
+          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
+          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时52分]"
         },
         {
           "title": "伊朗议会国家安全官员：没有任何铀运出伊朗。",
@@ -41,17 +74,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
           "title": "市场消息：美国财长贝森特与美国商务部长卢特尼克与特朗普一同在白宫会见巴西总统卢拉。",
           "url": "https://flash.jin10.com/detail/20260507235115956800",
           "source": "金十数据",
@@ -63,37 +85,27 @@
           "time_info": "00时02分"
         },
         {
-          "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
-          "url": "https://wallstreetcn.com/articles/3771758",
-          "source": "华尔街见闻",
+          "title": "据华尔街日报：美国总统特朗普政府目前正计划最早在本周重启“自由行动”项目，该项目旨在引导商船通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260508013005867800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
-          "url": "https://news.ifeng.com/c/8swPaRUXu6L",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时52分"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
           "url": "https://wallstreetcn.com/articles/3771687",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时52分]"
         },
         {
           "title": "四名知情人士表示，美国中央情报局（CIA）本周的一份机密分析认为，伊朗至少可以在美国海上封锁下维持三至四个月，之后才会面临更严重的经济困境。（华盛顿邮报）",
@@ -114,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时52分]"
         },
         {
           "title": "特朗普访华前瞻——台湾怎么办？",
@@ -125,8 +137,63 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时52分]"
+        },
+        {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时52分]"
+        },
+        {
+          "title": "伊朗总统和最高领袖举行会面",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%92%8C%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时52分]"
+        },
+        {
+          "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
+          "url": "https://www.zhihu.com/question/2035679898308704139",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "伊朗国防部：美国需与以色列划清界限",
+          "url": "https://www.toutiao.com/trending/7636412979739181098/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "美联储戴利：目前尚无迹象表明能源价格飙升正在推高中长期通胀预期。",
+          "url": "https://flash.jin10.com/detail/20260508012527853800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时52分"
         },
         {
           "title": "伊朗外交部发言人7日对伊朗媒体表示，伊朗尚未就美方提出的方案得出结论，也未对美方作出回应。（新华社）",
@@ -151,6 +218,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美联储戴利：当前货币政策“略显紧缩”，若美国与伊朗的冲突得以解决，将对通胀形成下行压力。",
+          "url": "https://flash.jin10.com/detail/20260508012443286800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
           "title": "美国能源部长：目前未与伊朗就能源问题进行直接对话",
           "url": "https://wallstreetcn.com/livenews/3100096",
           "source": "华尔街见闻-快讯",
@@ -162,15 +240,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
-          "url": "https://wallstreetcn.com/articles/3771704",
-          "source": "华尔街见闻",
+          "title": "美联储卡什卡利：通胀水平依然过高。",
+          "url": "https://flash.jin10.com/detail/20260508012348702800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时52分"
         },
         {
           "title": "伊朗针对霍尔木兹海峡通行制定新规要求提交多类信息。",
@@ -184,22 +262,44 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美联储戴利：致力于将通胀率恢复到美联储的2%目标。",
+          "url": "https://flash.jin10.com/detail/20260508012226405800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的7.73亿美元。",
+          "url": "https://flash.jin10.com/detail/20260508012052540800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "周四（5月7日），美联储隔夜逆回购协议（RRP）使用规模为7.73亿美元（交易对手6家），上个交易日报16.33亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
           "title": "据CNN报道，伊朗对霍尔木兹海峡通行实施新规。船只必须完成申请以确保安全通行。 另据华尔街日报，伊朗高级官员称，美国无法凭借“不切实际的计划”重开霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3100092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "伊朗总统和最高领袖举行会面",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%92%8C%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -217,6 +317,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "WTI原油期货转涨，布伦特原油期货重返100美元整数位心理关口上方。 据华尔街日报，伊朗拒绝美国关于霍尔木兹海峡的方案，认为其不切实际。",
+          "url": "https://wallstreetcn.com/livenews/3100128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
           "title": "美情报称伊朗可在特朗普封锁下至少支撑三至四个月",
           "url": "https://flash.jin10.com/detail/20260507233601543800",
           "source": "金十数据",
@@ -226,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美联储数据显示，5月6日当周，美国经季节性调整的商业票据未偿还余额增加73亿美元；美国未经季节性调整的外国金融商业票据未偿还余额减少111亿美元；美国未经季节性调整的商业票据未偿还余额减少210亿美元。",
+          "url": "https://flash.jin10.com/detail/20260508010702305800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "美联储：美国长期通胀预期保持稳定",
@@ -250,6 +372,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "据华尔街日报：巴林和美国支持要求伊朗开放霍尔木兹海峡的新决议。",
+          "url": "https://flash.jin10.com/detail/20260508010527764800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
           "title": "报道：美国司法部正调查与伊朗战争相关的26亿美元石油交易",
           "url": "https://wallstreetcn.com/livenews/3100081",
           "source": "华尔街见闻-快讯",
@@ -270,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "【伊朗官员：没有任何铀被移送出伊朗】伊朗伊斯兰议会议员贝赫纳姆·赛义迪表示，没有任何铀被移送出伊朗。贝赫纳姆·赛义迪表示，铀浓缩权利、完全解除制裁以及释放国家资产，是不可谈判的红线。贝赫纳姆·赛义迪还说，美方关于“400公斤铀从伊朗运出”的说法纯属“政治吹嘘与彻头彻尾的谎言”，没有任何铀被移送出国。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3100118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "美联储哈马克：银行系统是强劲的，健康的。",
