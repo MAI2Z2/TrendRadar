@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T10:04:12.067815+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-05-09T13:42:09.664358+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 106,
+      "match_count": 115,
       "titles": [
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -52,6 +52,20 @@
           "time_info": "[01时04分 ~ 10时04分]"
         },
         {
+          "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
+          "url": "https://wallstreetcn.com/articles/3771862",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时14分 ~ 13时42分]"
+        },
+        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://www.cls.cn/detail/2366051",
           "source": "财联社热门",
@@ -74,18 +88,18 @@
           "time_info": "[01时04分 ~ 06时47分]"
         },
         {
-          "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
-          "url": "https://wallstreetcn.com/articles/3771862",
-          "source": "华尔街见闻",
+          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            4,
-            3,
-            2
+            20,
+            19,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时14分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 13时42分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -104,19 +118,6 @@
           "time_info": "[01时04分 ~ 10时04分]"
         },
         {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 10时04分]"
-        },
-        {
           "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
           "url": "https://m.thepaper.cn/newsDetail_forward_33113410",
           "source": "澎湃新闻",
@@ -124,11 +125,12 @@
             17,
             18,
             16,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 13时42分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -166,6 +168,17 @@
           "time_info": "[07时48分 ~ 10时04分]"
         },
         {
+          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
           "title": "伊朗：已做好全面准备回击任何侵略",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%85%A8%E9%9D%A2%E5%87%86%E5%A4%87%E5%9B%9E%E5%87%BB%E4%BB%BB%E4%BD%95%E4%BE%B5%E7%95%A5",
           "source": "百度热搜",
@@ -175,6 +188,40 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 06时47分]"
+        },
+        {
+          "title": "现场画面：伊朗海军扣押一艘油轮",
+          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
+          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 13时42分]"
         },
         {
           "title": "美联储Goolsbee：乐观预计通胀进展将促成降息，但这还没有发生。 通胀是当下的热点话题。",
@@ -241,7 +288,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -474,17 +521,6 @@
           "time_info": "[07时48分 ~ 10时04分]"
         },
         {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
           "title": "美国总统特朗普谈汉坦病毒，宣称：情况良好可控。",
           "url": "https://wallstreetcn.com/livenews/3100955",
           "source": "华尔街见闻-快讯",
@@ -519,6 +555,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 10时04分]"
+        },
+        {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "美国总统特朗普称赞股市上涨，称赞就业数据。",
@@ -592,6 +639,17 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
           "title": "【美联储：与私人信用赎回相关的风险“是可控的”】美联储调查受访者在2026年春季调查中将地缘政治风险列为首位，较 2025 年秋季调查上升一位；人工智能（AI）从第 5 位升至第 3 位；私人信用从第 9 位升至第 4 位；通胀/紧缩政策从第 3 位降至第 5 位。 石油冲击在春季调查中被列为第 2 大风险；而在秋季调查中并未进入主要关注名单。 根据美联储半年一度的报告，地缘政治风险、石油冲击、人工智能、私人信用以及持续的通胀/货币紧缩是美国金融稳定面临的五大最受关注风险。 私人信用赎回请求对金融稳定构成的风险似乎有限且可控。 政策不确定性在春季调查中降至第 8 位风险；其在秋季曾是首要关注点。",
           "url": "https://wallstreetcn.com/livenews/3100904",
           "source": "华尔街见闻-快讯",
@@ -638,6 +696,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "伊朗称美军打击伊朗6艘民用船",
+          "url": "https://wallstreetcn.com/livenews/3101008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "美联储古尔斯比：愿意考虑沃什关于调整美联储沟通策略的建议。",
           "url": "https://flash.jin10.com/detail/20260509024104399800",
           "source": "金十数据",
@@ -666,7 +735,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -754,7 +823,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -768,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "伊朗官员：最高领袖非常健康",
+          "url": "https://wallstreetcn.com/livenews/3101004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "美联储古尔斯比：仅仅认为美联储面前只有降息是不对的。",
@@ -787,7 +867,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -820,7 +900,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -845,6 +925,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "伊朗称美军打击伊朗6艘民用船",
+          "url": "https://flash.jin10.com/detail/20260509125121027800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "美国总统特朗普：经海路流入美国的毒品数量下降了97%。",
@@ -897,7 +988,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -985,7 +1076,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -1040,7 +1131,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -1073,7 +1164,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -1166,13 +1257,24 @@
           "time_info": "04时50分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：一位军方消息人士透露，波斯湾地区的冲突目前虽已平息，但如果美国对伊朗船只制造麻烦，冲突仍有可能重燃。",
+          "url": "https://flash.jin10.com/detail/20260509114826104800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "伊朗议员：哈尔克岛附近油污实为欧洲油轮排放物",
           "url": "https://flash.jin10.com/detail/20260509081247654800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -1205,7 +1307,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
