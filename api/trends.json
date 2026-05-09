@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T13:42:09.664358+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-05-09T15:46:30.786239+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 115,
+      "match_count": 122,
       "titles": [
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时14分 ~ 13时42分]"
+          "appearance_count": 12,
+          "time_info": "[03时14分 ~ 15时46分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -98,8 +98,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 13时42分]"
+          "appearance_count": 14,
+          "time_info": "[01时04分 ~ 15时46分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -157,6 +157,18 @@
           "time_info": "[01时04分 ~ 04时50分]"
         },
         {
+          "title": "现场画面：伊朗海军扣押一艘油轮",
+          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时46分]"
+        },
+        {
           "title": "伊朗战争丨因储油罐已满而向大海排石油？伊朗回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -168,15 +180,17 @@
           "time_info": "[07时48分 ~ 10时04分]"
         },
         {
-          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
           "source": "凤凰网",
           "ranks": [
-            1
+            8,
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 15时46分]"
         },
         {
           "title": "伊朗：已做好全面准备回击任何侵略",
@@ -190,38 +204,28 @@
           "time_info": "[01时04分 ~ 06时47分]"
         },
         {
-          "title": "现场画面：伊朗海军扣押一艘油轮",
-          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            2
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时46分]"
         },
         {
           "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
           "url": "https://news.ifeng.com/c/8syp7qZWoVz",
           "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时03分 ~ 13时42分]"
+          "time_info": "[13时41分 ~ 15时46分]"
         },
         {
           "title": "美联储Goolsbee：乐观预计通胀进展将促成降息，但这还没有发生。 通胀是当下的热点话题。",
@@ -401,6 +405,17 @@
           "time_info": "[06时47分 ~ 07时48分]"
         },
         {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时46分]"
+        },
+        {
           "title": "标普：（关于以色列）预计美国-伊朗和以色列-哈马斯停火协议将广泛生效。",
           "url": "https://flash.jin10.com/detail/20260509040832297800",
           "source": "金十数据",
@@ -521,6 +536,18 @@
           "time_info": "[07时48分 ~ 10时04分]"
         },
         {
+          "title": "伊朗称美军打击伊朗6艘民用船",
+          "url": "https://wallstreetcn.com/livenews/3101008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 15时46分]"
+        },
+        {
           "title": "美国总统特朗普谈汉坦病毒，宣称：情况良好可控。",
           "url": "https://wallstreetcn.com/livenews/3100955",
           "source": "华尔街见闻-快讯",
@@ -531,6 +558,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 10时04分]"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "美国总统特朗普：与巴西总统卢拉讨论了所有事，包括关税。",
@@ -545,6 +583,18 @@
           "time_info": "[07时48分 ~ 10时04分]"
         },
         {
+          "title": "伊朗官员：最高领袖非常健康",
+          "url": "https://wallstreetcn.com/livenews/3101004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 15时46分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能大到（美方的要求）。",
           "url": "https://wallstreetcn.com/livenews/3100953",
           "source": "华尔街见闻-快讯",
@@ -555,17 +605,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 10时04分]"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "美国总统特朗普称赞股市上涨，称赞就业数据。",
@@ -650,6 +689,17 @@
           "time_info": "[13时41分 ~ 13时42分]"
         },
         {
+          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
+          "url": "https://www.zhihu.com/question/2036400046988579032",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
           "title": "【美联储：与私人信用赎回相关的风险“是可控的”】美联储调查受访者在2026年春季调查中将地缘政治风险列为首位，较 2025 年秋季调查上升一位；人工智能（AI）从第 5 位升至第 3 位；私人信用从第 9 位升至第 4 位；通胀/紧缩政策从第 3 位降至第 5 位。 石油冲击在春季调查中被列为第 2 大风险；而在秋季调查中并未进入主要关注名单。 根据美联储半年一度的报告，地缘政治风险、石油冲击、人工智能、私人信用以及持续的通胀/货币紧缩是美国金融稳定面临的五大最受关注风险。 私人信用赎回请求对金融稳定构成的风险似乎有限且可控。 政策不确定性在春季调查中降至第 8 位风险；其在秋季曾是首要关注点。",
           "url": "https://wallstreetcn.com/livenews/3100904",
           "source": "华尔街见闻-快讯",
@@ -685,6 +735,17 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "特朗普也嫌世界杯票价贵",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%9F%E5%AB%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A5%A8%E4%BB%B7%E8%B4%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
           "title": "美联储古尔斯比：美联储资产负债表可以缩小，但是否必须缩小尚不明确。",
           "url": "https://flash.jin10.com/detail/20260509024202076800",
           "source": "金十数据",
@@ -696,17 +757,6 @@
           "time_info": "03时14分"
         },
         {
-          "title": "伊朗称美军打击伊朗6艘民用船",
-          "url": "https://wallstreetcn.com/livenews/3101008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
           "title": "美联储古尔斯比：愿意考虑沃什关于调整美联储沟通策略的建议。",
           "url": "https://flash.jin10.com/detail/20260509024104399800",
           "source": "金十数据",
@@ -716,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "鲁比奥访意公开施压 质疑为何不支持对伊朗动武",
+          "url": "https://wallstreetcn.com/livenews/3101019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "特朗普称俄乌9日起停火三天并交换战俘",
@@ -738,6 +799,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "鲁比奥访意公开施压 质疑为何不支持对伊朗动武",
+          "url": "https://flash.jin10.com/detail/20260509145205803800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "美国总统特朗普针对122关税条款的判决结果提出上诉。",
@@ -771,6 +843,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "伊朗驻华大使：绝不会向我们朋友的船只开火，有国家在“挑拨离间”",
+          "url": "https://flash.jin10.com/detail/20260509144812959800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "【伊朗议员：美对伊海上封锁行动将遭军事回应】伊朗议会国家安全委员会成员哈兹里安当地时间8日在接受当地媒体采访时表示，“从现在起，美国对伊朗海上封锁的行动将遭到伊朗的军事回应。美国应该为其驱逐舰提供多艘护航舰艇，以便在驱逐舰沉没时能够营救其舰员”。公开资料显示，该议员并不在伊朗政府中担任职务，无法确定其表态是否代表伊朗官方立场。（央视）",
@@ -837,17 +920,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "伊朗官员：最高领袖非常健康",
-          "url": "https://wallstreetcn.com/livenews/3101004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
         },
         {
           "title": "美联储古尔斯比：仅仅认为美联储面前只有降息是不对的。",
@@ -933,7 +1005,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
@@ -1191,6 +1263,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "美国银行：美联储不太可能在2027年前降息",
+          "url": "https://flash.jin10.com/detail/20260509133424322800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "报道：伊朗准备制定有关霍尔木兹海峡“法律制度”的计划",
           "url": "https://wallstreetcn.com/livenews/3100816",
           "source": "华尔街见闻-快讯",
@@ -1263,7 +1346,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
