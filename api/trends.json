@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T19:42:55.302202+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-05-09T20:56:57.986767+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 135,
+      "match_count": 139,
       "titles": [
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时14分 ~ 19时42分]"
+          "appearance_count": 16,
+          "time_info": "[03时14分 ~ 20时56分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -77,6 +77,18 @@
           "time_info": "[01时04分 ~ 07时48分]"
         },
         {
+          "title": "现场画面：伊朗海军扣押一艘油轮",
+          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 20时56分]"
+        },
+        {
           "title": "伊朗战争丨美军再次对多艘伊朗油轮发动空袭",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -88,16 +100,17 @@
           "time_info": "[01时04分 ~ 06时47分]"
         },
         {
-          "title": "现场画面：伊朗海军扣押一艘油轮",
-          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
           "source": "凤凰网",
           "ranks": [
-            2,
-            5
+            8,
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时03分 ~ 20时56分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -114,17 +127,16 @@
           "time_info": "[01时04分 ~ 15时46分]"
         },
         {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
+          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
           "source": "凤凰网",
           "ranks": [
-            8,
-            5,
-            9
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 20时56分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -183,18 +195,6 @@
           "time_info": "[13时41分 ~ 19时42分]"
         },
         {
-          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
-          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 19时42分]"
-        },
-        {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
           "url": "https://wallstreetcn.com/articles/3771778",
           "source": "华尔街见闻",
@@ -224,8 +224,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时41分 ~ 20时56分]"
         },
         {
           "title": "伊朗：已做好全面准备回击任何侵略",
@@ -343,6 +343,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://wallstreetcn.com/livenews/3101068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美中央司令部：对伊朗军事设施实施定点打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
           "source": "澎湃新闻",
@@ -374,11 +385,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 20时56分]"
         },
         {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
@@ -441,6 +453,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 10时04分]"
+        },
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时11分 ~ 20时56分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -539,18 +563,6 @@
           "time_info": "[04时50分 ~ 07时48分]"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 19时42分]"
-        },
-        {
           "title": "伊朗称美军打击伊朗6艘民用船",
           "url": "https://wallstreetcn.com/livenews/3101008",
           "source": "华尔街见闻-快讯",
@@ -599,6 +611,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时11分 ~ 19时42分]"
+        },
+        {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 20时56分]"
         },
         {
           "title": "中情局报告泄了特朗普的底",
@@ -708,6 +732,18 @@
           "time_info": "[13时42分 ~ 15时46分]"
         },
         {
+          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
+          "url": "https://flash.jin10.com/detail/20260509183051864800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时56分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能大到（美方的要求）。",
           "url": "https://wallstreetcn.com/livenews/3100953",
           "source": "华尔街见闻-快讯",
@@ -791,17 +827,6 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
-          "title": "俄方同意特朗普提出的停火方案",
-          "url": "https://www.toutiao.com/trending/7637290812788162601/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
           "title": "【美联储：与私人信用赎回相关的风险“是可控的”】美联储调查受访者在2026年春季调查中将地缘政治风险列为首位，较 2025 年秋季调查上升一位；人工智能（AI）从第 5 位升至第 3 位；私人信用从第 9 位升至第 4 位；通胀/紧缩政策从第 3 位降至第 5 位。 石油冲击在春季调查中被列为第 2 大风险；而在秋季调查中并未进入主要关注名单。 根据美联储半年一度的报告，地缘政治风险、石油冲击、人工智能、私人信用以及持续的通胀/货币紧缩是美国金融稳定面临的五大最受关注风险。 私人信用赎回请求对金融稳定构成的风险似乎有限且可控。 政策不确定性在春季调查中降至第 8 位风险；其在秋季曾是首要关注点。",
           "url": "https://wallstreetcn.com/livenews/3100904",
           "source": "华尔街见闻-快讯",
@@ -846,6 +871,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
+          "title": "伊朗战争丨中东战火不断，为何全球股市不跌反涨？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美联储古尔斯比：美联储资产负债表可以缩小，但是否必须缩小尚不明确。",
@@ -947,6 +983,17 @@
           "time_info": "15时46分"
         },
         {
+          "title": "伊朗官员：全国油田生产持续 暂无哈尔克岛石油泄漏相关报告",
+          "url": "https://flash.jin10.com/detail/20260509193905160800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "【伊朗议员：美对伊海上封锁行动将遭军事回应】伊朗议会国家安全委员会成员哈兹里安当地时间8日在接受当地媒体采访时表示，“从现在起，美国对伊朗海上封锁的行动将遭到伊朗的军事回应。美国应该为其驱逐舰提供多艘护航舰艇，以便在驱逐舰沉没时能够营救其舰员”。公开资料显示，该议员并不在伊朗政府中担任职务，无法确定其表态是否代表伊朗官方立场。（央视）",
           "url": "https://wallstreetcn.com/livenews/3100834",
           "source": "华尔街见闻-快讯",
@@ -967,6 +1014,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "停火期间遇袭，伊朗会强硬反击吗？伊朗大使回应凤凰",
+          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国总统特朗普：去买台戴尔电脑吧。",
@@ -1022,17 +1080,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
-          "url": "https://flash.jin10.com/detail/20260509183051864800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "伊朗外长：美军事行动严重威胁国际航行自由",
@@ -1206,7 +1253,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
