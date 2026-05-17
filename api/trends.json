@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T05:46:00.307813+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-05-18T06:45:11.206702+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时45分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时45分]"
         },
         {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时45分]"
         },
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -60,8 +60,58 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时45分]"
+        },
+        {
+          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时45分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时45分]"
+        },
+        {
+          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
+          "url": "https://www.zhihu.com/question/2039007666429583394",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时45分]"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 06时45分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -77,87 +127,53 @@
           "time_info": "[00时47分 ~ 05时46分]"
         },
         {
-          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时46分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时46分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时46分]"
-        },
-        {
-          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
-          "url": "https://www.zhihu.com/question/2039007666429583394",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时46分]"
-        },
-        {
-          "title": "特朗普会晤国安高层后发文警告伊朗快点行动，否则将一无所有",
-          "url": "https://flash.jin10.com/detail/20260518041826426800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
-          "url": "https://wallstreetcn.com/livenews/3104904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
           "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
           "url": "https://wallstreetcn.com/livenews/3104883",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
             17,
-            25
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时47分 ~ 06时45分]"
+        },
+        {
+          "title": "美联储6月维持利率不变的概率为99.2%",
+          "url": "https://flash.jin10.com/detail/20260518060446302800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://wallstreetcn.com/livenews/3104917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
+          "url": "https://www.zhihu.com/question/2038636185115779503",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时47分 ~ 05时46分]"
+          "time_info": "[02时56分 ~ 06时45分]"
         },
         {
           "title": "特朗普的格陵兰岛特使抵达当地首府努克",
@@ -178,11 +194,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时45分]"
         },
         {
           "title": "卡塔尔外交部发表声明称，卡塔尔首相与巴基斯坦总理谢赫巴兹·谢里夫通电话，讨论巴基斯坦在伊朗战争中的调解努力。卡塔尔首相重申卡塔尔全力支持巴基斯坦为通过和平手段结束危机而进行的调解努力。",
@@ -245,6 +262,18 @@
           "time_info": "[02时56分 ~ 04时02分]"
         },
         {
+          "title": "特朗普会晤国安高层后发文警告伊朗快点行动，否则将一无所有",
+          "url": "https://flash.jin10.com/detail/20260518041826426800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时45分]"
+        },
+        {
           "title": "伊朗国防部：伊朗完全准备好应对任何新的侵略。",
           "url": "https://flash.jin10.com/detail/20260518021341985800",
           "source": "金十数据",
@@ -267,6 +296,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
+          "url": "https://wallstreetcn.com/livenews/3104904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时45分]"
         },
         {
           "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
@@ -305,16 +346,43 @@
           "time_info": "[00时47分 ~ 04时02分]"
         },
         {
-          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
-          "url": "https://www.zhihu.com/question/2038636185115779503",
-          "source": "知乎",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐在与韩国外长的通话中指出，该地区所遭受的不安全状况及其引发的全球性后果，均源于美国及犹太复国主义政权针对伊朗采取的侵略行径。国际社会必须追究其违反国际法及所犯罪行的责任。",
+          "url": "https://flash.jin10.com/detail/20260518033524325800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19
+            6,
+            15,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时56分 ~ 05时46分]"
+          "time_info": "[04时02分 ~ 06时45分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐与土耳其外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260518032430766800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时45分]"
+        },
+        {
+          "title": "据伊朗Press TV：前伊朗革命卫队指挥官穆赫森·雷扎伊表示，美方曾在停火期间两次试图打通霍尔木兹海峡，但均告失败；在其中一次尝试中，美方的一艘舰船遭到了伊朗导弹的重创。",
+          "url": "https://flash.jin10.com/detail/20260518032032892800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时45分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗重申已做好充分准备应对任何新的袭击。",
@@ -329,40 +397,28 @@
           "time_info": "[00时47分 ~ 01时51分]"
         },
         {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐在与韩国外长的通话中指出，该地区所遭受的不安全状况及其引发的全球性后果，均源于美国及犹太复国主义政权针对伊朗采取的侵略行径。国际社会必须追究其违反国际法及所犯罪行的责任。",
-          "url": "https://flash.jin10.com/detail/20260518033524325800",
-          "source": "金十数据",
+          "title": "以媒：内塔尼亚胡与特朗普通话，讨论重启对伊战事可能性",
+          "url": "https://wallstreetcn.com/livenews/3104905",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            15
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时46分]"
+          "time_info": "[05时46分 ~ 06时45分]"
         },
         {
-          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐与土耳其外长通电话。",
-          "url": "https://flash.jin10.com/detail/20260518032430766800",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长和法国外长进行电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260518035559589800",
           "source": "金十数据",
           "ranks": [
             9,
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时46分]"
-        },
-        {
-          "title": "据伊朗Press TV：前伊朗革命卫队指挥官穆赫森·雷扎伊表示，美方曾在停火期间两次试图打通霍尔木兹海峡，但均告失败；在其中一次尝试中，美方的一艘舰船遭到了伊朗导弹的重创。",
-          "url": "https://flash.jin10.com/detail/20260518032032892800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时46分]"
+          "time_info": "[05时46分 ~ 06时45分]"
         },
         {
           "title": "据伊朗Press TV：伊拉克总理已向该国海关当局下达直接指令，要求允许伊朗货物经由伊拉克领土进行过境和转运。",
@@ -375,6 +431,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时46分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股市交易",
+          "url": "https://www.douyin.com/hot/2501755",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 06时45分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普周六与万斯、威特科夫及鲁比奥见面，商讨伊朗问题。",
@@ -423,17 +490,6 @@
           "time_info": "01时51分"
         },
         {
-          "title": "以媒：内塔尼亚胡与特朗普通话，讨论重启对伊战事可能性",
-          "url": "https://wallstreetcn.com/livenews/3104905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
           "title": "美国前国防部长罗伯特·盖茨：（谈及伊朗）我不认为伊朗的核计划构成迫在眉睫的威胁。我们曾对其进行过两次轰炸。他们的许多核科学家已被杀害，离心机也大都遭到摧毁。这不是一个迫在眉睫的问题。",
           "url": "https://flash.jin10.com/detail/20260518005905989800",
           "source": "金十数据",
@@ -445,6 +501,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://flash.jin10.com/detail/20260518055636442800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
           "url": "https://flash.jin10.com/detail/20260517235350901800",
           "source": "金十数据",
@@ -454,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长和法国外长进行电话交谈。",
-          "url": "https://flash.jin10.com/detail/20260518035559589800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
         },
         {
           "title": "伊朗外长与卡塔尔外长通话，讨论“地区局势发展”。",
