@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T10:51:17.995224+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-05-19T14:42:37.167163+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 103,
+      "match_count": 114,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 10时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 14时42分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -90,8 +91,32 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 14时42分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 14时42分]"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时27分 ~ 10时51分]"
+          "time_info": "[03时26分 ~ 14时42分]"
         },
         {
           "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
@@ -108,28 +133,16 @@
           "time_info": "[01时27分 ~ 10时51分]"
         },
         {
-          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
-          "url": "https://www.cls.cn/detail/2374806",
-          "source": "财联社热门",
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
           "ranks": [
             4,
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时51分]"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时26分 ~ 10时51分]"
+          "time_info": "[10时51分 ~ 14时42分]"
         },
         {
           "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
@@ -152,6 +165,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时27分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 14时42分]"
         },
         {
           "title": "伊朗成立管理霍尔木兹海峡新机构",
@@ -270,15 +297,26 @@
           "time_info": "05时04分"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
+          "title": "伊朗延长德黑兰两座国际机场航班运行时间",
+          "url": "https://wallstreetcn.com/livenews/3105854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
+          "url": "https://www.cls.cn/detail/2374855",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "14时42分"
         },
         {
           "title": "美国总统特朗普：卡塔尔、沙特阿拉伯和阿联酋已要求我们暂停对伊朗的军事攻击计划。",
@@ -342,7 +380,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -372,19 +410,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时27分 ~ 06时51分]"
-        },
-        {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 10时51分]"
         },
         {
           "title": "周一（5月18日），美联储隔夜逆回购协议（RRP）使用规模为71.93亿美元（交易对手21家），上个交易日报6.47亿美元。",
@@ -423,6 +448,28 @@
           "time_info": "[01时27分 ~ 03时26分]"
         },
         {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时42分]"
+        },
+        {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时42分]"
+        },
+        {
           "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
           "url": "https://flash.jin10.com/detail/20260519060254100800",
           "source": "金十数据",
@@ -433,6 +480,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时42分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039842544964429579",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时42分]"
         },
         {
           "title": "外交部回应特朗普涉台表态",
@@ -457,6 +528,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时58分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 14时42分]"
         },
         {
           "title": "美国总统特朗普：没有一艘船只突破我们（在霍尔木兹海峡）的封锁线。",
@@ -493,35 +576,13 @@
           "time_info": "01时27分"
         },
         {
-          "title": "特朗普连发15张图分享“中国记忆”",
-          "url": "https://news.ifeng.com/c/8tFAH622lBt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "前美联储官员集体喊话沃什：别盯着6.7万亿资产负债表了，规模根本不重要",
           "url": "https://flash.jin10.com/detail/20260519103922798800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "伊朗最高领袖重申将考虑开辟新战线",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -554,9 +615,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "伊朗延长德黑兰两座国际机场航班运行时间",
+          "url": "https://flash.jin10.com/detail/20260519142318755800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "美国中央司令部：继续严格执行对伊朗港口的封锁。美国军队现已令85艘商业船只更改航向，以确保完全遵守封锁。",
@@ -568,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "英国4月就业人数大幅下降 伊朗冲突令经济前景黯淡",
+          "url": "https://wallstreetcn.com/livenews/3105843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
@@ -614,15 +697,15 @@
           "time_info": "05时04分"
         },
         {
-          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2374803",
-          "source": "财联社热门",
+          "title": "特朗普暗示日本过头了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "14时42分"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -647,17 +730,6 @@
           "time_info": "01时27分"
         },
         {
-          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039842544964429579",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "特朗普强硬表态：拒绝对伊朗做出任何让步 暗示行动将至",
           "url": "https://flash.jin10.com/detail/20260519010540137800",
           "source": "金十数据",
@@ -680,6 +752,17 @@
           "time_info": "06时51分"
         },
         {
+          "title": "若美以重启打击，伊朗如何回应？每天百枚导弹轰炸海湾油田，再锁曼德海峡",
+          "url": "https://flash.jin10.com/detail/20260519141244801800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "【特朗普称“不考虑向德黑兰作出任何让步”】在收到伊朗关于旨在结束战事的最新协议草案回复后，美国总统特朗​​普表示，他“不考虑”向德黑兰作出任何让步。特朗普还警告称，伊朗已然知晓“即将发生什么”。 特朗普表示，他对德黑兰的回复并不感到“沮丧”。他同时指出，伊朗完全清楚美国有能力给其造成更沉重的打击。特朗普说：“我可以告诉你，他们现在比以往任何时候都更渴望达成协议，因为他们知道接下来即将发生什么。”（央视）",
           "url": "https://wallstreetcn.com/livenews/3105552",
           "source": "华尔街见闻-快讯",
@@ -689,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "据纽约邮报：美国总统特朗普称，不会对伊朗做出让步。",
@@ -724,6 +818,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "英国雇主4月大幅裁员，伊朗战争给经济前景蒙上阴影",
+          "url": "https://flash.jin10.com/detail/20260519141206879800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "沙特消息称：伊朗提出有条件地将浓缩铀转移至俄罗斯",
           "url": "https://wallstreetcn.com/livenews/3105526",
           "source": "华尔街见闻-快讯",
@@ -757,6 +862,17 @@
           "time_info": "06时51分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长表示，结束包括黎巴嫩在内的各方战争、美国军队撤离靠近伊朗的地区也包含在提议中。",
+          "url": "https://flash.jin10.com/detail/20260519141101651800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "【美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁】一名美国官员表示，伊朗方面关于“美国已同意在谈判进行期间解除对伊朗石油制裁”的消息是“虚假的”。当天早些时候，伊朗方面援引谈判团队相关消息人士的话称，美国在最新谈判文本中，已同意在谈判期间对伊朗石油制裁实施临时豁免。（央视）",
           "url": "https://wallstreetcn.com/livenews/3105550",
           "source": "华尔街见闻-快讯",
@@ -766,17 +882,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
         },
         {
           "title": "据纽约邮报：美国总统特朗普表示，伊朗知道即将要发生什么。",
@@ -799,6 +904,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长表示，解除制裁、释放冻结资金、结束封锁包含在伊朗最近对美国的提议中。",
+          "url": "https://flash.jin10.com/detail/20260519141041743800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "美国总统特朗普：我们当时正准备在明天发动一场大规模攻击。我已将其推迟一段时间。希望可能是永远，但或许只是一小段时间，因为我们与伊朗进行了非常重要的讨论，我们将拭目以待其结果。",
@@ -983,7 +1099,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -1019,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "伊朗股市恢复交易",
+          "url": "https://wallstreetcn.com/livenews/3105824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "据福克斯商业：美联储主席提名人沃什将于周五在白宫宣誓就职，宣誓仪式将由特朗普主持。",
@@ -1126,7 +1253,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
