@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T18:21:38.128211+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-05-20T21:33:14.922627+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 89,
+      "match_count": 97,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -56,6 +56,17 @@
           "time_info": "[00时46分 ~ 10时32分]"
         },
         {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时33分]"
+        },
+        {
           "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
           "source": "澎湃新闻",
@@ -67,6 +78,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 10时32分]"
+        },
+        {
+          "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
+          "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
@@ -127,17 +149,6 @@
           "time_info": "00时46分"
         },
         {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "美国参议院推进迫使特朗普从伊朗撤军的法案 共和党议员倒戈",
           "url": "https://flash.jin10.com/detail/20260520060344604800",
           "source": "金十数据",
@@ -155,7 +166,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -202,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美联储理事巴尔将于十分钟后发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260520210500000800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美联储候任主席凯文·沃什在宣誓就职之前披露资产投资信息。 然而，信披并没有详细陈述出售的资产规模或受让人是谁。",
@@ -314,6 +336,18 @@
           "time_info": "[00时46分 ~ 06时09分]"
         },
         {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 21时33分]"
+        },
+        {
           "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
           "url": "https://www.cls.cn/detail/2375999",
           "source": "财联社热门",
@@ -340,16 +374,26 @@
           "time_info": "[02时55分 ~ 07时56分]"
         },
         {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时47分 ~ 18时21分]"
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
+          "title": "伊朗最高领袖说伊朗人民正在进行“历史性抵抗”",
+          "url": "https://wallstreetcn.com/livenews/3106745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美国副总统万斯：无论美国总统特朗普对伊朗做出什么决定，这种情况不会永远持续。",
@@ -435,7 +479,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -468,9 +512,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "报道：沃伦敦促美联储更新压力测试 反映石油冲击风险",
+          "url": "https://wallstreetcn.com/livenews/3106739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美元指数19日上涨",
@@ -589,7 +644,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -704,13 +759,24 @@
           "time_info": "07时56分"
         },
         {
+          "title": "贝佐斯：特朗普比第一任期更成熟、更自律。 我仍然会打电话给奥巴马征求意见。 在太空建立数据中心“非常现实”。 地面数据中心的能源预算将会增加。 发射成本需要降低十倍。 人工智能将导致劳动力短缺。 亚马逊没有因为人工智能而裁员。 我在亚马逊、蓝色起源以及普罗米修斯公司的工作经历，都与人工智能相关。 太空产业将会成为一个“庞大规模”的产业。",
+          "url": "https://wallstreetcn.com/livenews/3106732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "伊朗在德黑兰逮捕一名与摩萨德有关联人员",
           "url": "https://flash.jin10.com/detail/20260520180631384800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -724,6 +790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "伊朗：过去24小时有26艘船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3106729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美联储保尔森：如果伊朗冲突持续，将进一步增加通胀和失业的风险。",
@@ -946,6 +1023,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "韩国周三与伊朗伊斯兰革命卫队就穿越海峡进行了协调。（伊朗电视台）",
+          "url": "https://wallstreetcn.com/livenews/3106713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "美联储保尔森：当前政策利率适当，并持续对通胀施加下行压力。",
           "url": "https://flash.jin10.com/detail/20260520070112252800",
           "source": "金十数据",
@@ -1004,7 +1092,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
@@ -1017,6 +1105,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 02时55分]"
+        },
+        {
+          "title": "阿斯麦(ASML.O)CEO：欧洲人工智能法案需要改革和撤销，必须避免限制技术供应链的“简单化”规则。",
+          "url": "https://flash.jin10.com/detail/20260520210140732800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "光迅科技：光通信行业技术迭代速度快，行业内企业产能扩张及技术突破可能加剧市场竞争格局",
+          "url": "https://flash.jin10.com/detail/20260520205450072800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     },
