@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T10:36:12.900465+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-05-27T14:57:15.970018+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 64,
+      "match_count": 73,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 10时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 14时57分]"
         },
         {
           "title": "伊朗愿将高浓缩铀移交至中国？中方回应",
@@ -30,6 +30,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时22分 ~ 10时36分]"
+        },
+        {
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 14时57分]"
         },
         {
           "title": "伊朗外交部：美国公然违反停火协议",
@@ -54,20 +68,6 @@
           "time_info": "[01时22分 ~ 07时02分]"
         },
         {
-          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 10时36分]"
-        },
-        {
           "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
           "url": "https://news.ifeng.com/c/8tRe4GWXi93",
           "source": "凤凰网",
@@ -77,6 +77,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 14时57分]"
         },
         {
           "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
@@ -105,18 +120,27 @@
           "time_info": "[01时22分 ~ 10时36分]"
         },
         {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            17,
-            16,
-            11
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 10时36分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 14时57分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 14时57分]"
         },
         {
           "title": "周二（5月26日），美联储隔夜逆回购协议（RRP）使用规模为17.87亿美元（交易对手6），上个交易日报9.65亿美元。",
@@ -185,6 +209,18 @@
           "time_info": "03时58分"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 14时57分]"
+        },
+        {
           "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
           "url": "https://www.zhihu.com/question/2042527297291431958",
           "source": "知乎",
@@ -196,17 +232,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
         },
         {
           "title": "伊朗总统：已准备好达成框架协议",
@@ -235,17 +260,6 @@
           "title": "伊朗公布击落美MQ-9死神无人机画面",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8EMQ-9%E6%AD%BB%E7%A5%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
           "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
           "ranks": [
             19
           ],
@@ -285,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
+          "url": "https://wallstreetcn.com/livenews/3109884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "伊朗官员：美国处于“请求”与伊朗达成协议的地位",
@@ -397,6 +422,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "美联储卡什卡利：中东战争引发的通胀冲击波可能会持续蔓延至全球。",
+          "url": "https://flash.jin10.com/detail/20260527144218408800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "前纽约联储主席杜德利：通胀多年未达标，美联储信誉面临风险",
           "url": "https://flash.jin10.com/detail/20260526235834558800",
           "source": "金十数据",
@@ -417,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "美联储卡什卡利：全球通胀的担忧正在影响债券市场。",
+          "url": "https://flash.jin10.com/detail/20260527144205378800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "城堡证券：美联储应尽快转向加息，否则可能落后于形势",
@@ -474,6 +521,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美联储卡什卡利：自我4月发表异议意见以来，美国发布的大部分数据都表明通胀风险正在上升，而非下降。",
+          "url": "https://flash.jin10.com/detail/20260527144154435800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "巴西参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）：我要求美国总统特朗普将（那些）犯罪集团标榜为恐怖分子。 我告诉特朗普，如果我当选（为巴西总统），我们将达成一份贸易协议。",
           "url": "https://wallstreetcn.com/livenews/3109667",
           "source": "华尔街见闻-快讯",
@@ -496,6 +554,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美联储卡什卡利：目前美国通胀的风险高于劳动力市场恶化的风险，但必须同时关注这两方面。",
+          "url": "https://flash.jin10.com/detail/20260527144134009800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "伊朗处决一名替以色列刺探情报的男性间谍。（伊朗媒体Mizan）",
           "url": "https://wallstreetcn.com/livenews/3109614",
           "source": "华尔街见闻-快讯",
@@ -505,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "英国能源价格上限将上调13%，因伊朗冲突导致成本上升。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3109872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "美元指数26日上涨",
@@ -527,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美联储卡什卡利：美联储未来应保持中性政策展望。",
+          "url": "https://flash.jin10.com/detail/20260527144114048800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
@@ -626,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
+          "url": "https://flash.jin10.com/detail/20260527143716655800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
