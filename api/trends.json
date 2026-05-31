@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T19:29:20.100468+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-05-31T21:17:55.653730+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "伊朗准备为哈梅内伊举行盛大葬礼",
@@ -131,6 +131,19 @@
           "time_info": "[00时06分 ~ 01时59分]"
         },
         {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 21时17分]"
+        },
+        {
           "title": "伊朗谈判代表：与美协议未最终敲定 拟议协议允许伊朗设置退出机制",
           "url": "https://flash.jin10.com/detail/20260531045814291800",
           "source": "金十数据",
@@ -141,19 +154,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时53分 ~ 07时54分]"
-        },
-        {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 19时29分]"
         },
         {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
@@ -208,26 +208,15 @@
           "time_info": "[04时46分 ~ 07时54分]"
         },
         {
-          "title": "据伊朗迈赫尔通讯社：在格什姆岛和阿巴斯港听到的声响，是因销毁战争遗留爆炸物所致。",
-          "url": "https://flash.jin10.com/detail/20260531190212564800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛传出爆炸声。目前尚不清楚爆炸声响的性质和来源。",
-          "url": "https://flash.jin10.com/detail/20260531185930815800",
+          "title": "据伊朗伊斯兰共和国通讯社：埃及方面要求以色列完全撤出黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260531203535600800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "21时17分"
         },
         {
           "title": "美媒：再拦截一艘赴伊朗商船 累计已达6艘",
@@ -277,11 +266,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 21时17分]"
+        },
+        {
+          "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3111914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 21时17分]"
         },
         {
           "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
@@ -297,16 +300,28 @@
           "time_info": "[10时37分 ~ 17时44分]"
         },
         {
-          "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3111914",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗迈赫尔通讯社：在格什姆岛和阿巴斯港听到的声响，是因销毁战争遗留爆炸物所致。",
+          "url": "https://flash.jin10.com/detail/20260531190212564800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            18
+            3,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时44分 ~ 19时29分]"
+          "time_info": "[19时29分 ~ 21时17分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛传出爆炸声。目前尚不清楚爆炸声响的性质和来源。",
+          "url": "https://flash.jin10.com/detail/20260531185930815800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时17分]"
         },
         {
           "title": "伊朗官员：对伊朗的海上封锁终将结束",
@@ -431,6 +446,18 @@
           "time_info": "[14时52分 ~ 17时44分]"
         },
         {
+          "title": "伊朗展示一款新型攻击艇",
+          "url": "https://wallstreetcn.com/livenews/3111922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时17分]"
+        },
+        {
           "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
           "url": "https://flash.jin10.com/detail/20260531003720339800",
           "source": "金十数据",
@@ -441,6 +468,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时11分]"
+        },
+        {
+          "title": "伊朗批准20种农产品及加工产品出口",
+          "url": "https://wallstreetcn.com/livenews/3111919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时17分]"
         },
         {
           "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
@@ -488,6 +527,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "美联储理事沃勒在第32届杜布罗夫尼克经济会议参加专题讨论会将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260531202000002800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "美国总统特朗普：事实上，这是我进行的第四次此类测试，全部都是完美的，120道题目中答对120道！能够获得满分是非常罕见的，尤其是连续四次都能做到。",
           "url": "https://flash.jin10.com/detail/20260531123639729800",
           "source": "金十数据",
@@ -532,15 +582,15 @@
           "time_info": "14时52分"
         },
         {
-          "title": "伊朗展示一款新型攻击艇",
-          "url": "https://wallstreetcn.com/livenews/3111922",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国之间关于潜在谅解备忘录草案的交流仍在继续。双方轮流提出修改意见，目前尚未最终确认任何协议。",
+          "url": "https://flash.jin10.com/detail/20260531200724744800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "21时17分"
         },
         {
           "title": "30年前的“摧毁飞机谋杀案”，特朗普给翻出来了",
@@ -560,7 +610,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -571,18 +621,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "伊朗批准20种农产品及加工产品出口",
-          "url": "https://wallstreetcn.com/livenews/3111919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -620,13 +659,24 @@
           "time_info": "10时37分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-31）",
+          "url": "https://flash.jin10.com/detail/20260531191112757800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "伊朗批准20种农产品及加工产品出口",
           "url": "https://flash.jin10.com/detail/20260531180038627800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -659,7 +709,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -703,7 +753,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
