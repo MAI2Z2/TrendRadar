@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T00:46:59.557024+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-05T03:15:14.424535+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 18,
+      "match_count": 31,
       "titles": [
         {
           "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
@@ -30,6 +30,39 @@
           "time_info": "00时46分"
         },
         {
+          "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
+          "url": "https://flash.jin10.com/detail/20260605024637794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "俄罗斯总统普京：伊朗危机给俄罗斯带来的利益是暂时的。",
+          "url": "https://flash.jin10.com/detail/20260605024523661800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
+          "url": "https://wallstreetcn.com/livenews/3114582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "“加息噩梦”愈发近了？美联储票委：或许就在今年晚些时候！",
           "url": "https://www.cls.cn/detail/2390683",
           "source": "财联社热门",
@@ -37,8 +70,42 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 03时15分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 03时15分]"
+        },
+        {
+          "title": "伊朗“圣城旅”喊话以色列",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 03时15分]"
+        },
+        {
+          "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
+          "url": "https://flash.jin10.com/detail/20260605024510184800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "03时15分"
         },
         {
           "title": "美联储戴利：当今最紧要的是将通胀恢复到目标水平，这是首要任务。",
@@ -68,17 +135,6 @@
           "source": "金十数据",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -118,6 +174,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "俄罗斯总统普京：欧盟无法扮演调停人角色，因其立场并不是中性的。 重申俄方认可（与美国总统特朗普）在阿拉斯加州达成的共识。",
+          "url": "https://wallstreetcn.com/livenews/3114570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "美联储戴利：目前通胀关注点集中在能源和食品，这些因素正在推动价格上涨。",
           "url": "https://flash.jin10.com/detail/20260604235028272800",
           "source": "金十数据",
@@ -127,6 +194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗5月石油出口降至六年新低",
+          "url": "https://wallstreetcn.com/livenews/3114569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "美联储戴利：（关于利率路径）我们不知道经济将如何发展。",
@@ -140,6 +218,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "数据显示：伊朗石油出口降至六年来的最低水平",
+          "url": "https://flash.jin10.com/detail/20260605022126491800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "美联储戴利：仅仅因为我们与90年代有相似之处，并不意味着这将是90年代。",
           "url": "https://flash.jin10.com/detail/20260604234930802800",
           "source": "金十数据",
@@ -149,6 +238,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席Schmid：美国经济形势良好。 通胀是美国经济面临的头号风险。 重要问题是，美联储应该在利率问题上保持多大的耐心。",
+          "url": "https://wallstreetcn.com/livenews/3114566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "俄罗斯总统普京：希望伊朗冲突各方能够找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260605021812132800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "美国财长贝森特：在特朗普2.0政策下，除了四月外，每个月的实际工资均有所增长。",
@@ -195,6 +306,28 @@
           "time_info": "00时46分"
         },
         {
+          "title": "周四（6月4日），美联储隔夜逆回购协议（RRP）使用规模为11.22亿美元（交易对手18家），上个交易日报20.62亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
+          "url": "https://wallstreetcn.com/livenews/3114560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
           "url": "https://wallstreetcn.com/livenews/3114520",
           "source": "华尔街见闻-快讯",
@@ -204,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美联储研究显示石油冲击对美国的影响弱于1970年代",
+          "url": "https://wallstreetcn.com/livenews/3114557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     }
