@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T08:01:39.938767+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-06-08T12:16:12.388208+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 104,
+      "match_count": 125,
       "titles": [
         {
           "title": "周末要闻汇总：全球首个“预制算力中心底座”正式投用；交易员预计美联储将到明年1月底前加息25个基点",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 12时16分]"
         },
         {
           "title": "英媒：伊朗收取的海峡通行费用大幅下降",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时06分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 12时16分]"
         },
         {
           "title": "消息人士：美计划动用伊朗资产修复海湾盟友损失",
@@ -54,15 +65,37 @@
           "time_info": "[01时06分 ~ 08时01分]"
         },
         {
-          "title": "特朗普：我说了算，以色列总理别无选择",
-          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "title": "伊朗战争丨以色列对伊发起打击行动，美国急表态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时55分 ~ 08时01分]"
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗4波导弹袭击以空军基地，发出强硬警告",
+          "url": "https://news.ifeng.com/c/8tmavL6b7jm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "伊朗革命卫队：打击以色列空军基地",
@@ -82,7 +115,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -118,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "以色列军方：已监测到从伊朗向以色列领土发射的导弹，防空系统正在运行以拦截该威胁。",
+          "url": "https://wallstreetcn.com/livenews/3115846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "伊朗最高领袖顾问兼助理穆罕默德·莫赫贝尔：敌人在调解方身处伊朗期间对黎巴嫩进行轰炸，已是第三次烧毁谈判桌。",
@@ -164,6 +208,18 @@
           "time_info": "06时55分"
         },
         {
+          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
+          "url": "https://www.cls.cn/detail/2393027",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时16分]"
+        },
+        {
           "title": "伊朗首席谈判代表卡利巴夫：针对伊朗的海上封锁以及美国今日对以色列的“开绿灯”行为，使得美国及（以色列）政权在本地区的基地和资产成为合法打击目标。我们武装力量的手一如既往地随时准备出击。",
           "url": "https://flash.jin10.com/detail/20260608000457853800",
           "source": "金十数据",
@@ -195,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "以军空袭伊朗导弹发射场等设施",
+          "url": "https://wallstreetcn.com/livenews/3115842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "美联储“喉舌”：从“三次降息”到“重启加息” 沃什首次议息会议便遭遇空前考验",
@@ -267,6 +334,84 @@
           "time_info": "[05时02分 ~ 06时55分]"
         },
         {
+          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗确认遭以色列导弹袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E9%81%AD%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "时隔两月伊朗向以色列发动导弹袭击",
+          "url": "https://www.toutiao.com/trending/7648730929451745330/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗时隔两个月再袭以色列",
+          "url": "https://www.douyin.com/hot/2526750",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 101 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2047221146982904856",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "以色列正在攻击伊朗境内目标",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%9C%A8%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
           "url": "https://wallstreetcn.com/livenews/3115567",
           "source": "华尔街见闻-快讯",
@@ -279,13 +424,46 @@
           "time_info": "[01时06分 ~ 03时08分]"
         },
         {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗首都德黑兰响起爆炸声",
+          "url": "https://www.toutiao.com/trending/7648829477922979859/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗发射导弹袭击以色列",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
           "title": "时隔两个月 伊朗向以发动导弹袭击",
           "url": "https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%94%E4%B8%A4%E4%B8%AA%E6%9C%88+%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E5%8F%91%E5%8A%A8%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -299,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "以色列北部和南部发布红色警报，因伊朗发射弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260608120632569800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "伊朗外长与法国外长、卡塔尔外长通电话，讨论伊朗对以色列行动的呼应、和地区局势。 伊朗外长还与巴基斯坦陆军元帅（阿西姆·穆尼尔/Munir）通电话。",
@@ -378,6 +567,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "伊朗向以色列发射导弹",
+          "url": "https://flash.jin10.com/detail/20260608120342612800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "伊朗国足抵达墨西哥",
           "url": "https://wallstreetcn.com/livenews/3115594",
           "source": "华尔街见闻-快讯",
@@ -422,6 +622,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "6月预警：三方“抢钱”，真正危险的不是美联储！",
+          "url": "https://flash.jin10.com/detail/20260608120219302800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "【特朗普对伊朗喊话：行了，回来谈判吧】美国总统特朗普7日接受美媒采访时称, 伊朗当天稍早时向以色列实施导弹打击“无助于谈判”。他催促伊朗重返谈判桌。特朗普对美国福克斯新闻频道说：“我对伊朗的建议是：你们已经发射了导弹，就行了。回到谈判桌前，达成协议吧。”（新华社）",
           "url": "https://wallstreetcn.com/livenews/3115623",
           "source": "华尔街见闻-快讯",
@@ -442,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "专访变吵架，特朗普愤怒离场",
+          "url": "https://wallstreetcn.com/livenews/3115836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "美国总统特朗普：我们与伊朗非常接近达成最终协议，我不希望因为现在发生的事情而让协议破裂。",
@@ -497,17 +719,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
-        },
-        {
-          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
-          "url": "https://www.cls.cn/detail/2393027",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
         },
         {
           "title": "据Axios援引美国官员及两名知情人士：以色列在对贝鲁特南郊发动空袭前已通报特朗普政府。",
@@ -631,17 +842,6 @@
           "time_info": "05时02分"
         },
         {
-          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
           "title": "特朗普称18亿美元“反武器化基金”是好主意 尽管遭遇共和党反弹",
           "url": "https://flash.jin10.com/detail/20260607231507080800",
           "source": "金十数据",
@@ -725,9 +925,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "外媒：以色列对伊朗发动空袭，美官员称美军未参与以方此次行动",
+          "url": "https://wallstreetcn.com/livenews/3115825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "WTI原油周一开涨2.8%，周末伊朗“警告性”打击以色列。",
@@ -772,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗并未对沙特苏丹王子空军基地发动袭击。",
+          "url": "https://wallstreetcn.com/livenews/3115824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "伊朗武装部队警告：或对以色列采取进一步行动",
@@ -978,7 +1200,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -1044,7 +1266,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -1088,7 +1310,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -1113,6 +1335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "非农已否决美联储拖延的理由？欧央行或在本周启动加息",
+          "url": "https://flash.jin10.com/detail/20260608113258533800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "伊朗向以色列发射第三波导弹，特朗普已听取局势升级的简报",
@@ -1162,8 +1395,19 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "英伟达与SK海力士多年期技术合作 黄仁勋称存储短缺未见结束迹象",
+          "url": "https://www.cls.cn/detail/2393080",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
         {
           "title": "SK电讯：计划利用英伟达技术在韩国打造吉瓦（GW）级的AI云，首座AI工厂计划于2027年上线投入运营。 将使用英伟达Blackwell GPU进行AI训练和推理。 在英伟达Vera Rubin平台预计于2026年下半年上市后，将采用该平台。",
           "url": "https://wallstreetcn.com/livenews/3115669",
@@ -1171,7 +1415,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -1182,7 +1426,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -1193,7 +1437,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         }
