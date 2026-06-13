@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T07:09:21.059598+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-06-13T10:34:24.557372+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 63,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -63,15 +63,39 @@
           "time_info": "01时33分"
         },
         {
-          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
-          "url": "https://wallstreetcn.com/livenews/3119102",
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时09分"
+          "time_info": "10时34分"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时34分]"
+        },
+        {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
+          "url": "https://news.ifeng.com/c/8tuft4KELYT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国政府高级官员：与伊朗达成的协议包含一项广泛的地区和平协议，涉及黎巴嫩、伊朗以及海湾国家。",
@@ -95,6 +119,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时32分 ~ 03时55分]"
+        },
+        {
+          "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
+          "url": "https://news.ifeng.com/c/8tuse7CSv3h",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国政府高级官员：我们有一份伊朗和美国都满意的文本。",
@@ -128,6 +163,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
+          "url": "https://flash.jin10.com/detail/20260613093322843800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
+          "url": "https://wallstreetcn.com/livenews/3119112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国政府高级官员：根据协议，美方将取得伊朗浓缩核材料。",
@@ -174,16 +231,16 @@
           "time_info": "[01时32分 ~ 07时09分]"
         },
         {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
+          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
+          "url": "https://wallstreetcn.com/livenews/3119102",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            14
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时09分]"
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 10时34分]"
         },
         {
           "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
@@ -210,6 +267,18 @@
           "time_info": "[03时55分 ~ 07时09分]"
         },
         {
+          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3119092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 10时34分]"
+        },
+        {
           "title": "伊朗外长：协议尚未签署；如果协议最终签署，我将对每一项条款进行详细说明。",
           "url": "https://wallstreetcn.com/livenews/3119051",
           "source": "华尔街见闻-快讯",
@@ -234,6 +303,18 @@
           "time_info": "[05时26分 ~ 07时09分]"
         },
         {
+          "title": "伊朗南部爆炸声因警告性射击",
+          "url": "https://wallstreetcn.com/livenews/3119090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 10时34分]"
+        },
+        {
           "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
           "url": "https://wallstreetcn.com/livenews/3119074",
           "source": "华尔街见闻-快讯",
@@ -255,6 +336,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 07时09分]"
+        },
+        {
+          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3119085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 10时34分]"
         },
         {
           "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
@@ -412,6 +505,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
+          "url": "https://flash.jin10.com/detail/20260613092918763800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3119010",
           "source": "华尔街见闻-快讯",
@@ -423,15 +527,15 @@
           "time_info": "01时33分"
         },
         {
-          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
-          "url": "https://wallstreetcn.com/livenews/3119092",
-          "source": "华尔街见闻-快讯",
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时09分"
+          "time_info": "10时34分"
         },
         {
           "title": "伊朗外长阿拉格齐：美国封锁结束和霍尔木兹海重开是临时协议的一部分。",
@@ -443,17 +547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
-        },
-        {
-          "title": "伊朗南部爆炸声因警告性射击",
-          "url": "https://wallstreetcn.com/livenews/3119090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
         },
         {
           "title": "美国政府高级官员：伊朗方面有一些人并不喜欢这项协议。我们认为这种反对意见相当有限。",
@@ -478,6 +571,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：一名黎巴嫩官方消息人士表示，与以色列代表的第五轮谈判将于6月22日在华盛顿举行。",
+          "url": "https://flash.jin10.com/detail/20260613091201134800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：核问题将在后期阶段讨论。",
           "url": "https://flash.jin10.com/detail/20260613031412338800",
           "source": "金十数据",
@@ -500,6 +604,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260613090715507800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：协议尚未签署；如果协议最终签署，我将对每一项条款进行详细说明。",
           "url": "https://flash.jin10.com/detail/20260613031314947800",
           "source": "金十数据",
@@ -511,15 +626,15 @@
           "time_info": "03时55分"
         },
         {
-          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3119085",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：在我重返总统办公室之前，乔·拜登向数百万非法犯罪分子敞开了我们的南部边境，任由这支外来军队强暴、残害、谋杀美国公民而完全不受惩罚。",
+          "url": "https://flash.jin10.com/detail/20260613090651699800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时09分"
+          "time_info": "10时34分"
         },
         {
           "title": "美国政府高级官员：伊朗方面已经表示“可以接受（协议）相关表述措辞”。协议签署的日期和地点尚未最终确认。我认为我们已经接近确定签署日期和地点。",
@@ -542,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "美国总统特朗普：在我的指示下，美国南方司令部发动了一次迅速而致命的打击，成功击毙了“阿拉瓜火车”这一地球上最残暴的恐怖组织之一的臭名昭著的头目“尼诺·格雷罗”（Niño Guerrero）。",
+          "url": "https://flash.jin10.com/detail/20260613090539450800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗是与美国战争的赢家。伊朗在与美国的战争后变得更强大。",
@@ -586,6 +712,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "以防长暗示未来或再动武阻止伊朗拥核",
+          "url": "https://www.toutiao.com/trending/7650086641291657267/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国政府高级官员：根据伊朗的履约情况，将有大幅制裁减免。",
@@ -676,6 +824,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "阿联酋坚决否认有关向伊朗转移资金的媒体报道",
+          "url": "https://flash.jin10.com/detail/20260613084629743800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
           "url": "https://wallstreetcn.com/livenews/3119035",
           "source": "华尔街见闻-快讯",
@@ -685,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "据路透社：一位知情人士透露，美国军方击落多架朝霍尔木兹海峡飞来的伊朗单向攻击无人机。消息人士称，伊朗无人机对商业航运构成威胁。",
+          "url": "https://flash.jin10.com/detail/20260613083014725800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
