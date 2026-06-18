@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T08:09:16.061534+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-06-18T13:29:44.498043+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 145,
+      "match_count": 172,
       "titles": [
         {
           "title": "今夜全球瞩目，沃什“美联储首秀”会向市场扔炸弹吗？",
@@ -13,11 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 13时29分]"
+        },
+        {
+          "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
+          "url": "https://www.cls.cn/detail/2402931",
+          "source": "财联社热门",
+          "ranks": [
+            3,
             1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时46分 ~ 08时09分]"
+          "time_info": "[04时02分 ~ 13时29分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -31,18 +44,6 @@
           "time_info": "[01时46分 ~ 08时09分]"
         },
         {
-          "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
-          "url": "https://www.cls.cn/detail/2402931",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时02分 ~ 08时09分]"
-        },
-        {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
@@ -51,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时37分 ~ 08时09分]"
+          "appearance_count": 5,
+          "time_info": "[06时37分 ~ 13时29分]"
         },
         {
           "title": "美联储继续按兵不动但暗示鹰派倾向，强调通胀承诺，半数决策者料年内加息",
@@ -63,41 +64,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时37分 ~ 08时09分]"
-        },
-        {
-          "title": "美国公布与伊朗达成的谅解备忘录正式文本",
-          "url": "https://news.ifeng.com/c/8u2tzPSA7C4",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
+          "appearance_count": 5,
+          "time_info": "[06时37分 ~ 13时29分]"
         },
         {
           "title": "美联储宣布维持利率不变",
           "url": "https://www.douyin.com/hot/2538695",
           "source": "抖音",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
-        },
-        {
-          "title": "特朗普迟到自称是老大各国领导发笑",
-          "url": "https://www.toutiao.com/trending/7652349345233567771/",
-          "source": "今日头条",
-          "ranks": [
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时29分]"
+        },
+        {
+          "title": "美国公布与伊朗达成的谅解备忘录正式文本",
+          "url": "https://news.ifeng.com/c/8u2tzPSA7C4",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时29分]"
         },
         {
           "title": "伊朗方面披露美伊谅解备忘录文本内容",
@@ -107,15 +99,91 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时29分]"
         },
         {
           "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
           "url": "https://www.cls.cn/detail/2403010",
           "source": "财联社热门",
           "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时29分]"
+        },
+        {
+          "title": "完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图",
+          "url": "https://wallstreetcn.com/articles/3774941",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时29分]"
+        },
+        {
+          "title": "美联储新主席沃什释放强烈信号：美联储的天，要变了",
+          "url": "https://www.cls.cn/detail/2402978",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时37分 ~ 13时29分]"
+        },
+        {
+          "title": "一图解读美联储6月决议：如期“按兵不动”，沃什明言重大改革将至！",
+          "url": "https://www.cls.cn/detail/2403006",
+          "source": "财联社热门",
+          "ranks": [
+            5,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 13时29分]"
+        },
+        {
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时46分 ~ 13时29分]"
+        },
+        {
+          "title": "特朗普迟到自称是老大各国领导发笑",
+          "url": "https://www.toutiao.com/trending/7652349345233567771/",
+          "source": "今日头条",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -144,29 +212,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时46分 ~ 08时09分]"
-        },
-        {
-          "title": "美联储新主席沃什释放强烈信号：美联储的天，要变了",
-          "url": "https://www.cls.cn/detail/2402978",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时37分 ~ 08时09分]"
-        },
-        {
-          "title": "完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图",
-          "url": "https://wallstreetcn.com/articles/3774941",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
           "title": "美联储内部鸽派集体转鹰，沃什首秀“左右为难”",
@@ -207,17 +252,6 @@
           "time_info": "[01时46分 ~ 08时09分]"
         },
         {
-          "title": "一图解读美联储6月决议：如期“按兵不动”，沃什明言重大改革将至！",
-          "url": "https://www.cls.cn/detail/2403006",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
-        },
-        {
           "title": "沃什“美联储首秀”来袭 SpaceX延续涨势 英特尔带动芯片股反弹 | 今夜看点",
           "url": "https://www.cls.cn/detail/2402766",
           "source": "财联社热门",
@@ -240,6 +274,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时46分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普：感谢中俄“完全中立”，让情况好转了很多",
+          "url": "https://news.ifeng.com/c/8u3EpDjUAsS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "市场已完全定价，到2027年第一季度末美联储将加息两次。",
@@ -286,6 +331,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普称不反对伊朗拥有常规弹道导弹",
+          "url": "https://wallstreetcn.com/livenews/3121437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "勒令伊朗队离境 美方辩称本应如此",
           "url": "https://www.toutiao.com/trending/7652270116297690634/",
           "source": "今日头条",
@@ -300,19 +356,6 @@
           "time_info": "[01时46分 ~ 08时09分]"
         },
         {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 08时09分]"
-        },
-        {
           "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
           "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
           "source": "澎湃新闻",
@@ -320,19 +363,6 @@
             14,
             15,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 08时09分]"
-        },
-        {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20,
-            21
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -442,6 +472,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
+          "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "金十整理：机构前瞻美联储利率路径——按兵不动几无悬念，利率前景各执一词",
           "url": "https://flash.jin10.com/detail/20260618012240410800",
           "source": "金十数据",
@@ -473,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普：不反对伊朗拥有常规弹道导弹",
+          "url": "https://news.ifeng.com/c/8u3VmI5M1Ll",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "金十数据整理：美联储FOMC声明及沃什发布会重点一览",
@@ -611,6 +663,17 @@
           "time_info": "[08时08分 ~ 08时09分]"
         },
         {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "美国官员：商定步骤的先后顺序将是即将与伊朗举行会谈的重要议题。",
           "url": "https://flash.jin10.com/detail/20260618012221909800",
           "source": "金十数据",
@@ -666,6 +729,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "伊朗小学被炸，特朗普首次公开松口：难免出错，没人是故意的",
+          "url": "https://news.ifeng.com/c/8u3TOe8B66X",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "伊朗外交部发言人：将立即开始谈判，以建立执行该协议的机制。",
           "url": "https://flash.jin10.com/detail/20260618060604762800",
           "source": "金十数据",
@@ -683,7 +757,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -697,6 +771,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "特朗普在G7记者会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
+          "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "伊朗外交部发言人：美国承诺在伊朗获取其冻结资金方面消除一切障碍。",
@@ -716,7 +812,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -730,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普G7峰会迟到，还宣布“我是老大”",
+          "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国官员：伊朗至少同意通过稀释方式销毁其浓缩铀库存。",
@@ -749,7 +856,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -771,9 +878,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国官员：如果我们无法达成协议，美国总统特朗普并不害怕使用手中的工具。",
@@ -848,9 +966,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "FED独立性保住了？特朗普“笃信”沃什：按兵不动没问题，可能会加息！",
+          "url": "https://www.cls.cn/detail/2403030",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国官员：如果我们达成最终协议，并且伊朗方面表现良好，我们将允许解除制裁。",
@@ -862,6 +991,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "伊朗：我们是真正的超级大国",
+          "url": "https://flash.jin10.com/detail/20260618125821907800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国总统特朗普：我在想，我们或许无法围绕美国墨西哥加拿大贸易协议（USMCA）达成共识。",
@@ -897,6 +1037,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普称不反对伊朗拥有弹道导弹",
+          "url": "https://wallstreetcn.com/livenews/3121420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗的石油制裁应被解除，伊朗应立即开始为期60天的石油出口。",
           "url": "https://flash.jin10.com/detail/20260618055954537800",
           "source": "金十数据",
@@ -914,9 +1065,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：我们从一开始就说过，浓缩核材料不会被转移至伊朗境外。",
+          "url": "https://flash.jin10.com/detail/20260618125604331800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "特朗普：如果不将资金退还给伊朗，那将对美元不利",
@@ -947,9 +1109,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：如果美国人在履行其承诺时退缩，我们也将退缩。",
+          "url": "https://flash.jin10.com/detail/20260618125402288800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "特朗普：美伊谅解备忘录可能在18日或19日签署",
@@ -985,6 +1158,28 @@
           "time_info": "06时38分"
         },
         {
+          "title": "特朗普：将帮助英特尔，因为我们需要设计和制造芯片。",
+          "url": "https://wallstreetcn.com/livenews/3121418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗协议不顺利，我会归咎于万斯。",
           "url": "https://flash.jin10.com/detail/20260618011949358800",
           "source": "金十数据",
@@ -1016,6 +1211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：关于伊朗的国防能力，不会在任何进程中与任何一方进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260618125230635800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "提醒：美联储主席凯文·沃什的新闻发布会结束。",
@@ -1060,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗的导弹只为发射而存在，不为谈判而存在。",
+          "url": "https://flash.jin10.com/detail/20260618125222278800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
@@ -1117,6 +1334,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "伊朗：我们在任何情况下都不会抛弃朋友",
+          "url": "https://flash.jin10.com/detail/20260618125139501800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "美国总统特朗普：上周日与俄罗斯总统普京通话。",
           "url": "https://wallstreetcn.com/livenews/3121152",
           "source": "华尔街见闻-快讯",
@@ -1139,6 +1367,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美联储维持利率不变有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "伊朗外交部发言人：我们可以选择稀释浓缩铀。",
           "url": "https://flash.jin10.com/detail/20260618055340262800",
           "source": "金十数据",
@@ -1156,9 +1395,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "伊朗：如有必要可能延长后续谈判期限 不止60天",
+          "url": "https://flash.jin10.com/detail/20260618125025702800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国总统特朗普：希望获得扩大版“亚伯拉罕协议”。",
@@ -1255,7 +1505,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1280,6 +1530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：我们的决定很明智，即在现阶段不谈判核问题。我们决定聚焦于结束战争，并已完成这项工作。",
+          "url": "https://flash.jin10.com/detail/20260618124728155800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国总统特朗普：试图让哈马斯解除武装。",
@@ -1337,6 +1598,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：谅解备忘录文本中强调，我们仅就核问题和解除制裁进行谈判，且仅限于此。",
+          "url": "https://flash.jin10.com/detail/20260618124700075800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "美联储主席沃什：我已经与美联储监察长进行了一次会面。 美联储监察长将在今年夏季围绕联储大楼翻修问题发布报告。",
           "url": "https://wallstreetcn.com/livenews/3121221",
           "source": "华尔街见闻-快讯",
@@ -1365,7 +1637,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1409,9 +1681,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：我们既需要关注对方对协议的执行情况，也要就核问题和解除制裁进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260618124648467800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美联储主席沃什：不相信在通胀与就业之间存在艰难选择。 与会的19名FOMC委员中，无人认为我们今日需要收紧政策。",
@@ -1456,6 +1739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：我们的工作尚未结束，而是刚刚开始",
+          "url": "https://flash.jin10.com/detail/20260618124640207800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国总统特朗普：关于移除伊朗浓缩铀库存的谈判将立即启动。",
@@ -1555,6 +1849,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普夸莫迪长得太好看了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E8%8E%AB%E8%BF%AA%E9%95%BF%E5%BE%97%E5%A4%AA%E5%A5%BD%E7%9C%8B%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时候激动了一点。 他没必要每次都炸掉（对方的）建筑物。 我们俩在黎巴嫩问题上存在意见分歧。 但我俩关系很好。",
