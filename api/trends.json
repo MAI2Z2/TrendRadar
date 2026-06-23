@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T18:29:57.854670+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-06-23T21:37:59.782846+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 101,
+      "match_count": 107,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -70,17 +70,6 @@
           "time_info": "[02时42分 ~ 07时13分]"
         },
         {
-          "title": "伊朗公布哈梅内伊葬礼安排",
-          "url": "https://news.ifeng.com/c/8uAe6Rs4IDL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 05时29分]"
-        },
-        {
           "title": "比利时0-0伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
@@ -89,11 +78,12 @@
             19,
             15,
             22,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 21时37分]"
         },
         {
           "title": "美联储前主席格林斯潘去世",
@@ -103,8 +93,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 21时37分]"
+        },
+        {
+          "title": "伊朗公布哈梅内伊葬礼安排",
+          "url": "https://news.ifeng.com/c/8uAe6Rs4IDL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 05时29分]"
         },
         {
           "title": "伊朗公布首批解冻资金用途",
@@ -175,6 +176,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美联储加息近了？又一官员“放鹰”：通胀过高且朝着错误方向发展！",
+          "url": "https://www.cls.cn/detail/2406455",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 21时37分]"
         },
         {
           "title": "特朗普称伊朗将同意接受武器核查",
@@ -277,18 +290,6 @@
           "time_info": "[02时42分 ~ 10时27分]"
         },
         {
-          "title": "美联储加息近了？又一官员“放鹰”：通胀过高且朝着错误方向发展！",
-          "url": "https://www.cls.cn/detail/2406455",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 18时29分]"
-        },
-        {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
           "url": "https://m.thepaper.cn/newsDetail_forward_33426003",
           "source": "澎湃新闻",
@@ -337,6 +338,19 @@
           "time_info": "[02时42分 ~ 05时29分]"
         },
         {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 21时37分]"
+        },
+        {
           "title": "伊朗向中方通报伊美谈判最新情况",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%8A%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5",
           "source": "百度热搜",
@@ -347,6 +361,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 05时29分]"
+        },
+        {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 21时37分]"
         },
         {
           "title": "特朗普威胁伊朗,美伊谈判暂停",
@@ -371,18 +396,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时27分 ~ 14时41分]"
-        },
-        {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 18时29分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -414,7 +427,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -450,17 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
-        },
-        {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
@@ -540,13 +542,24 @@
           "time_info": "05时29分"
         },
         {
+          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
+          "url": "https://wallstreetcn.com/articles/3775244",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "特朗普点名英意德差劲",
           "url": "https://news.ifeng.com/c/8uC00MLRSEF",
           "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -571,6 +584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "美银“大幅转鹰”：预期美联储年内加息3次，此前是0次！",
+          "url": "https://wallstreetcn.com/articles/3775241",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "伊朗总统致敬伊朗国家队",
@@ -604,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬与巴基斯坦陆军参谋长穆尼尔讨论防务合作。",
+          "url": "https://wallstreetcn.com/livenews/3123462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普召见多家军火制造商，寻求提高武器产量。 洛克希德-马丁公司、RTX、波音、L3Harris、Northrop Grumman、霍尼韦尔等料将会见特朗普。（华尔街日报）",
@@ -722,7 +757,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -744,7 +779,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -824,6 +859,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "美财政部放宽对伊朗能源相关交易限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431377",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国副总统万斯：如果没有进展，伊朗的资金不会被解冻。",
@@ -920,7 +966,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -942,7 +988,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -964,7 +1010,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1074,7 +1120,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1123,6 +1169,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3123433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社，伊朗称关于落实谅解备忘录的技术性会谈已经结束。",
           "url": "https://wallstreetcn.com/livenews/3123194",
           "source": "华尔街见闻-快讯",
@@ -1140,9 +1197,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "特朗普：昨天有1900万桶石油从霍尔木兹海峡流出",
+          "url": "https://wallstreetcn.com/livenews/3123432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
