@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T01:02:00.742648+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-25T02:53:37.921500+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 15,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时53分]"
         },
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时53分]"
+        },
+        {
+          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3124195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "铝价回归伊朗战争前水平，美元走强和海湾供应恢复希望",
@@ -36,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -59,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时53分]"
         },
         {
           "title": "伊朗：签谅解备忘录表明“美国战败”",
@@ -70,8 +81,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时53分]"
         },
         {
           "title": "鲁比奥：要么伊朗履行承诺，要么特朗普采取行动",
@@ -80,9 +91,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
+          "url": "https://flash.jin10.com/detail/20260625022804523800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：只有结束美国的干涉与占领，西亚地区才能实现真正的和平。",
@@ -91,9 +113,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在与共和党议员进行午宴时，“90%”的时间都在抨击丽莎·穆尔科斯基、比尔·卡西迪和米奇·麦康奈尔这些“名义上的共和党人”（RINO）。",
+          "url": "https://flash.jin10.com/detail/20260625022715934800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
+          "url": "https://wallstreetcn.com/livenews/3124184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正同意我想要的一切，而且他们别无选择。",
+          "url": "https://flash.jin10.com/detail/20260625022323219800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "美国总统特朗普：我不喜欢其中的几个议员，但我想你们知道他们是谁。",
+          "url": "https://flash.jin10.com/detail/20260625022306102800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "美国国务卿卢比奥：霍尔木兹海峡不会收取费用。 （美国与伊朗的）技术团队将恢复对话，我相信会在6月30日（重新对话）。 技术性磋商是工作人员层面的。",
@@ -102,9 +168,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：与立法者进行了很好的会晤。",
+          "url": "https://flash.jin10.com/detail/20260625022152928800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "鲁比奥重申，伊朗不能对霍尔木兹过境收取费用",
@@ -113,7 +190,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -124,7 +201,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -135,9 +212,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美联储敲定重组银行监管部门的方案",
+          "url": "https://flash.jin10.com/detail/20260625021205098800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "美国国务卿鲁比奥：技术团队目前正在敲定与伊朗达成协议的细节。",
@@ -146,9 +234,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "市场消息：美联储负责监管事务的副主席米歇尔·鲍曼已完成对该机构银行监管部门的人事重组。",
+          "url": "https://flash.jin10.com/detail/20260625020417241800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
@@ -157,9 +256,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美联储理事库克在小企业研讨会开幕式上的讲话中未对货币政策或经济前景发表评论。",
+          "url": "https://flash.jin10.com/detail/20260625020018719800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "周三（6月24日），美联储隔夜逆回购协议（RRP）使用规模为45.34亿美元（交易对手7家），上个交易日报64.84亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
+          "url": "https://wallstreetcn.com/livenews/3124166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "伊朗外长与沙特外交大臣通电话。",
@@ -168,7 +300,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
