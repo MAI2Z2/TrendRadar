@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-24T12:59:33.777075+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-06-24T16:21:57.826244+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 63,
+      "match_count": 71,
       "titles": [
+        {
+          "title": "美联储前主席格林斯潘去世",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E5%89%8D%E4%B8%BB%E5%B8%AD%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98%E5%8E%BB%E4%B8%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 16时21分]"
+        },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和阿曼同意成立霍尔木兹海峡委员会。",
           "url": "https://flash.jin10.com/detail/20260624001748962800",
@@ -30,16 +42,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "美联储前主席格林斯潘去世",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E5%89%8D%E4%B8%BB%E5%B8%AD%E6%A0%BC%E6%9E%97%E6%96%AF%E6%BD%98%E5%8E%BB%E4%B8%96",
-          "source": "bilibili 热搜",
+          "title": "伊朗议长说中东安全由中东国家决定",
+          "url": "https://wallstreetcn.com/livenews/3123904",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            19
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 12时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：希望开启伊朗与巴基斯坦之间的新篇章。",
@@ -81,7 +92,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -136,7 +147,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -215,6 +226,18 @@
           "time_info": "[00时22分 ~ 08时03分]"
         },
         {
+          "title": "华尔街吵起来了？与美银、高盛“唱反调” 瑞银称美联储加息风险被高估",
+          "url": "https://www.cls.cn/detail/2407535",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时21分]"
+        },
+        {
           "title": "特朗普将目光投向美国中期选举，鼓吹战争结束经济即将起飞",
           "url": "https://wallstreetcn.com/livenews/3123647",
           "source": "华尔街见闻-快讯",
@@ -241,6 +264,18 @@
           "time_info": "[00时22分 ~ 07时01分]"
         },
         {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时21分]"
+        },
+        {
           "title": "国际能源署（IEA）：6月初，阿联酋石油出口飙升至430万桶/日，为（美国和以色列对伊朗发动）战争之前水平的大约85%，3月份仅仅190万桶/日。",
           "url": "https://wallstreetcn.com/livenews/3123672",
           "source": "华尔街见闻-快讯",
@@ -265,6 +300,18 @@
           "time_info": "[07时01分 ~ 08时03分]"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 16时21分]"
+        },
+        {
           "title": "伊朗总统：近期事件凸显了与巴基斯坦关系的改善。",
           "url": "https://flash.jin10.com/detail/20260624001449666800",
           "source": "金十数据",
@@ -276,15 +323,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052882056875603762",
-          "source": "知乎",
+          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
+          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "16时21分"
         },
         {
           "title": "伊朗总统：与巴基斯坦的关系建立在相互尊重之上。",
@@ -309,26 +356,26 @@
           "time_info": "03时04分"
         },
         {
-          "title": "华尔街吵起来了？与美银、高盛“唱反调” 瑞银称美联储加息风险被高估",
-          "url": "https://www.cls.cn/detail/2407535",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
           "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
           "url": "https://news.ifeng.com/c/8uCdaH694Zv",
           "source": "凤凰网",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！",
+          "url": "https://www.cls.cn/detail/2407452",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
@@ -337,7 +384,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -370,7 +417,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -381,7 +428,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -436,7 +483,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -513,7 +560,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -524,7 +571,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -571,17 +618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
@@ -639,6 +675,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：地区安全必须由本地区国家实现。",
+          "url": "https://flash.jin10.com/detail/20260624153653906800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "嘉年华邮轮：伊朗战事冲击预订业务，下调业绩预期",
           "url": "https://wallstreetcn.com/livenews/3123589",
           "source": "华尔街见闻-快讯",
@@ -661,6 +708,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "伊朗议长卡利巴夫：黎巴嫩停火与伊朗停火同等重要。",
+          "url": "https://wallstreetcn.com/livenews/3123875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "巴基斯坦总理：伊朗的损失就是我们的损失。巴基斯坦和伊朗是紧密相连的兄弟，我们不仅仅是邻国。",
           "url": "https://flash.jin10.com/detail/20260623235939915800",
           "source": "金十数据",
@@ -670,6 +728,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗总统称若无导弹伊朗已成加沙",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E8%8B%A5%E6%97%A0%E5%AF%BC%E5%BC%B9%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%88%90%E5%8A%A0%E6%B2%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "报道：伊朗告知哈马斯将在与美国的谈判中提出加沙遭袭问题",
+          "url": "https://wallstreetcn.com/livenews/3123873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "伊朗总统种树太投入 巴总理拦不住",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%8D%E6%A0%91%E5%A4%AA%E6%8A%95%E5%85%A5+%E5%B7%B4%E6%80%BB%E7%90%86%E6%8B%A6%E4%B8%8D%E4%BD%8F",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "比利时0-0伊朗",
