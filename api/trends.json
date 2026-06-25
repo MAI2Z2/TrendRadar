@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-25T06:09:45.038193+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-06-25T08:02:09.850809+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
           "url": "https://news.ifeng.com/c/8uDgRGX21RF",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时02分]"
         },
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -34,11 +35,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时09分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时02分]"
         },
         {
           "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
@@ -50,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "特朗普与共和党参议员爆发激烈争吵，伊朗战争分歧点燃党内火药桶",
+          "url": "https://flash.jin10.com/detail/20260625073705480800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "铝价回归伊朗战争前水平，美元走强和海湾供应恢复希望",
@@ -80,7 +93,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -113,7 +126,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -124,7 +137,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -158,7 +171,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -191,7 +204,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -224,7 +237,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -246,7 +259,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -356,7 +369,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -378,7 +391,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -400,7 +413,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -444,7 +457,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -477,7 +490,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -532,7 +545,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -565,7 +578,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -604,7 +617,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -638,7 +651,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         }
