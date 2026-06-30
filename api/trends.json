@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T07:56:09.592218+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-06-30T10:32:51.288395+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 10时32分]"
         },
         {
           "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
@@ -37,7 +38,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -92,7 +93,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -304,7 +305,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -315,7 +316,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -359,9 +360,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "特朗普“和粉丝吵翻了”",
+          "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "分析：美伊对谅解备忘录存分歧 美欲谈核 伊朗聚焦霍尔木兹",
@@ -397,6 +409,50 @@
           "time_info": "03时44分"
         },
         {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2412298",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "特朗普又“救”了美股？数据显示：周末打伊朗，周一反弹几乎成固定剧本",
+          "url": "https://flash.jin10.com/detail/20260630102253792800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
+          "url": "https://news.ifeng.com/c/8uN5SKblxo3",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "据卡塔尔国家通讯社：卡塔尔部长讨论地区发展及与伊朗代理国防部长的联合协调事宜。",
           "url": "https://flash.jin10.com/detail/20260630002054640800",
           "source": "金十数据",
@@ -406,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "美联储7月维持利率不变的概率为70.1%",
@@ -425,9 +492,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
+          "url": "https://www.cls.cn/detail/2412193",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
@@ -480,7 +558,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -524,7 +602,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -598,8 +676,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 10时32分]"
         }
       ]
     }
