@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T08:00:40.112457+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-07-01T11:56:39.091368+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -42,6 +42,18 @@
           "time_info": "[00时17分 ~ 08时00分]"
         },
         {
+          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
+          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时56分]"
+        },
+        {
           "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
           "url": "https://news.ifeng.com/c/8uNZON3SysC",
           "source": "凤凰网",
@@ -62,17 +74,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时10分]"
-        },
-        {
-          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
-          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "美联储7月维持利率不变的概率为66.3%",
@@ -141,6 +142,17 @@
           "time_info": "[00时17分 ~ 02时32分]"
         },
         {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时56分]"
+        },
+        {
           "title": "伊朗足协主席发声",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -150,17 +162,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "特朗普再遭打击！美最高法院驳回限制“出生公民权”行政令",
@@ -219,6 +220,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "市场消息：美国一名法官裁定，阻止特朗普政府出台的一项限制联邦学生贷款减免的政策规则生效。",
           "url": "https://flash.jin10.com/detail/20260701042824758800",
           "source": "金十数据",
@@ -247,9 +259,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
@@ -272,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "美媒爆料：特朗普因加密货币获利超10亿美元",
+          "url": "https://news.ifeng.com/c/8uOrOAberkf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列和黎巴嫩一致认为，真主党和伊朗必须离开。",
@@ -313,7 +347,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -327,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "霍尔木兹海峡正被重新定义，伊朗坚持安全航行不是“免费公共服务”",
+          "url": "https://flash.jin10.com/detail/20260701111507956800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
@@ -489,7 +534,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         }
@@ -506,7 +551,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         }
