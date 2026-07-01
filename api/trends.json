@@ -1,951 +1,215 @@
 {
-  "generated_at": "2026-07-01T22:10:19.558502+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-07-02T01:08:10.222299+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 80,
+      "match_count": 17,
       "titles": [
         {
-          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
-          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
-          "source": "凤凰网",
+          "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
+          "url": "https://www.cls.cn/detail/2414658",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时10分]"
-        },
-        {
-          "title": "伊朗：未来几天暂无与美方会晤计划",
-          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时10分]"
-        },
-        {
-          "title": "5:4！美国高院“独保”美联储，最大赢家是沃什",
-          "url": "https://wallstreetcn.com/articles/3775790",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 08时00分]"
-        },
-        {
-          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
-          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
-          "source": "凤凰网",
-          "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时56分]"
-        },
-        {
-          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
-          "url": "https://news.ifeng.com/c/8uNZON3SysC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时10分]"
-        },
-        {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时10分]"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时56分 ~ 22时10分]"
-        },
-        {
-          "title": "美联储7月维持利率不变的概率为66.3%",
-          "url": "https://flash.jin10.com/detail/20260701060146506800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美联储主席沃什：对资产负债表规模问题持开放态度。",
-          "url": "https://flash.jin10.com/detail/20260701215306956800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美国总统特朗普的年度财务信息被披露。",
-          "url": "https://wallstreetcn.com/livenews/3126986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "据油轮追踪机构：数据显示，伊朗6月出口量折算约166万桶/日，自制裁放松以来累计出口约5000万桶。机构指出，该地区多数国家出口仍未恢复至战前水平。",
-          "url": "https://flash.jin10.com/detail/20260701015640337800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：提高利率将是一个错误。 新任美联储主席沃什不得不应付一些棘手问题，工作艰巨。",
-          "url": "https://wallstreetcn.com/livenews/3127387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "据油轮追踪机构：自美国制裁放松以来，伊朗已出口约5000万桶石油。",
-          "url": "https://flash.jin10.com/detail/20260701015529200800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
-          "url": "https://flash.jin10.com/detail/20260701054713686800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美联储主席沃什：希望利率政策成为关键政策工具。",
-          "url": "https://flash.jin10.com/detail/20260701215235475800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美联储主席沃什：最近四周，对资产负债表的看法没有改变。 如果对这方面的政策有变化，相关决定将经过充分审议并清晰地（与外界）沟通。",
-          "url": "https://wallstreetcn.com/livenews/3127470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
-          "url": "https://wallstreetcn.com/articles/3775765",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时32分]"
-        },
-        {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 11时56分]"
-        },
-        {
-          "title": "伊朗足协主席发声",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时31分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普再遭打击！美最高法院驳回限制“出生公民权”行政令",
-          "url": "https://news.ifeng.com/c/8uOA3e74QUL",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[01时07分 ~ 01时08分]"
         },
         {
-          "title": "美元指数在6月份涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3126960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时10分]"
-        },
-        {
-          "title": "美官员：伊朗尚未收到60亿美元的冻结资金 且在其履约前也不会收到",
-          "url": "https://flash.jin10.com/detail/20260701043007688800",
+          "title": "美国贸易代表：特朗普的贸易政策已经取代了《美墨加协定》的许多内容。",
+          "url": "https://flash.jin10.com/detail/20260702005435770800",
           "source": "金十数据",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
-          "url": "https://flash.jin10.com/detail/20260701054226191800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美联储主席沃什：美联储资产负债表已经触及财政政策的边界。",
-          "url": "https://flash.jin10.com/detail/20260701215228282800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "美联储主席沃什：如果过去四个季度的表现能作为参考（或预示），那么我们有理由保持乐观。",
-          "url": "https://wallstreetcn.com/livenews/3127469",
+          "title": "沃什暗示美联储资产负债表缩减之路漫长",
+          "url": "https://wallstreetcn.com/livenews/3127543",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "美联储主席沃什：如果资产负债表政策发生变化，决策将经过充分审议并进行沟通。",
-          "url": "https://flash.jin10.com/detail/20260701215206103800",
+          "title": "据AXIOS网站：美国在多哈谈判中试图劝说伊朗放弃霍尔木兹海峡“通行收费”机制。",
+          "url": "https://flash.jin10.com/detail/20260702005138997800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "美光向“特朗普账户”注资2.5亿美元，特朗普称其政策“大获成功”",
+          "url": "https://flash.jin10.com/detail/20260702004042451800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "据知情人士透露，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。 革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3126906",
+          "title": "美国：超1000万桶原油经霍尔木兹海峡运出，伊朗石油筹码被削弱",
+          "url": "https://wallstreetcn.com/livenews/3127534",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国特使：特朗普期望所有盟友都增加国防开支。",
-          "url": "https://wallstreetcn.com/livenews/3127468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "市场消息：美国一名法官裁定，阻止特朗普政府出台的一项限制联邦学生贷款减免的政策规则生效。",
-          "url": "https://flash.jin10.com/detail/20260701042824758800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美国总统特朗普：共和党将在美国德克萨斯州达拉斯举行中期大会。",
-          "url": "https://flash.jin10.com/detail/20260701054029812800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美联储主席沃什：资产负债表主要通过资产价格运作。",
-          "url": "https://flash.jin10.com/detail/20260701215144077800",
-          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "特朗普已听取关于对伊朗战争方案的简报，但选择继续进行谈判。 特朗普目前将坚持对伊朗进行外交谈判。 特朗普告诉助手，如果谈判超过8月18日的截止日期，他也觉得可以接受。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3127028",
+          "title": "美国总统特朗普：美光科技宣布对“特朗普账户”投资2.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3127532",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "美联储主席沃什：潜在增长率看上去已呈上升趋势，有理由对生产力感到乐观",
-          "url": "https://wallstreetcn.com/livenews/3127466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
-          "url": "https://flash.jin10.com/detail/20260701052059560800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美联储主席沃什：在美联储任职的前四周里，对资产负债表的看法没有改变。",
-          "url": "https://flash.jin10.com/detail/20260701215131482800",
-          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
-          "url": "https://wallstreetcn.com/livenews/3126986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美媒爆料：特朗普因加密货币获利超10亿美元",
-          "url": "https://news.ifeng.com/c/8uOrOAberkf",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "美联储主席沃什：（关于资产负债表）我们也有一个专门小组负责此事。",
-          "url": "https://flash.jin10.com/detail/20260701215116145800",
+          "title": "据沙特阿拉伯阿拉比亚电视台：伊朗已在多哈会谈中提出，要求按照分阶段的时间表来执行谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260702003225262800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "美国白宫发言人Kelly：我们已经为伊朗无核化铺平了道路。 美国和伊朗很有可能达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3127464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美联储主席沃什：我希望美联储的资产负债表规模缩小，这已不是什么秘密。",
-          "url": "https://flash.jin10.com/detail/20260701215108264800",
+          "title": "据沙特阿拉伯阿拉比亚电视台：伊朗要求在处理其他事项之前，先实施谅解备忘录中的5项内容。",
+          "url": "https://flash.jin10.com/detail/20260702002949607800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：以色列和黎巴嫩一致认为，真主党和伊朗必须离开。",
-          "url": "https://wallstreetcn.com/livenews/3126900",
+          "title": "美国副总统万斯重申，伊朗海军和军队已被摧毁。 伊朗向船只开火后，我们几天前投下了一些炸弹。 过去三天商业通航自由。 如果伊朗试图重建核计划，美国有多种选项。 我们不能为了投掷炸弹而投掷炸弹。",
+          "url": "https://wallstreetcn.com/livenews/3127529",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时08分"
         },
         {
-          "title": "周二（6月30日），美联储隔夜逆回购协议（RRP）使用规模为269.00亿美元（交易对手10家），上个交易日报35.46亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3126934",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：美光科技(MU.O)正在直接投资美国工人和家庭。",
+          "url": "https://flash.jin10.com/detail/20260702002937500800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "01时08分"
         },
         {
-          "title": "据华尔街日报：特朗普政府正试图遏制创纪录高位的牛肉价格。特朗普政府计划向较小型肉类加工商提供资金，鼓励其继续屠宰牛只；美国农业部计划提供最高5亿美元款项，以支持牛肉加工。",
-          "url": "https://flash.jin10.com/detail/20260630235100163800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美联储主席沃什：没有人希望美联储的资产负债表变得更小。",
-          "url": "https://flash.jin10.com/detail/20260701215028789800",
+          "title": "美国总统特朗普：美光科技(MU.O)对“特朗普账户”的2.5亿美元投资是“同类投资中规模最大的企业投资”。",
+          "url": "https://flash.jin10.com/detail/20260702002924479800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "美联储主席沃什：有关特别工作组任命的消息可能下周公布。",
-          "url": "https://wallstreetcn.com/livenews/3127459",
+          "title": "报道：伊朗准备向除以色列以外的所有国家出售石油",
+          "url": "https://wallstreetcn.com/livenews/3127527",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身",
-          "url": "https://flash.jin10.com/detail/20260701065240508800",
+          "title": "美国官员：（阐述政府对霍尔木兹海峡的看法）美方评估霍尔木兹海峡约1000万桶石油流量或削弱伊朗石油影响力。",
+          "url": "https://flash.jin10.com/detail/20260702002830646800",
           "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "伊朗副外长会见卡塔尔首相。伊朗副外长讨论美国谅解备忘录的落实情况。伊朗表示最终协议的谈判尚未开始。（IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3127372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "美联储主席沃什：美国经济的供给侧强劲。 已重新致力于实现价格稳定。 不想就过去两周的数据提供新的信息。 我们能做的最重要的事就是制定正确的政策。 如果模型阻碍了良好政策的制定，那就舍弃它们。",
-          "url": "https://wallstreetcn.com/livenews/3127457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美最高法院驳回特朗普的限制「出生公民权」行政令，维持在美出生即美国公民，这项政策利弊该怎么权衡？",
-          "url": "https://www.zhihu.com/question/2055584524273185650",
-          "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的269亿美元。",
-          "url": "https://flash.jin10.com/detail/20260701011622723800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "伊朗称美若无法约束宠物伊朗将出手",
-          "url": "https://wallstreetcn.com/livenews/3127371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "美联储主席沃什：过去四周通胀风险有所下降。 美联储的独立性不会有任何改变。",
-          "url": "https://wallstreetcn.com/livenews/3127455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "霍尔木兹海峡正被重新定义，伊朗坚持安全航行不是“免费公共服务”",
-          "url": "https://flash.jin10.com/detail/20260701111507956800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
-          "url": "https://flash.jin10.com/detail/20260701050003787800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美联储主席沃什：如果美联储能够实现其价格稳定的目标，我对美国经济增长潜力的乐观程度前所未有。",
-          "url": "https://flash.jin10.com/detail/20260701214852076800",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗航空公司恢复“德黑兰—孟买—德黑兰”航线的运营，此前该航线已暂停5个月。",
+          "url": "https://flash.jin10.com/detail/20260702002249112800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少持有500万美元的苹果(AAPL.O)公司股票。",
-          "url": "https://flash.jin10.com/detail/20260701045910278800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美联储主席沃什：不确定生产率是否会对短期政策产生影响。",
-          "url": "https://flash.jin10.com/detail/20260701214814273800",
+          "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260702002047001800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时08分"
         },
         {
-          "title": "美联储主席沃什：美国不惧怕生产力驱动的经济增长。 AI模型改进的变化率是指数级的。 关于AI对就业影响的时间节点，存在严重疑问。 必须在就业和物价稳定方面都取得成效。",
-          "url": "https://wallstreetcn.com/livenews/3127452",
-          "source": "华尔街见闻-快讯",
+          "title": "美国副总统万斯：技术谈判代表正在就伊朗问题展开讨论。",
+          "url": "https://flash.jin10.com/detail/20260702000930829800",
+          "source": "金十数据",
           "ranks": [
-            19
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其从与多家媒体公司的和解协议中获得超过8000万美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045751619800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美联储主席沃什：有理由对生产力感到乐观。",
-          "url": "https://flash.jin10.com/detail/20260701214758215800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "以色列国防部长：如有必要 以色列将再次打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3127367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "据纽约邮报：美国政府官员称，美国尚未按照谅解备忘录的规定，释放被冻结的60亿美元伊朗资金用于人道主义物资，并且在德黑兰方面履约之前也不会解冻这些资金。",
-          "url": "https://flash.jin10.com/detail/20260701040559259800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美最高法院驳回特朗普的限制“出生公民权”行政令",
-          "url": "https://wallstreetcn.com/livenews/3126889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "伊朗队启程回国",
-          "url": "https://wallstreetcn.com/livenews/3126925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其从“迷因币”相关的授权或收益分成获得6.35亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045159164800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美联储主席沃什：对美国而言，这是一个巨大的机遇期。",
-          "url": "https://flash.jin10.com/detail/20260701214738662800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美国总统特朗普称赞最高法院关于政治支出的裁决。",
-          "url": "https://wallstreetcn.com/livenews/3126888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国总统特朗普回应“最高法院推翻特朗普限制‘出生公民权’行政令”，称：最高法院的裁决对美国来说太糟糕了。 国会山应该着手废除出生公民权。",
-          "url": "https://wallstreetcn.com/livenews/3126924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "美联储主席沃什：AI是否具有通胀效应，应由央行来决定。 货币政策会在我们的经济体之间产生溢出效应。 AI的蓬勃发展在美国表现得最为突出。 供给扩张将对政策产生重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3127450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20260701040422983800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美联储主席沃什：如果过去四个季度是一个指标，那么我们有理由保持乐观。",
-          "url": "https://flash.jin10.com/detail/20260701214721932800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美联储主席沃什拒绝就利率提供指引。",
-          "url": "https://wallstreetcn.com/livenews/3127449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701044849105800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美国驻北约大使：我认为我们已准备好召开一次非常成功的峰会。部分盟友进展缓慢，支出不足或缺乏可信的计划。美国总统特朗普完全期待所有盟友立即采取行动，朝着5%的国防开支目标迈进。",
-          "url": "https://flash.jin10.com/detail/20260701214707173800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
-          "url": "https://wallstreetcn.com/livenews/3126957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美联储主席沃什：潜在增长似乎呈上升趋势。",
-          "url": "https://flash.jin10.com/detail/20260701214628617800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美联储Hammack：美国通胀依然过高，美联储可能需要考虑加息",
-          "url": "https://wallstreetcn.com/livenews/3126885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
-          "url": "https://wallstreetcn.com/livenews/3126877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
-          "url": "https://wallstreetcn.com/livenews/3127002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
+          "time_info": "01时08分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股交易新规将于7月6日起正式施行，主板ST股涨跌幅提至10%",
-          "url": "https://wallstreetcn.com/livenews/3127250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时05分"
-        },
-        {
-          "title": "下周一A股将告别5%涨跌停板",
-          "url": "https://wallstreetcn.com/livenews/3127461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "A股交易新规将于7月6日起正式施行，主板ST股涨跌幅提至10%",
-          "url": "https://flash.jin10.com/detail/20260701153837370800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
       "match_count": 1,
       "titles": [
         {
-          "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
-          "url": "https://flash.jin10.com/detail/20260701065200498800",
-          "source": "金十数据",
+          "title": "A股将取消5%涨跌停板",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B0%86%E5%8F%96%E6%B6%885%25%E6%B6%A8%E8%B7%8C%E5%81%9C%E6%9D%BF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时08分]"
         }
       ]
     }
