@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T14:33:18.220374+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-07-02T17:54:13.653647+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 59,
+      "match_count": 67,
       "titles": [
         {
           "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
@@ -20,6 +20,18 @@
           "time_info": "[01时07分 ~ 14时33分]"
         },
         {
+          "title": "从1.8%到7%！美联储“降息or加息” 只是道通胀选择题？",
+          "url": "https://www.cls.cn/detail/2415031",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时54分]"
+        },
+        {
           "title": "【早报】美联储放鹰；存储、半导体板块大跌，中概股逆势大涨；油价下跌，黄金收涨；英格兰、比利时晋级世界杯16强",
           "url": "https://www.cls.cn/detail/2414804",
           "source": "财联社热门",
@@ -29,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 14时33分]"
+        },
+        {
+          "title": "美联储加息究竟是不是“危言耸听”？今晚美国非农夜重磅来袭！",
+          "url": "https://www.cls.cn/detail/2415231",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
         },
         {
           "title": "美国贸易代表：特朗普的贸易政策已经取代了《美墨加协定》的许多内容。",
@@ -73,17 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "从1.8%到7%！美联储“降息or加息” 只是道通胀选择题？",
-          "url": "https://www.cls.cn/detail/2415031",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
@@ -155,6 +167,28 @@
           "time_info": "[05时19分 ~ 07时05分]"
         },
         {
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时54分]"
+        },
+        {
+          "title": "又来施压美联储？特朗普经济顾问：加息应对通胀是错误之举！",
+          "url": "https://www.cls.cn/detail/2414901",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
+        },
+        {
           "title": "美议员：不许苹果找中企买，坏了特朗普大事",
           "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
           "source": "凤凰网",
@@ -164,6 +198,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 14时33分]"
+        },
+        {
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
         },
         {
           "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
@@ -322,17 +367,6 @@
           "time_info": "03时40分"
         },
         {
-          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
-          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "据沙特阿拉伯阿拉比亚电视台：伊朗要求在处理其他事项之前，先实施谅解备忘录中的5项内容。",
           "url": "https://flash.jin10.com/detail/20260702002949607800",
           "source": "金十数据",
@@ -361,7 +395,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -542,6 +576,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "特朗普账户即将推出，但暂不提供账户迁移服务",
+          "url": "https://flash.jin10.com/detail/20260702172215054800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "欧洲央行管委Stournaras：不认为7月份会发生任何（与货币政策调整有关的）事。 央行继续加息的可能性降低。 在一段时期内维持现状可能是适宜的。 必须监控（美国+以色列对伊朗发动的）战争对于价格的间接影响。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3127565",
           "source": "华尔街见闻-快讯",
@@ -551,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "伊朗称将对美国在霍尔木兹海峡的干预作出回应。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3127921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "美国总统特朗普：西班牙并非北约的良好成员。 西班牙将得到教训。 数十年过后，将按我们的方式应对古巴问题。",
@@ -597,6 +653,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "特朗普任命受争议专家出任UFO委员会“掌门”",
+          "url": "https://wallstreetcn.com/livenews/3127915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "美国副总统万斯：技术谈判代表正在就伊朗问题展开讨论。",
           "url": "https://flash.jin10.com/detail/20260702000930829800",
           "source": "金十数据",
@@ -619,6 +686,17 @@
           "time_info": "03时40分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-02）",
+          "url": "https://flash.jin10.com/detail/20260702171435310800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "美联储主席沃什计划在一年内利用更优经济数据",
           "url": "https://wallstreetcn.com/livenews/3127555",
           "source": "华尔街见闻-快讯",
@@ -628,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：知情人士称，特朗普政府预计将于下周推出“特朗普账户”，但不会提供允许金融机构在其自有平台托管该账户的机制。",
+          "url": "https://flash.jin10.com/detail/20260702171404800800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
