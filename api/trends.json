@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T14:22:56.728121+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-07-03T17:50:55.602653+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
@@ -122,6 +122,18 @@
           "time_info": "07时11分"
         },
         {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 17时50分]"
+        },
+        {
           "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
           "url": "https://wallstreetcn.com/livenews/3128242",
           "source": "华尔街见闻-快讯",
@@ -163,11 +175,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 17时50分]"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时03分 ~ 14时22分]"
+          "time_info": "[14时22分 ~ 17时50分]"
         },
         {
           "title": "美国总统特朗普：美国必须在人工智能领域领先。",
@@ -179,17 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        },
-        {
-          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
-          "url": "https://www.cls.cn/detail/2416012",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
         },
         {
           "title": "美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。",
@@ -429,7 +443,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -522,15 +536,15 @@
           "time_info": "03时11分"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "伊朗革命卫队总司令现身",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4%E7%8E%B0%E8%BA%AB",
+          "source": "百度热搜",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "17时50分"
         },
         {
           "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
@@ -594,7 +608,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -638,7 +652,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -715,9 +729,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "哈梅内伊遗体告别仪式在伊朗举行",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%BE%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
@@ -770,7 +795,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -851,11 +876,12 @@
           "url": "https://www.cls.cn/detail/2416215",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 17时50分]"
         },
         {
           "title": "微软动员6000名员工，助客户采用AI技术",
@@ -875,7 +901,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         }
