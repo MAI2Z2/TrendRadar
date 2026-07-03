@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T20:02:46.059864+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-07-03T23:03:05.820762+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 80,
+      "match_count": 87,
       "titles": [
         {
           "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
@@ -21,6 +21,32 @@
           "time_info": "[01时28分 ~ 14时22分]"
         },
         {
+          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
+          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时03分]"
+        },
+        {
+          "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
+          "url": "https://wallstreetcn.com/articles/3776096",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 23时03分]"
+        },
+        {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
           "source": "澎湃新闻",
@@ -32,17 +58,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 10时03分]"
-        },
-        {
-          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
-          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         },
         {
           "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
@@ -62,7 +77,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -111,6 +126,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "市场消息：由沙特副外交大臣率领的沙特代表团也出席了伊朗前最高领袖哈梅内伊的葬礼。",
+          "url": "https://flash.jin10.com/detail/20260703223802779800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "美国总统特朗普被问及国会山已经表决通过的住房立法草案（但他本人迟迟没有签字生效为法律），称：情况不错。 其中存在大量由民主党议员们提出的观点。 在国会山通过选民身份问题之前，我不想签署住房草案。",
           "url": "https://wallstreetcn.com/livenews/3128240",
           "source": "华尔街见闻-快讯",
@@ -120,20 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        },
-        {
-          "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
-          "url": "https://wallstreetcn.com/articles/3776096",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 20时02分]"
         },
         {
           "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
@@ -156,6 +168,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "法国巴黎银行首席经济学家Isabelle Mateos y Lago：如果我们看到的美国非农就业数据非常强劲，接近13万或以上，那么我认为7月的会议将会非常、非常引人关注。 现在这种可能性可能降低了，但在我看来，美联储加息的理由并未减弱。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 23时03分]"
         },
         {
           "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
@@ -206,17 +243,27 @@
           "time_info": "[01时28分 ~ 06时01分]"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            16,
-            15
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时22分 ~ 20时02分]"
+          "time_info": "[20时02分 ~ 23时03分]"
+        },
+        {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "伊朗革命卫队总司令现身",
@@ -242,6 +289,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。",
           "url": "https://flash.jin10.com/detail/20260703053013791800",
           "source": "金十数据",
@@ -259,7 +317,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -273,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "法国经济学家眼中的战后局势：美联储与欧洲央行政策或现分歧",
+          "url": "https://wallstreetcn.com/livenews/3128758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
@@ -328,17 +397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         },
         {
           "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
@@ -836,6 +894,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://wallstreetcn.com/livenews/3128732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "美空军少校呼吁弹劾特朗普被捕",
           "url": "https://www.toutiao.com/trending/7657766306192490532/",
           "source": "今日头条",
@@ -856,6 +925,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "非农“爆冷” 美联储加息降温",
