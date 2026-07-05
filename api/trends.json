@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T07:55:09.429065+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-07-05T10:10:02.042121+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 56,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时10分]"
+        },
+        {
+          "title": "黄金如今又看美联储的脸色了",
+          "url": "https://wallstreetcn.com/articles/3776189",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时10分]"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
@@ -30,60 +42,64 @@
           "time_info": "[00时02分 ~ 07时55分]"
         },
         {
-          "title": "黄金如今又看美联储的脸色了",
-          "url": "https://wallstreetcn.com/articles/3776189",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时55分]"
-        },
-        {
           "title": "伊朗外长会晤黎真主党及哈马斯代表",
           "url": "https://wallstreetcn.com/livenews/3128948",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时10分]"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
           "url": "https://wallstreetcn.com/livenews/3128947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时10分]"
+        },
+        {
+          "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
+          "url": "https://news.ifeng.com/c/8uUi1MnrVik",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时51分 ~ 10时10分]"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
           "url": "https://wallstreetcn.com/livenews/3128945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时10分]"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
           "url": "https://wallstreetcn.com/livenews/3128943",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时10分]"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -108,37 +124,39 @@
           "time_info": "[00时02分 ~ 07时55分]"
         },
         {
-          "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
-          "url": "https://news.ifeng.com/c/8uUi1MnrVik",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时51分 ~ 07时55分]"
-        },
-        {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
           "url": "https://wallstreetcn.com/livenews/3128938",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时10分]"
         },
         {
           "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
           "url": "https://wallstreetcn.com/livenews/3128926",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时10分]"
+        },
+        {
+          "title": "普京与特朗普通话85分钟，细节公布",
+          "url": "https://news.ifeng.com/c/8uVO6TXjAXb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -150,6 +168,50 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时55分]"
+        },
+        {
+          "title": "特朗普称内塔尼亚胡知道“谁是老大”",
+          "url": "https://news.ifeng.com/c/8uVCbfraHd5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "特朗普政府拟再废除702项联邦法规 加码放松监管",
+          "url": "https://flash.jin10.com/detail/20260705092619255800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "美国总统特朗普：预计将于晚间（北京时间次日上午）11点在美国250周年纪念活动上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260705091335007800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "美国总统特朗普：无论如何都会发表演讲。",
+          "url": "https://flash.jin10.com/detail/20260705090726567800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "克里姆林宫：在普京与特朗普的通话中，双方谈及乌克兰问题。",
@@ -174,6 +236,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时51分 ~ 07时55分]"
+        },
+        {
+          "title": "美国总统特朗普：我们会静待这场风暴过去，绝不会让一场雨打断 250 周年纪念活动。",
+          "url": "https://flash.jin10.com/detail/20260705090705307800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大",
@@ -320,6 +393,54 @@
           "time_info": "[05时51分 ~ 07时55分]"
         },
         {
+          "title": "普京向特朗普介绍战场形势，特朗普称继续斡旋俄乌冲突",
+          "url": "https://flash.jin10.com/detail/20260705054951202800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 10时10分]"
+        },
+        {
+          "title": "克里姆林宫：普京在通话中邀请了特朗普访问俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20260705053907326800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 10时10分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：普京与特朗普的对话务实且富有建设性。",
+          "url": "https://flash.jin10.com/detail/20260705053346224800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 10时10分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将继续协助和平努力，并准备访问莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260705053327048800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 10时10分]"
+        },
+        {
           "title": "一名白宫高级官员透露，特朗普今晚将发表一篇具有历史意义的演讲，回顾美国建国二百五十年来的历程，并通过美国英雄的事迹来讲述这段历史。这将是一场独一无二的演讲，与他以往发表过的任何演讲都截然不同。",
           "url": "https://flash.jin10.com/detail/20260705044719440800",
           "source": "金十数据",
@@ -330,6 +451,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时51分 ~ 07时55分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：特朗普在北约峰会前提出帮助达成乌克兰冲突的解决方案。",
+          "url": "https://flash.jin10.com/detail/20260705053232997800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 10时10分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：普京对特朗普提供了关于乌克兰冲突中战场局势的准确评估。",
+          "url": "https://flash.jin10.com/detail/20260705053141875800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 10时10分]"
         },
         {
           "title": "以色列消息人士：内塔尼亚胡与特朗普的会面尚未敲定相关安排。",
@@ -344,26 +489,16 @@
           "time_info": "[05时51分 ~ 07时55分]"
         },
         {
-          "title": "普京向特朗普介绍战场形势，特朗普称继续斡旋俄乌冲突",
-          "url": "https://flash.jin10.com/detail/20260705054951202800",
+          "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京与美国总统特朗普于周六进行了1小时25分钟的通话。",
+          "url": "https://flash.jin10.com/detail/20260705053058868800",
           "source": "金十数据",
           "ranks": [
-            6
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时55分]"
-        },
-        {
-          "title": "克里姆林宫：普京在通话中邀请了特朗普访问俄罗斯。",
-          "url": "https://flash.jin10.com/detail/20260705053907326800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 10时10分]"
         },
         {
           "title": "特朗普：哈梅内伊葬礼结束前 美伊双方互不交火",
@@ -390,17 +525,6 @@
           "time_info": "[04时12分 ~ 05时51分]"
         },
         {
-          "title": "俄罗斯总统助理乌沙科夫：普京与特朗普的对话务实且富有建设性。",
-          "url": "https://flash.jin10.com/detail/20260705053346224800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时55分]"
-        },
-        {
           "title": "内塔尼亚胡近期将访美与特朗普会晤",
           "url": "https://flash.jin10.com/detail/20260705023446585800",
           "source": "金十数据",
@@ -413,48 +537,15 @@
           "time_info": "[03时02分 ~ 04时12分]"
         },
         {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将继续协助和平努力，并准备访问莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260705053327048800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时55分]"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：特朗普在北约峰会前提出帮助达成乌克兰冲突的解决方案。",
-          "url": "https://flash.jin10.com/detail/20260705053232997800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时55分]"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：普京对特朗普提供了关于乌克兰冲突中战场局势的准确评估。",
-          "url": "https://flash.jin10.com/detail/20260705053141875800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时55分]"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京与美国总统特朗普于周六进行了1小时25分钟的通话。",
-          "url": "https://flash.jin10.com/detail/20260705053058868800",
-          "source": "金十数据",
+          "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
+          "url": "https://www.cls.cn/detail/2417191",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时55分]"
+          "time_info": "[10时09分 ~ 10时10分]"
         },
         {
           "title": "俄罗斯联邦安全会议副主席梅德韦杰夫：俄罗斯愿继续同伊朗发展战略伙伴关系。",
@@ -480,6 +571,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "内塔尼亚胡近期将访美与特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3128954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
           "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
           "url": "https://flash.jin10.com/detail/20260704220954516800",
           "source": "金十数据",
@@ -500,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3128953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "内塔尼亚胡或将访白宫 特朗普称内塔尼亚胡“知道谁才是老大”",
@@ -524,6 +637,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+          "url": "https://wallstreetcn.com/livenews/3128952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
           "title": "美国总统特朗普：欧洲正在领悟一个道理——一旦接纳了来自第三世界的罪犯，自己也就变成了第三世界国家。这种转变发生得极快，往往就在转瞬之间。我当选得正是时候！！！",
           "url": "https://flash.jin10.com/detail/20260705030120617800",
           "source": "金十数据",
@@ -533,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
+          "url": "https://wallstreetcn.com/livenews/3128951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "特朗普与内塔尼亚胡或最早于下周举行会晤。",
