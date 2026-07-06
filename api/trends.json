@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T15:11:32.242141+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-07-06T19:57:53.644011+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -80,6 +80,18 @@
           "time_info": "[00时57分 ~ 07时59分]"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 19时57分]"
+        },
+        {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
           "url": "https://wallstreetcn.com/livenews/3129009",
           "source": "华尔街见闻-快讯",
@@ -93,16 +105,16 @@
           "time_info": "[00时58分 ~ 07时59分]"
         },
         {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
+          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
           "source": "凤凰网",
           "ranks": [
-            1,
-            3
+            4,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时58分 ~ 15时11分]"
+          "time_info": "[15时11分 ~ 19时57分]"
         },
         {
           "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
@@ -176,15 +188,15 @@
           "time_info": "07时59分"
         },
         {
-          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
-          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
-          "source": "凤凰网",
+          "title": "以色列总理内塔尼亚胡：特朗普和我在许多问题上意见一致。我与特朗普的关系很好。",
+          "url": "https://flash.jin10.com/detail/20260706192506914800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时11分"
+          "time_info": "19时57分"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
@@ -212,6 +224,19 @@
           "time_info": "[03时14分 ~ 06时54分]"
         },
         {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 19时57分]"
+        },
+        {
           "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
           "url": "https://wallstreetcn.com/livenews/3128968",
           "source": "华尔街见闻-快讯",
@@ -221,18 +246,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 05时54分]"
-        },
-        {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 15时11分]"
         },
         {
           "title": "美国高级官员：特朗普将在北约峰会期间讨论霍尔木兹海峡的航行问题。盟友已准备好参与保护霍尔木兹海峡的航运安全。",
@@ -517,6 +530,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在很多事情上看法一致。 我与特朗普的关系“没问题”。 尚未确定访美日期。",
+          "url": "https://wallstreetcn.com/livenews/3129367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：财政部已正式推出特朗普账户项目，本届政府希望借助该项目提升下一代民众的金融素养，帮助他们理解投资的价值。",
           "url": "https://flash.jin10.com/detail/20260705234623439800",
           "source": "金十数据",
@@ -607,7 +631,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -618,7 +642,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         }
