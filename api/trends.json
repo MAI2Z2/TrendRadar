@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T18:55:59.658047+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-07-08T20:15:29.410104+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 126,
+      "match_count": 137,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -20,6 +20,17 @@
           "time_info": "[00时19分 ~ 13时13分]"
         },
         {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 20时15分]"
+        },
+        {
           "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
           "url": "https://www.cls.cn/detail/2419797",
           "source": "财联社热门",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时49分 ~ 16时11分]"
-        },
-        {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 18时55分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -103,6 +103,18 @@
           "time_info": "[06时06分 ~ 09时51分]"
         },
         {
+          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 20时15分]"
+        },
+        {
           "title": "美军：开始对伊朗发动系列打击",
           "url": "https://www.cls.cn/detail/2419769",
           "source": "财联社热门",
@@ -126,18 +138,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时13分 ~ 16时11分]"
-        },
-        {
-          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 18时55分]"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -164,6 +164,45 @@
           "time_info": "[07时49分 ~ 09时51分]"
         },
         {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 20时15分]"
+        },
+        {
+          "title": "特朗普称美伊谅解备忘录已经终结",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
+        },
+        {
+          "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
+          "url": "https://news.ifeng.com/c/8ub1oqRPQxp",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
+        },
+        {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
           "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
           "source": "澎湃新闻",
@@ -187,6 +226,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时10分 ~ 18时55分]"
+        },
+        {
+          "title": "今夜全球市场瞩目！沃什首秀将迎美联储纪要“终极解密”",
+          "url": "https://www.cls.cn/detail/2420256",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 20时15分]"
+        },
+        {
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
         },
         {
           "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
@@ -225,20 +288,6 @@
           "time_info": "[16时10分 ~ 18时55分]"
         },
         {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 18时55分]"
-        },
-        {
           "title": "美军称对伊朗新一轮打击，击中超80个目标",
           "url": "https://news.ifeng.com/c/8uaXWjPtAEu",
           "source": "凤凰网",
@@ -248,17 +297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
-        },
-        {
-          "title": "特朗普称美伊谅解备忘录已经终结",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "据Axios：一名美国官员表示，此次打击目标包括伊朗防空系统、海岸监视系统、地对空导弹设施、反舰巡航导弹阵地、无人机发射设施以及港口设施。",
@@ -307,17 +345,6 @@
           "time_info": "[07时49分 ~ 16时11分]"
         },
         {
-          "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
-          "url": "https://news.ifeng.com/c/8ub1oqRPQxp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：若协议实现既定目标，伊朗将获得制裁解除并借此恢复元气，但我认为目前还不会发生。",
           "url": "https://flash.jin10.com/detail/20260708023922649800",
           "source": "金十数据",
@@ -351,6 +378,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "美特朗普再次扰乱市场！美伊停火协议已经终结？黄金应声暴跌！金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260708201007546800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "伊朗已故最高领袖哈梅内伊悼念活动在伊拉克南部举行",
           "url": "https://wallstreetcn.com/livenews/3130381",
           "source": "华尔街见闻-快讯",
@@ -379,32 +417,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
         {
-          "title": "今夜全球市场瞩目！沃什首秀将迎美联储纪要“终极解密”",
-          "url": "https://www.cls.cn/detail/2420256",
-          "source": "财联社热门",
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
           "ranks": [
-            9,
-            1
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 18时55分]"
-        },
-        {
-          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
-          "url": "https://wallstreetcn.com/articles/3776459",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 20时15分]"
         },
         {
           "title": "伊朗武装部队：将坚决回应美方袭击",
@@ -416,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "战火重燃，伊朗革命卫队处境艰难",
+          "url": "https://news.ifeng.com/c/8uafqJ3uQLL",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "伊朗外长阿拉格齐：我们重申将继续全面支持黎巴嫩的统一及其国家主权。",
@@ -446,9 +484,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：在今天的伊朗消息传出后，我们又回到了起点。 欧洲央行采取逐次会议决策的方式。 我们不知道七月会议上会做什么。 欧洲央行将在两周后召开会议，随后在九月份再开一次。",
+          "url": "https://wallstreetcn.com/livenews/3130678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "沙特外交部：伊朗应对此类袭击及其后果承担全部责任。",
@@ -468,9 +517,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "特朗普撕掉备忘录，油价又要变天了？",
+          "url": "https://flash.jin10.com/detail/20260708200613108800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "特朗普称将取消对土耳其制裁",
@@ -493,18 +553,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 18时55分]"
         },
         {
           "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
@@ -568,6 +616,18 @@
           "time_info": "[13时13分 ~ 16时11分]"
         },
         {
+          "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
+          "url": "https://www.cls.cn/detail/2420505",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
+        },
+        {
           "title": "伊朗最高领袖顾问称，美国将把与伊朗的谈判引向失败",
           "url": "https://wallstreetcn.com/livenews/3130164",
           "source": "华尔街见闻-快讯",
@@ -578,6 +638,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
         },
         {
           "title": "美国终止对伊朗石油制裁豁免",
@@ -659,6 +742,28 @@
           "time_info": "16时11分"
         },
         {
+          "title": "消息人士称，特朗普在北约领导人峰会期间未再重复对西班牙的批评，未再重复终止与伊朗临时协议的说法，未提及格陵兰。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3130675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "美国队惨败，比利时首相：我不会刺激特朗普",
+          "url": "https://news.ifeng.com/c/8uanN9kF7R0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "沙特外交部：伊朗袭击了一艘在霍尔木兹海峡过境的沙特油轮。",
           "url": "https://flash.jin10.com/detail/20260708023225718800",
           "source": "金十数据",
@@ -687,7 +792,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -742,18 +847,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
-          "url": "https://www.cls.cn/detail/2420443",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -808,7 +902,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -866,17 +960,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
-        },
-        {
-          "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
-          "url": "https://www.cls.cn/detail/2420505",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "美军称开始对伊朗发动一系列打击",
@@ -995,18 +1078,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1031,6 +1103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "知情人士：特朗普在安卡拉峰会期间告诉北约盟友，他希望美国留在北约中。",
+          "url": "https://flash.jin10.com/detail/20260708195640233800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "美国中央司令部：伊朗表现出的侵略行为毫无理由、危险，并且明显违反了停火协议。",
@@ -1116,7 +1199,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1154,13 +1237,24 @@
           "time_info": "07时49分"
         },
         {
+          "title": "伊朗霍尔木兹甘省机场管理局局长：本省所有机场关闭，恢复时间另行通知。",
+          "url": "https://flash.jin10.com/detail/20260708195345631800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "特朗普认为美伊谅解备忘录已终结",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E5%B7%B2%E7%BB%88%E7%BB%93%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1193,7 +1287,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1231,6 +1325,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "特朗普频频“放狠话”，但行动上未必跟进",
+          "url": "https://flash.jin10.com/detail/20260708195125693800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "伊朗总统赴伊拉克出席哈梅内伊送葬仪式",
           "url": "https://flash.jin10.com/detail/20260708015033048800",
           "source": "金十数据",
@@ -1251,6 +1356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "知情人士：特朗普峰会期间未再提及终止伊朗协议",
+          "url": "https://flash.jin10.com/detail/20260708195059294800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "卡塔尔谴责卡方天然气运输船遭袭 称伊朗应承担责任",
@@ -1292,7 +1408,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1336,7 +1452,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1380,7 +1496,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1394,6 +1510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "伊朗称胡齐斯坦省遭美方袭击致1死2伤",
+          "url": "https://www.toutiao.com/trending/7660097957357977642/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克",
@@ -1458,7 +1585,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
