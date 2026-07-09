@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T00:24:59.296597+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-10T02:47:39.117288+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 20,
+      "match_count": 29,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
         },
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
         },
         {
           "title": "美军称再次对伊朗发起打击",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
         },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -48,8 +48,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社报道，伊朗南部阿巴斯港当地时间9日晚传出数次爆炸声。（新华社）",
+          "url": "https://flash.jin10.com/detail/20260710023830037800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时47分"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
@@ -70,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
         },
         {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
@@ -81,8 +92,76 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
+        },
+        {
+          "title": "“二鬼子”章家敦，被特朗普点名批评了",
+          "url": "https://news.ifeng.com/c/8ucs5h8eIWd",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗发射巡航导弹袭击美国舰艇",
+          "url": "https://www.toutiao.com/trending/7659924718308327474/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗称发射导弹摧毁美军一指挥中心",
+          "url": "https://www.toutiao.com/trending/7660492985578032683/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时47分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗南部阿巴斯港附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260710023239108800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时47分"
+        },
+        {
+          "title": "报道：伊朗多地传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "据伊朗媒体：哈马斯发言人哈齐姆·卡西姆在以色列的一次暗杀企图中幸免于难。",
@@ -129,28 +208,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "“二鬼子”章家敦，被特朗普点名批评了",
-          "url": "https://news.ifeng.com/c/8ucs5h8eIWd",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
           "title": "以色列国防军：我们在密切监视伊朗和黎巴嫩的动向，并准备好立即采取行动。我们将对任何企图伤害我们的人予以有力回击。",
           "url": "https://flash.jin10.com/detail/20260709234040058800",
           "source": "金十数据",
@@ -162,15 +219,26 @@
           "time_info": "00时24分"
         },
         {
-          "title": "伊朗发射巡航导弹袭击美国舰艇",
-          "url": "https://www.toutiao.com/trending/7659924718308327474/",
-          "source": "今日头条",
+          "title": "据伊朗迈赫尔通讯社：数分钟前，伊朗布什尔周边以及乔加达克市附近传出两起爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260710022459240800",
+          "source": "金十数据",
           "ranks": [
-            14
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时47分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗恰巴哈尔省科纳拉克传出三声爆炸声。目前尚无关于爆炸原因以及可能造成损失程度的详细信息。",
+          "url": "https://flash.jin10.com/detail/20260710022142127800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
@@ -182,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美联储Logan：自愿中央清算将有助于美联储的公开市场操作",
+          "url": "https://wallstreetcn.com/livenews/3131497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "海湾合作委员会：伊朗应完全遵守与美国的谅解备忘录，并执行其中的内容。",
@@ -206,15 +285,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "伊朗称发射导弹摧毁美军一指挥中心",
-          "url": "https://www.toutiao.com/trending/7660492985578032683/",
-          "source": "今日头条",
+          "title": "周四（7月9日），美联储隔夜逆回购协议（RRP）使用规模为57.72亿美元（交易对手6家），上个交易日报33.47亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3131492",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时47分"
         },
         {
           "title": "伊朗外长与巴基斯坦军方通话，谴责美方违反谅解备忘录",
@@ -226,6 +305,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美联储洛根：自愿中央清算机制或提升公开市场操作效率",
+          "url": "https://flash.jin10.com/detail/20260710015127466800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "以总理：“不允许”伊朗拥核，拟大幅追加国防预算",
+          "url": "https://wallstreetcn.com/livenews/3131486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         }
       ]
     }
