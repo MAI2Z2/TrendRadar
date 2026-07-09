@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T18:52:21.914390+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-07-09T21:45:31.710714+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 169,
+      "match_count": 186,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -45,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时02分 ~ 18时52分]"
+          "appearance_count": 9,
+          "time_info": "[06时02分 ~ 21时45分]"
         },
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -81,8 +81,24 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 18时52分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 21时45分]"
+        },
+        {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11,
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[03时09分 ~ 21时45分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -158,21 +174,6 @@
           "time_info": "[01时21分 ~ 15时40分]"
         },
         {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时09分 ~ 18时52分]"
-        },
-        {
           "title": "特朗普要求切断美国与西班牙贸易往来",
           "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
           "source": "澎湃新闻",
@@ -246,6 +247,32 @@
           "time_info": "[01时21分 ~ 08时02分]"
         },
         {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 21时45分]"
+        },
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 21时45分]"
+        },
+        {
           "title": "美联储会议纪要：部分官员支持6月加息 分歧表征实为“等数据”",
           "url": "https://www.cls.cn/detail/2420995",
           "source": "财联社热门",
@@ -281,32 +308,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时02分 ~ 15时40分]"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 18时52分]"
-        },
-        {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 18时52分]"
         },
         {
           "title": "最新消息丨美军再对伊朗实施打击，“规模超前几天”",
@@ -354,6 +355,20 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 21时45分]"
+        },
+        {
           "title": "美军开始对伊朗实施更多打击",
           "url": "https://news.ifeng.com/c/8ubgRgsi7ZZ",
           "source": "凤凰网",
@@ -396,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美联储威廉姆斯：常备回购操作应被视为常规业务。",
+          "url": "https://flash.jin10.com/detail/20260709213923687800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国总统特朗普：美方袭击是对伊朗打击船只的“报复性行为”。 如果再次发生，情况会更加糟糕。",
@@ -582,7 +608,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -706,19 +732,6 @@
           "time_info": "[01时21分 ~ 03时10分]"
         },
         {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 18时52分]"
-        },
-        {
           "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
           "url": "https://www.zhihu.com/question/2058455554222027217",
           "source": "知乎",
@@ -823,6 +836,18 @@
           "time_info": "[03时10分 ~ 04时58分]"
         },
         {
+          "title": "加息阴霾再起？华尔街老将：美伊停火破裂或推高通胀，迫使美联储出手！",
+          "url": "https://www.cls.cn/detail/2421391",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 21时45分]"
+        },
+        {
           "title": "特朗普：不认为会再次爆发伊朗战争",
           "url": "https://wallstreetcn.com/livenews/3130824",
           "source": "华尔街见闻-快讯",
@@ -857,6 +882,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时03分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 21时45分]"
+        },
+        {
+          "title": "伊朗发射巡航导弹袭击美国舰艇",
+          "url": "https://www.toutiao.com/trending/7659924718308327474/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "特朗普：“今夜可能再打伊朗”，可能会恢复对伊朗的海上封锁；伊朗：将对冒险行为做出“立即回应”",
@@ -903,6 +951,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "美联储威廉姆斯：充裕的准备金是货币市场的一种状态，而非某个具体数值。",
+          "url": "https://flash.jin10.com/detail/20260709213808390800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "据媒体报道，伊朗袭击美国在科威特和巴林的基地。",
           "url": "https://wallstreetcn.com/livenews/3131061",
           "source": "华尔街见闻-快讯",
@@ -945,17 +1004,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
-        },
-        {
-          "title": "加息阴霾再起？华尔街老将：美伊停火破裂或推高通胀，迫使美联储出手！",
-          "url": "https://www.cls.cn/detail/2421391",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "消息人士：巴基斯坦陆军司令阿西姆·穆尼尔正与伊朗方面展开接触，试图缓和伊朗与美国之间不断升级的紧张局势。",
@@ -1063,9 +1111,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "美联储威廉姆斯：美联储工作小组为政府官员们提供了能够一个及时思考政策问题的机会。",
+          "url": "https://flash.jin10.com/detail/20260709213439329800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "提醒：北京时间02:00，美联储将发布6月16-17日FOMC货币政策会议的纪要文件。",
@@ -1077,6 +1136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "伊朗称摧毁美军西亚地区指挥中心和空军基地",
+          "url": "https://wallstreetcn.com/livenews/3131404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "伊朗外交部发言人：美国通过单方面措施以及针对伊朗的侵略性袭击，破坏了协议的基础结构。",
@@ -1244,6 +1314,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "美联储威廉姆斯：人工智能热潮可能推动中性利率上升。",
+          "url": "https://flash.jin10.com/detail/20260709213327456800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗与美国之间的谅解备忘录并非基于信任，而是基于明确的“承诺换承诺”机制。",
           "url": "https://flash.jin10.com/detail/20260709005647628800",
           "source": "金十数据",
@@ -1338,9 +1419,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "美联储威廉姆斯：对长期中性利率仍存在不确定性。",
+          "url": "https://flash.jin10.com/detail/20260709213121399800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国总统特朗普：将关注能否维持油价下跌。",
@@ -1382,9 +1474,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：通胀仍然“过高”。 市场仍预计油价将在未来6至12个月内回落，这一看法是合理的。 货币政策关注能源价格如何影响通胀。 AI投资是通胀的一个驱动因素。 美联储正在积极讨论围绕通胀的各种情景。 美联储会议纪要捕捉到了一种“集体应对机制”。 从长远来看，AI投资将是一次积极的供给冲击。",
+          "url": "https://wallstreetcn.com/livenews/3131400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国副总统万斯：特朗普仍保留多项应对伊朗的选择。",
@@ -1486,17 +1589,6 @@
           "time_info": "11时45分"
         },
         {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
           "title": "美联储传声筒：美联储分歧核心在通胀前景，而非政策方向",
           "url": "https://flash.jin10.com/detail/20260709023708140800",
           "source": "金十数据",
@@ -1552,6 +1644,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：流动性监管改革应考虑到银行安全问题。 资产负债表辩论不应关注持仓的名义规模。 尚不清楚美联储资产负债表还能缩减多少。 美联储资产负债表的目标在于利率控制。",
+          "url": "https://wallstreetcn.com/livenews/3131396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美国副总统万斯：（关于伊朗）如果他们向我们的船只开火，美国将予以回击。",
           "url": "https://flash.jin10.com/detail/20260709023654210800",
           "source": "金十数据",
@@ -1591,7 +1694,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -1605,6 +1708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "伊朗重申他国“无权干涉”霍尔木兹海峡事务",
+          "url": "https://wallstreetcn.com/livenews/3131395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：消息人士称，美国对布什尔地区的袭击未对核电站造成任何损害。",
@@ -1638,6 +1752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "伊朗说霍尔木兹海峡通行能力已恢复至战前50%",
+          "url": "https://wallstreetcn.com/livenews/3131394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国中央司令部：此次袭击是在前一天晚上对伊朗成功实施进攻性打击之后进行的。",
@@ -1739,6 +1864,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "美联储威廉姆斯：暂时未见通胀第二轮效应的迹象。",
+          "url": "https://flash.jin10.com/detail/20260709212728642800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美国总统特朗普谈及住房立法草案，声称：我是“拯救美国”立法草案的大粉丝。",
           "url": "https://wallstreetcn.com/livenews/3130928",
           "source": "华尔街见闻-快讯",
@@ -1800,9 +1936,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：关于稳定币的相关问题，目前仍处于早期阶段。 稳定币更多地涉及支付功能，而非价值储存。 稳定币并未带来不断上升的金融稳定风险。 尚不清楚稳定币将如何影响对准备金的需求。 美联储充足的准备金体系被设计为具有灵活性，能够应对稳定币带来的影响。",
+          "url": "https://wallstreetcn.com/livenews/3131391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国总统特朗普：我们与土耳其达成了很多良好的贸易协议。土耳其总统埃尔多安表现出色。他们是很好的合作伙伴。",
@@ -1860,6 +2007,28 @@
           "time_info": "04时58分"
         },
         {
+          "title": "伊朗南部阿巴斯港部分区域传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美联储威廉姆斯：美国劳动力市场表现出色，当前风险主要在通胀方面。",
+          "url": "https://flash.jin10.com/detail/20260709212600879800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美国总统特朗普：西班牙今天非常慷慨。",
           "url": "https://wallstreetcn.com/livenews/3130924",
           "source": "华尔街见闻-快讯",
@@ -1893,6 +2062,17 @@
           "time_info": "15时40分"
         },
         {
+          "title": "伊朗向美军事基地发射导弹",
+          "url": "https://www.toutiao.com/trending/7660492985578032683/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "据伊朗媒体：伊朗南部拉旺岛传出巨大爆炸声。<br/>",
           "url": "https://flash.jin10.com/detail/20260709035932101800",
           "source": "金十数据",
@@ -1902,6 +2082,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "美联储威廉姆斯：下半年PCE环比上涨0.2%将与通胀目标相符。",
+          "url": "https://flash.jin10.com/detail/20260709212553924800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国总统特朗普：在伊朗的“黑名单”上，我是第一号。 刚刚猛烈地袭击了伊朗。 我们有很多方法可以获胜。 不知道伊朗是否会遵守一份协议。 伊朗“气急败坏地”想要（与特朗普）达成一份协议。",
@@ -1924,6 +2115,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：基准情景预计AI将得到更广泛的应用，从而提高生产率。 我们将使通胀回到2%。 关键是要关注潜在通胀因素，而不仅仅是某一特定指标。 政府的技术性调整可以更好地协调PCE通胀与CPI之间的差异。 美联储政策仍需依赖数据。 劳动力市场非常稳定。 对于长期中性利率仍存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3131402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
