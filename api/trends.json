@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T07:45:03.715835+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-07-14T09:31:55.038455+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 126,
+      "match_count": 145,
       "titles": [
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -28,30 +28,45 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 09时31分]"
         },
         {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
           "url": "https://news.ifeng.com/c/8ujWVX3Tjrl",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 09时31分]"
         },
         {
           "title": "霍尔木兹海峡，伊朗不能承受之重",
           "url": "https://news.ifeng.com/c/8uixCdUTtOq",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 09时31分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -79,18 +94,6 @@
           "time_info": "[01时07分 ~ 07时45分]"
         },
         {
-          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 07时45分]"
-        },
-        {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
           "url": "https://wallstreetcn.com/articles/3776822",
           "source": "华尔街见闻",
@@ -98,19 +101,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 09时31分]"
         },
         {
-          "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
-          "url": "https://www.zhihu.com/question/2060130032056366712",
-          "source": "知乎",
+          "title": "特朗普点名以色列和海湾5国",
+          "url": "https://news.ifeng.com/c/8ukJUmAUZFg",
+          "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美联储理事沃勒：近期就业报告持续好于预期，且表现强劲。",
@@ -145,6 +148,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 05时46分]"
+        },
+        {
+          "title": "伊朗称袭击美国海军第五舰队司令部",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%83%A8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "直播：美军连续三天空袭伊朗",
+          "url": "https://i.ifeng.com/c/8r9IfZOQO8x",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "特朗普将于周五早上9点发表全国讲话",
@@ -202,6 +227,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：两艘“违规超级油轮”在霍尔木兹海峡遭到袭击并失去动力。 油轮无视警告、关闭导航系统并试图强行通过“布雷航线”。 在霍尔木兹海峡与“侵略者敌人”合作将推迟该航道的重新开放，并引发全球能源危机。",
+          "url": "https://wallstreetcn.com/livenews/3133180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "伊朗称霍尔木兹海峡南部航道“不安全”",
           "url": "https://wallstreetcn.com/livenews/3133009",
           "source": "华尔街见闻-快讯",
@@ -233,6 +269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称攻击并摧毁两艘“违规船只”",
+          "url": "https://flash.jin10.com/detail/20260714092736005800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
@@ -274,9 +321,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
+          "url": "https://news.ifeng.com/c/8ujiA6HPQR0",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
+          "url": "https://www.zhihu.com/question/2060130032056366712",
+          "source": "知乎",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 09时31分]"
         },
         {
           "title": "阿联酋国防部：两艘本国油轮在霍尔木兹海峡南部遭到两枚伊朗巡航导弹袭击。袭击发生在阿曼领海内。",
@@ -518,17 +589,6 @@
           "time_info": "[06时46分 ~ 07时45分]"
         },
         {
-          "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
-          "url": "https://news.ifeng.com/c/8ujiA6HPQR0",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
           "title": "美国总统特朗普：今夜，我们在伊朗有大量弹药。",
           "url": "https://wallstreetcn.com/livenews/3133109",
           "source": "华尔街见闻-快讯",
@@ -589,13 +649,24 @@
           "time_info": "[06时46分 ~ 07时45分]"
         },
         {
+          "title": "美军连续第三晚空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%B8%89%E6%99%9A%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美军三夜连炸伊朗，特朗普放话要端掉地下核设施“镐山”",
           "url": "https://flash.jin10.com/detail/20260714065721126800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -628,7 +699,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -675,6 +746,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "分析人士：特朗普对霍尔木兹海峡收取20%通行费可能使航运成本翻倍",
+          "url": "https://flash.jin10.com/detail/20260714092655884800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "据伊朗媒体14日报道，美军位于约旦的基地遭到导弹袭击。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3133174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美联储7月加息？概率大增逼近五成 霍尔木兹变局改写利率剧本",
+          "url": "https://www.cls.cn/detail/2425254",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美联储理事沃勒：如果核心通胀继续走低仍属合理情形，届时我将继续支持维持利率不变。",
@@ -727,7 +831,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -782,7 +886,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -804,9 +908,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美联储沃勒：加息仍需等待更多数据 通胀持续高企才可能采取行动",
+          "url": "https://www.cls.cn/detail/2425164",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁",
@@ -837,7 +952,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -947,7 +1062,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -1068,9 +1183,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "伊朗袭击美国海军第五舰队司令部",
+          "url": "https://www.toutiao.com/trending/7661886519921573894/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美联储理事沃勒：我同样担心有可能出现货币政策仍需进一步收紧的情况。",
@@ -1123,7 +1249,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -1260,6 +1386,17 @@
           "time_info": "06时46分"
         },
         {
+          "title": "伊朗外长：伊朗永远是霍尔木兹海峡的守护者",
+          "url": "https://wallstreetcn.com/livenews/3133158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美联储理事沃勒：早前对高油价可能推动更广泛价格上涨的担忧已大大减弱。",
           "url": "https://flash.jin10.com/detail/20260714003019478800",
           "source": "金十数据",
@@ -1291,6 +1428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队海军向各方声明，与那个不远万里前来侵犯本地区人民权益的侵略性敌人合作，以及执意通过布雷海域，除了招致悔恨与损失外，别无他果；此举只会延误霍尔木兹海峡的通行，并引发全球能源危机。",
+          "url": "https://flash.jin10.com/detail/20260714091342389800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美联储理事沃勒：如果本周核心通胀再次出现高位数据， 美联储将需要考虑近期加息。",
@@ -1326,6 +1474,17 @@
           "time_info": "06时46分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：约旦东部马瓦法克·苏尔蒂空军基地发生剧烈爆炸。阿拉伯消息人士称该国军事目标遭导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260714091152407800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "周一（7月13日），美联储隔夜逆回购协议（RRP）使用规模为7.95亿美元（交易对手2家），上个交易日报5.45亿美元。",
           "url": "https://wallstreetcn.com/livenews/3133021",
           "source": "华尔街见闻-快讯",
@@ -1335,6 +1494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "特朗普已通知国会伊朗战事重新爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9B%BD%E4%BC%9A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%87%8D%E6%96%B0%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "黎巴嫩总统府：总统奥恩与总理萨拉姆还讨论了奥恩即将访问美国及与美国总统特朗普会晤等事宜。",
@@ -1357,6 +1527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队（IRGC）方面表示，有两艘违规的超级油轮受美国蛊惑，关闭导航系统并无视霍尔木兹海峡安全控制中心的多次警告，执意通过布雷海域，危及了该航道的航运安全；这两艘油轮随后遭到打击并丧失了航行能力。",
+          "url": "https://flash.jin10.com/detail/20260714090953494800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美联储理事沃勒：将处理基于日历的点阵图。 将按18个月滚动周期来制定点阵图。",
@@ -1414,6 +1595,28 @@
           "time_info": "03时14分"
         },
         {
+          "title": "伊朗媒体说伊朗袭击了美国海军第五舰队司令部",
+          "url": "https://wallstreetcn.com/livenews/3133153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普通知国会伊朗战事重新爆发",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%9F%A5%E5%9B%BD%E4%BC%9A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%87%8D%E6%96%B0%E7%88%86%E5%8F%91%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
           "url": "https://wallstreetcn.com/livenews/3133016",
           "source": "华尔街见闻-快讯",
@@ -1423,6 +1626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "布伦特原油期货涨至每桶85美元上方，日内涨超2%，此前特朗普称要再次封锁伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3133150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
