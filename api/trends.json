@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T17:48:14.685070+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-07-14T19:20:02.127376+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 172,
+      "match_count": 175,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时44分 ~ 17时48分]"
+          "appearance_count": 11,
+          "time_info": "[07时44分 ~ 19时20分]"
         },
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -38,11 +38,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时07分 ~ 17时48分]"
+          "appearance_count": 18,
+          "time_info": "[01时07分 ~ 19时20分]"
         },
         {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
@@ -55,6 +56,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时07分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时42分 ~ 19时20分]"
         },
         {
           "title": "霍尔木兹海峡，伊朗不能承受之重",
@@ -76,11 +89,12 @@
             18,
             16,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时07分 ~ 17时48分]"
+          "appearance_count": 18,
+          "time_info": "[01时07分 ~ 19时20分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -132,16 +146,26 @@
           "time_info": "[12时42分 ~ 15时05分]"
         },
         {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
           "source": "凤凰网",
           "ranks": [
-            12,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 17时48分]"
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 19时20分]"
+        },
+        {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 19时20分]"
         },
         {
           "title": "美联储本月近五成概率加息！全球市场这回真慌了？",
@@ -165,28 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
-        },
-        {
-          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
-          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
-        },
-        {
-          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
-          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
         },
         {
           "title": "特朗普点名以色列和海湾5国",
@@ -231,6 +233,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 19时20分]"
         },
         {
           "title": "美军称对伊朗发起新一轮打击",
@@ -340,7 +354,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -373,7 +387,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -624,16 +638,16 @@
           "time_info": "[04时51分 ~ 05时46分]"
         },
         {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时04分 ~ 17时48分]"
+          "time_info": "[17时47分 ~ 19时20分]"
         },
         {
           "title": "伊朗袭击美国海军第五舰队司令部",
@@ -872,15 +886,15 @@
           "time_info": "[06时46分 ~ 07时45分]"
         },
         {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
+          "title": "伊朗称布什尔市四个地区遭美军袭击",
+          "url": "https://www.toutiao.com/trending/7662322212086484530/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
+          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
@@ -1054,7 +1068,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -1145,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "压力推到极限，特朗普离TACO只差一张牌？",
+          "url": "https://flash.jin10.com/detail/20260714190042200800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "伊朗伊斯兰革命卫队称击落两架美制卢卡斯无人机",
@@ -1582,7 +1607,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -1681,7 +1706,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -1796,6 +1821,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "伊朗媒体说布什尔地区发生数起爆炸",
+          "url": "https://wallstreetcn.com/livenews/3133578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "特朗普已通知国会伊朗战事重新爆发",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9B%BD%E4%BC%9A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%87%8D%E6%96%B0%E7%88%86%E5%8F%91",
           "source": "百度热搜",
@@ -1879,7 +1915,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
