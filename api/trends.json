@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T21:11:21.835860+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-07-14T23:18:10.201238+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 199,
+      "match_count": 235,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时44分 ~ 21时11分]"
+          "appearance_count": 14,
+          "time_info": "[07时44分 ~ 23时18分]"
         },
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 23时18分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -46,16 +59,44 @@
           "time_info": "[01时07分 ~ 21时11分]"
         },
         {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
           "source": "凤凰网",
           "ranks": [
-            12,
+            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 21时11分]"
+          "appearance_count": 7,
+          "time_info": "[17时47分 ~ 23时18分]"
+        },
+        {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时47分 ~ 23时18分]"
+        },
+        {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14,
+            11,
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[01时07分 ~ 23时17分]"
         },
         {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
@@ -82,33 +123,6 @@
           "time_info": "[01时07分 ~ 09时31分]"
         },
         {
-          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            14,
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时07分 ~ 21时11分]"
-        },
-        {
-          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
-          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时47分 ~ 21时11分]"
-        },
-        {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
           "url": "https://news.ifeng.com/c/8uj34x8QE0R",
           "source": "凤凰网",
@@ -120,15 +134,18 @@
           "time_info": "[01时07分 ~ 07时45分]"
         },
         {
-          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
-          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
-          "source": "凤凰网",
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时47分 ~ 21时11分]"
+          "appearance_count": 9,
+          "time_info": "[15时04分 ~ 23时18分]"
         },
         {
           "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
@@ -169,17 +186,19 @@
           "time_info": "[12时42分 ~ 15时05分]"
         },
         {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
+            15,
+            14,
+            11,
             9,
             8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时04分 ~ 21时11分]"
+          "time_info": "[17时47分 ~ 23时18分]"
         },
         {
           "title": "美联储本月近五成概率加息！全球市场这回真慌了？",
@@ -203,6 +222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
+          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         },
         {
           "title": "特朗普点名以色列和海湾5国",
@@ -247,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "美联储主席沃什：我们不希望染指救助问题。",
+          "url": "https://wallstreetcn.com/livenews/3133736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美军称对伊朗发起新一轮打击",
@@ -334,9 +375,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：需要更多努力来应对通胀。",
+          "url": "https://flash.jin10.com/detail/20260714225106517800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美军宣布于美东时间14日开始对伊朗实施海上封锁",
@@ -378,9 +430,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：我们在通胀方面还有一些工作要做。",
+          "url": "https://flash.jin10.com/detail/20260714225012242800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "伊朗称霍尔木兹海峡南部航道“不安全”",
@@ -422,7 +485,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -478,9 +541,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：美联储的双重任务并不冲突。",
+          "url": "https://flash.jin10.com/detail/20260714224944977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
@@ -563,19 +637,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时31分 ~ 15时05分]"
-        },
-        {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时47分 ~ 21时11分]"
         },
         {
           "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
@@ -697,6 +758,18 @@
           "time_info": "[04时51分 ~ 05时46分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时11分 ~ 23时18分]"
+        },
+        {
           "title": "伊朗称布什尔市四个地区遭美军袭击",
           "url": "https://www.toutiao.com/trending/7662322212086484530/",
           "source": "今日头条",
@@ -709,6 +782,18 @@
           "time_info": "[19时19分 ~ 21时11分]"
         },
         {
+          "title": "伊朗前总统内贾德被软禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E8%A2%AB%E8%BD%AF%E7%A6%81%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时11分 ~ 23时18分]"
+        },
+        {
           "title": "伊朗袭击美国海军第五舰队司令部",
           "url": "https://www.toutiao.com/trending/7661886519921573894/",
           "source": "今日头条",
@@ -719,6 +804,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 15时05分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.toutiao.com/trending/7662353080528145926/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         },
         {
           "title": "美军称首次使用海上无人艇打击伊朗",
@@ -840,6 +936,17 @@
           "time_info": "[04时51分 ~ 05时46分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普通知国会伊朗战事重新爆发",
           "url": "https://www.douyin.com/hot/2570278",
           "source": "抖音",
@@ -956,6 +1063,28 @@
           "time_info": "[17时47分 ~ 17时48分]"
         },
         {
+          "title": "55名被阿联酋拘留的伊朗渔民已获释",
+          "url": "https://www.toutiao.com/trending/7662372959964643378/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
+          "title": "特朗普转变态度力挺乌克兰有何意图",
+          "url": "https://www.toutiao.com/trending/7662341237323599366/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
           "title": "美军连续第三晚空袭伊朗",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%B8%89%E6%99%9A%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
@@ -973,7 +1102,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -995,9 +1124,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：劳动力市场似乎保持了相对良好的平衡。",
+          "url": "https://flash.jin10.com/detail/20260714224920371800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "“新美联储通讯社”Nick Timiraos：6月份CPI数据全线表现温和。 核心商品价格连续第二个月下跌，降幅为0.09%。 住房价格仅上涨0.12%。 剔除住房后的核心服务价格下降了0.2%，创下疫情以来的最低水平。",
@@ -1006,9 +1146,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：劳动力市场似乎相当平衡，一直都非常具有韧性。 名义薪资的增幅一直都是稳固的。",
+          "url": "https://wallstreetcn.com/livenews/3133731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "市场预计，美联储本月加息的概率已升至50%。",
@@ -1050,9 +1201,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美国最高法院法官Barrett：（特朗普政府）在国会山预算听证会上释放的威胁水平相当高。",
+          "url": "https://wallstreetcn.com/livenews/3133730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美国短期利率期货显示，美联储7月加息概率约为45%，较周一早些时候的35%有所上升。",
@@ -1083,7 +1245,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1127,9 +1289,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：名义工资增长稳健。",
+          "url": "https://flash.jin10.com/detail/20260714224847373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "据伊朗媒体14日报道，美军位于约旦的基地遭到导弹袭击。（新华社）",
@@ -1154,15 +1327,15 @@
           "time_info": "12时43分"
         },
         {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
+          "title": "美联储主席沃什：30年期抵押贷款利率偏高，在一定程度上系美国通胀所致。 对于抵押贷款利率，美联储能做的就是实现价格稳定性。",
+          "url": "https://wallstreetcn.com/livenews/3133727",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时11分"
+          "time_info": "23时18分"
         },
         {
           "title": "美联储理事沃勒：如果核心通胀继续走低仍属合理情形，届时我将继续支持维持利率不变。",
@@ -1204,7 +1377,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1215,7 +1388,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1226,7 +1399,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1270,9 +1443,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：劳动力市场表现出显著的韧性。",
+          "url": "https://flash.jin10.com/detail/20260714224830419800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "报道：美军将从周二开始全面封锁伊朗海岸线",
@@ -1292,9 +1476,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：美国高通胀意味着，对外沟通改革具有重要性。 价格稳定性与长期收益率下滑相一致。",
+          "url": "https://wallstreetcn.com/livenews/3133725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美联储理事沃勒：预计从本周公布的通胀数据开始，整体通胀将放缓，但将重点关注核心通胀数据。",
@@ -1352,6 +1547,17 @@
           "time_info": "19时20分"
         },
         {
+          "title": "美联储主席沃什：我们不怕以生产力为驱动的经济增长。",
+          "url": "https://flash.jin10.com/detail/20260714224818710800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称击落两架美制卢卡斯无人机",
           "url": "https://wallstreetcn.com/livenews/3133039",
           "source": "华尔街见闻-快讯",
@@ -1380,7 +1586,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1413,9 +1619,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：价格稳定与长期收益率走低是一致的。",
+          "url": "https://flash.jin10.com/detail/20260714224649502800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "英国拟将伊朗伊斯兰革命卫队列为“非法组织”",
@@ -1473,6 +1690,17 @@
           "time_info": "15时05分"
         },
         {
+          "title": "“美联储传声筒”：6月CPI帮了沃什一个大忙",
+          "url": "https://flash.jin10.com/detail/20260714224648251800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "（美国针对伊朗潜在的）海上封锁的时间安排将于周一晚些时候公布。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3132998",
           "source": "华尔街见闻-快讯",
@@ -1528,6 +1756,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "美联储主席沃什：30年期抵押贷款利率因通胀而高企。",
+          "url": "https://flash.jin10.com/detail/20260714224557056800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "伊朗军方：打击美国资产和船只。（FARS）",
           "url": "https://wallstreetcn.com/livenews/3133088",
           "source": "华尔街见闻-快讯",
@@ -1539,15 +1778,15 @@
           "time_info": "05时46分"
         },
         {
-          "title": "伊朗前总统内贾德被软禁",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E8%A2%AB%E8%BD%AF%E7%A6%81%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "美联储主席沃什：美联储作为独立的中央银行而感到荣幸。 美国最高法院围绕美联储的独立性回应了诸多疑问。 我在美联储的目标是消除（来自美国总统特朗普的）政治因素。 美联储对国会山也具有独立性。",
+          "url": "https://wallstreetcn.com/livenews/3133720",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时11分"
+          "time_info": "23时18分"
         },
         {
           "title": "美联储理事沃勒：关税、能源价格、人工智能建设需求是推动通胀上升的因素。",
@@ -1589,9 +1828,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：我不认为任何沟通方式的变化会是为了隐瞒真相。",
+          "url": "https://flash.jin10.com/detail/20260714224425338800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "美联储主席沃什：美联储必须强力避开美国联邦政府的财政政策。",
+          "url": "https://wallstreetcn.com/livenews/3133719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美联储理事沃勒：尽管关税导致商品成本上升，以及中东冲突引发的能源价格飙升，家庭和企业支出依然强劲。",
@@ -1638,6 +1899,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "美联储主席沃什：高通胀表明沟通改革至关重要。",
+          "url": "https://flash.jin10.com/detail/20260714224348857800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "高盛：尽管美联储鹰派风险犹存，盈利增长仍将驱动股市",
           "url": "https://wallstreetcn.com/livenews/3133028",
           "source": "华尔街见闻-快讯",
@@ -1658,6 +1930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "美联储主席沃什：资产负债表的任何调整都将得到评估。",
+          "url": "https://wallstreetcn.com/livenews/3133718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美联储理事沃勒：劳动力市场不是通胀压力的来源，也不影响经济扩张的强度。",
@@ -1713,6 +1996,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美联储主席沃什：现在众多工作组处于探索模式。 （若干）外部工作组将首先与（FOMC）决策者们分享他们的发现。 不会对工作组的问题秘而不宣。 将定期分享工作组的想法。 工作组的部分职责边界将有所重叠。",
+          "url": "https://wallstreetcn.com/livenews/3133717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美联储理事沃勒：我同样担心有可能出现货币政策仍需进一步收紧的情况。",
@@ -1781,6 +2075,17 @@
           "time_info": "15时05分"
         },
         {
+          "title": "美国总统特朗普兜售与日本的贸易协议和投资交易。",
+          "url": "https://wallstreetcn.com/livenews/3133716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美联储理事沃勒：通胀无需进一步加息也能回落至2%，这一观点仍具有可信性。",
           "url": "https://flash.jin10.com/detail/20260714003146561800",
           "source": "金十数据",
@@ -1814,6 +2119,17 @@
           "time_info": "06时46分"
         },
         {
+          "title": "美联储主席沃什：我在美联储内部的目标是杜绝政治干预。",
+          "url": "https://flash.jin10.com/detail/20260714224048151800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美联储理事沃勒：致力于将通胀率恢复至2%的目标。同时避免过度收紧政策，以防风险引发衰退。",
           "url": "https://flash.jin10.com/detail/20260714003119939800",
           "source": "金十数据",
@@ -1842,7 +2158,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1869,6 +2185,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "美联储主席沃什：我认为最高法院已经回答了关于美联储独立性的问题。",
+          "url": "https://flash.jin10.com/detail/20260714224024696800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "三名伊斯兰革命卫队成员在周一美国袭击伊朗的行动中丧生。（伊朗媒体法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3132988",
           "source": "华尔街见闻-快讯",
@@ -1889,6 +2216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美联储主席沃什：我对2020年版本美联储框架持非常批判的态度，这并非什么秘密。 当年的美联储框架是一个错误，没有得到讨论。 我很高兴我的前任们摒弃了2020年美联储的政策框架。",
+          "url": "https://wallstreetcn.com/livenews/3133713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美联储理事沃勒：劳动力市场稳定，接近美联储的最大就业目标。",
@@ -1952,9 +2290,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：我明白在危机时期，央行需要介入市场。",
+          "url": "https://flash.jin10.com/detail/20260714224012499800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "伊朗外长：伊朗永远是霍尔木兹海峡的守护者",
@@ -1966,6 +2315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "美联储主席沃什：我们希望，通胀升幅更加受限。 这并非美联储在通胀问题上推卸责任（pass the buck）的时刻。 美联储有工具来维持价格稳定性。",
+          "url": "https://wallstreetcn.com/livenews/3133712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美联储理事沃勒：早前对高油价可能推动更广泛价格上涨的担忧已大大减弱。",
@@ -2012,15 +2372,37 @@
           "time_info": "09时31分"
         },
         {
+          "title": "美联储主席沃什：美联储很荣幸成为一个独立的央行。",
+          "url": "https://flash.jin10.com/detail/20260714223948109800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "【伊朗称美进入正式战争状态】据伊朗媒体报道，伊朗最高领袖穆杰塔巴·哈梅内伊的军事顾问雷扎伊今天（7月14日）表示，“已不再存在伊美谅解备忘录，敌人已正式进入战争状态。” (CCTV国际时讯)",
           "url": "https://wallstreetcn.com/livenews/3133647",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "美联储主席沃什：我们希望美国经济增长出现在更加广泛的领域。",
+          "url": "https://wallstreetcn.com/livenews/3133711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美联储理事沃勒：如果本周核心通胀再次出现高位数据， 美联储将需要考虑近期加息。",
@@ -2133,6 +2515,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "美联储主席沃什：资产负债表制度已经发生了相当显著的变化。",
+          "url": "https://flash.jin10.com/detail/20260714223803091800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美联储理事沃勒：将处理基于日历的点阵图。 将按18个月滚动周期来制定点阵图。",
           "url": "https://wallstreetcn.com/livenews/3133020",
           "source": "华尔街见闻-快讯",
@@ -2194,7 +2587,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -2232,6 +2625,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "提醒：美联储主席沃什开始讲话。",
+          "url": "https://wallstreetcn.com/livenews/3133705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
           "url": "https://wallstreetcn.com/livenews/3133016",
           "source": "华尔街见闻-快讯",
@@ -2256,6 +2660,35 @@
       ]
     },
     {
+      "keyword_group": "美股 纳斯达克 道琼斯 有色金属 标普 英伟达 Google",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
+          "title": "周一（7月13日），美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。",
+          "url": "https://wallstreetcn.com/livenews/3133072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时46分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
       "match_count": 1,
       "titles": [
@@ -2269,24 +2702,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 有色金属 标普 英伟达 Google",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（7月13日），美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。",
-          "url": "https://wallstreetcn.com/livenews/3133072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时46分]"
         }
       ]
     }
