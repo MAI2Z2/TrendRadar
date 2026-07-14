@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-14T15:05:07.350901+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-07-14T17:48:14.685070+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 160,
+      "match_count": 172,
       "titles": [
+        {
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时44分 ~ 17时48分]"
+        },
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
           "url": "https://news.ifeng.com/c/8uiovLcFI7X",
@@ -28,20 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 15时05分]"
-        },
-        {
-          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
-          "url": "https://wallstreetcn.com/articles/3776822",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时44分 ~ 15时05分]"
+          "appearance_count": 16,
+          "time_info": "[01时07分 ~ 17时48分]"
         },
         {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
@@ -74,11 +75,12 @@
           "ranks": [
             18,
             16,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 15时05分]"
+          "appearance_count": 16,
+          "time_info": "[01时07分 ~ 17时48分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -130,6 +132,30 @@
           "time_info": "[12时42分 ~ 15时05分]"
         },
         {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 17时48分]"
+        },
+        {
+          "title": "美联储本月近五成概率加息！全球市场这回真慌了？",
+          "url": "https://www.cls.cn/detail/2425307",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 17时48分]"
+        },
+        {
           "title": "伊朗发起行动，回应“敌方最新侵略行径”",
           "url": "https://news.ifeng.com/c/8ukUFVFXxOi",
           "source": "凤凰网",
@@ -141,16 +167,26 @@
           "time_info": "[12时42分 ~ 12时43分]"
         },
         {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
           "source": "凤凰网",
           "ranks": [
-            12,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时05分]"
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 17时48分]"
+        },
+        {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 17时48分]"
         },
         {
           "title": "特朗普点名以色列和海湾5国",
@@ -181,7 +217,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -207,6 +243,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 05时46分]"
+        },
+        {
+          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
+          "url": "https://www.cls.cn/detail/2425302",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 17时48分]"
         },
         {
           "title": "直播：美军连续三天空袭伊朗",
@@ -286,6 +334,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "伊朗阿巴斯港发生多起爆炸",
+          "url": "https://wallstreetcn.com/livenews/3133524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
           "title": "伊朗称霍尔木兹海峡南部航道“不安全”",
           "url": "https://wallstreetcn.com/livenews/3133009",
           "source": "华尔街见闻-快讯",
@@ -306,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "特朗普的霍尔木兹海峡收费计划细节仍在敲定中。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3133523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "伊朗称袭击美国海军第五舰队司令部",
@@ -435,15 +505,15 @@
           "time_info": "[09时31分 ~ 15时05分]"
         },
         {
-          "title": "美联储本月近五成概率加息！全球市场这回真慌了？",
-          "url": "https://www.cls.cn/detail/2425307",
-          "source": "财联社热门",
+          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+          "url": "https://www.zhihu.com/question/2060208521594017084",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时05分]"
+          "time_info": "[15时04分 ~ 17时48分]"
         },
         {
           "title": "阿联酋国防部：两艘本国油轮在霍尔木兹海峡南部遭到两枚伊朗巡航导弹袭击。袭击发生在阿曼领海内。",
@@ -554,16 +624,16 @@
           "time_info": "[04时51分 ~ 05时46分]"
         },
         {
-          "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
-          "url": "https://www.cls.cn/detail/2425302",
-          "source": "财联社热门",
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            13
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时42分 ~ 15时05分]"
+          "time_info": "[15时04分 ~ 17时48分]"
         },
         {
           "title": "伊朗袭击美国海军第五舰队司令部",
@@ -578,15 +648,15 @@
           "time_info": "[09时31分 ~ 15时05分]"
         },
         {
-          "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
-          "url": "https://www.zhihu.com/question/2060208521594017084",
-          "source": "知乎",
+          "title": "美军称首次使用海上无人艇打击伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E7%A7%B0%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%B5%B7%E4%B8%8A%E6%97%A0%E4%BA%BA%E8%89%87%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
+          "time_info": "[17时47分 ~ 17时48分]"
         },
         {
           "title": "美国总统特朗普：我有时不同意内塔尼亚胡的做法，我也会明确告诉他。",
@@ -697,17 +767,6 @@
           "time_info": "[04时51分 ~ 05时46分]"
         },
         {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
-        },
-        {
           "title": "特朗普通知国会伊朗战事重新爆发",
           "url": "https://www.douyin.com/hot/2570278",
           "source": "抖音",
@@ -729,6 +788,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普称中东盟友应支付保护费",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E4%B8%9C%E7%9B%9F%E5%8F%8B%E5%BA%94%E6%94%AF%E4%BB%98%E4%BF%9D%E6%8A%A4%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 17时48分]"
         },
         {
           "title": "美国总统特朗普：今夜，我们在伊朗有大量弹药。",
@@ -800,6 +870,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 17时48分]"
+        },
+        {
+          "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 17时48分]"
         },
         {
           "title": "美军连续第三晚空袭伊朗",
@@ -954,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗布什尔市传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260714172922140800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "美联储理事沃勒：对核心通胀的高企速度表示担忧。",
@@ -1138,7 +1241,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1160,7 +1263,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1424,7 +1527,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1471,6 +1574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "白宫官员：特朗普对征收20%通行费计划“非常认真”",
+          "url": "https://flash.jin10.com/detail/20260714172208791800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "美国官员声称，总统特朗普将支持（国会山）对俄罗斯制裁的立法草案。（CNN）",
@@ -1559,6 +1673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "伊朗外交部谴责英国将革命卫队列为国家支持的威胁",
+          "url": "https://flash.jin10.com/detail/20260714172000706800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "伊朗外长：伊朗永远是霍尔木兹海峡的守护者",
@@ -1746,6 +1871,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗阿巴斯港西部传出五声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260714171729673800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "伊朗南部沿海地带传出爆炸声",
