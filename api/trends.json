@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-16T07:52:31.413215+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-07-16T09:48:14.741004+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 139,
+      "match_count": 145,
       "titles": [
+        {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 09时48分]"
+        },
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
           "url": "https://news.ifeng.com/c/8umustJIuDD",
@@ -41,19 +55,6 @@
           "time_info": "[01时07分 ~ 07时52分]"
         },
         {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时52分]"
-        },
-        {
           "title": "美军称对伊朗进行了90分钟打击",
           "url": "https://wallstreetcn.com/articles/3777022",
           "source": "华尔街见闻",
@@ -63,8 +64,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 09时48分]"
+        },
+        {
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 09时48分]"
+        },
+        {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 09时48分]"
         },
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -76,6 +103,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 02时57分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时57分 ~ 09时48分]"
         },
         {
           "title": "上千枚导弹，要飞向伊朗？",
@@ -145,30 +185,6 @@
           "time_info": "01时07分"
         },
         {
-          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时52分]"
-        },
-        {
-          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时52分]"
-        },
-        {
           "title": "美联储理事库克：通胀预期目前保持稳定，但这取决于适当的货币政策，美联储不能放松警惕。",
           "url": "https://flash.jin10.com/detail/20260716005904762800",
           "source": "金十数据",
@@ -208,9 +224,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
+          "url": "https://www.cls.cn/detail/2427842",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时48分]"
         },
         {
           "title": "美联储理事库克：自去年夏季以来，风险明显转向更高通胀方向，而就业市场风险有所降低，目前就业市场整体保持稳定。",
@@ -241,7 +269,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -266,6 +294,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 09时48分]"
         },
         {
           "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
@@ -310,18 +351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 07时52分]"
         },
         {
           "title": "美军对一艘驶往伊朗的油轮发射“地狱火”导弹",
@@ -373,6 +402,18 @@
           "time_info": "[01时07分 ~ 02时57分]"
         },
         {
+          "title": "美军对驶往伊朗油轮射“地狱火”导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AF%B9%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%B0%84%E2%80%9C%E5%9C%B0%E7%8B%B1%E7%81%AB%E2%80%9D%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时48分]"
+        },
+        {
           "title": "伊朗称美进入正式战争状态",
           "url": "https://www.douyin.com/hot/2571461",
           "source": "抖音",
@@ -384,6 +425,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 04时04分]"
+        },
+        {
+          "title": "伊朗“无意谈判”再袭美军基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E6%97%A0%E6%84%8F%E8%B0%88%E5%88%A4%E2%80%9D%E5%86%8D%E8%A2%AD%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时48分]"
         },
         {
           "title": "伊朗一儿童医院附近遭美军袭击",
@@ -422,18 +474,6 @@
           "time_info": "[06时51分 ~ 07时52分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时52分]"
-        },
-        {
           "title": "美国中央司令部：美军7月15日在阿拉伯湾执行针对伊朗的海上封锁措施，击停了一艘试图驶往伊朗港口、且未装载货物的油轮。",
           "url": "https://wallstreetcn.com/livenews/3134611",
           "source": "华尔街见闻-快讯",
@@ -444,6 +484,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时51分]"
+        },
+        {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
           "title": "美国总统特朗普声称：美国很快将对“非法”卡车司机采取行动。",
@@ -498,18 +549,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
-          "url": "https://www.cls.cn/detail/2427842",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -597,7 +637,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -674,9 +714,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "美国完成对伊朗的最新一轮打击，袭击了伊朗的指挥中心和防空设施。",
+          "url": "https://wallstreetcn.com/livenews/3134709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "霍尔木兹爆发激烈交火！特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击；若伊朗不回来谈判，将轰炸电厂桥梁，不排除派地面部队",
@@ -685,7 +736,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -828,7 +879,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -960,7 +1011,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -1026,7 +1077,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -1075,6 +1126,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "伊朗革命卫队称将摧毁美国“进攻性基础设施”",
+          "url": "https://wallstreetcn.com/livenews/3134701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "美国总统特朗普：希望我能更快地使用关税手段。",
           "url": "https://flash.jin10.com/detail/20260716031809880800",
           "source": "金十数据",
@@ -1092,7 +1154,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -1207,6 +1269,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "美军称结束对伊朗最新一轮打击",
+          "url": "https://flash.jin10.com/detail/20260716092622532800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "美国总统特朗普：预计年底通胀将比现在更低。",
           "url": "https://wallstreetcn.com/livenews/3134570",
           "source": "华尔街见闻-快讯",
@@ -1216,17 +1289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "美军对驶往伊朗油轮射“地狱火”导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AF%B9%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%B0%84%E2%80%9C%E5%9C%B0%E7%8B%B1%E7%81%AB%E2%80%9D%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
         },
         {
           "title": "美联储褐皮书：就业整体增加 工资温和上涨",
@@ -1460,6 +1522,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社16日凌晨报道，伊朗首都德黑兰启动防空系统，以应对敌对威胁。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3134691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "科威特国防部发言人：伊朗“侵略行动”针对多个重要设施，造成财产损失，但未造成人员伤亡。",
           "url": "https://flash.jin10.com/detail/20260716030445232800",
           "source": "金十数据",
@@ -1504,6 +1577,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "美国军方：已完成对伊朗的最新一轮打击。",
+          "url": "https://flash.jin10.com/detail/20260716092424775800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "美国总统特朗普：很快将击败伊朗。",
           "url": "https://wallstreetcn.com/livenews/3134594",
           "source": "华尔街见闻-快讯",
@@ -1513,17 +1597,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
-        },
-        {
-          "title": "伊朗“无意谈判”再袭美军基地",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E6%97%A0%E6%84%8F%E8%B0%88%E5%88%A4%E2%80%9D%E5%86%8D%E8%A2%AD%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
         },
         {
           "title": "美联储主席沃什：如果AI企业让投资者感到失望，资本可能会枯竭。",
@@ -1571,7 +1644,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
