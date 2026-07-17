@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-17T21:07:28.873030+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-07-17T23:07:14.671662+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 138,
+      "match_count": 148,
       "titles": [
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 23时07分]"
+        },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
           "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
@@ -20,18 +32,6 @@
           "time_info": "[01时04分 ~ 07时52分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 21时07分]"
-        },
-        {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
           "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 23时07分]"
         },
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时12分 ~ 19时16分]"
+        },
+        {
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "美联储：截至7月15日当周，美国经季节性调整的商业票据未偿余额减少66亿美元。美国未经季节性调整的商业票据未偿余额减少24亿美元。美国未经季节性调整的外国金融机构商业票据未偿余额减少35亿美元。",
@@ -199,6 +210,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "伊朗：海峡目前仍被我们牢牢把控",
+          "url": "https://flash.jin10.com/detail/20260717224859676800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗布什尔地区传出12声爆炸声。",
           "url": "https://flash.jin10.com/detail/20260717054128239800",
           "source": "金十数据",
@@ -285,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "伊朗革命卫队：（谈及何时行动）请耐心等待。",
+          "url": "https://flash.jin10.com/detail/20260717224205955800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "敌人袭击伊朗Bandar Abbas周边区域。（伊朗媒体IRNA）",
@@ -559,6 +592,18 @@
           "time_info": "[09时51分 ~ 15时12分]"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时07分]"
+        },
+        {
           "title": "伊媒：美国袭击伊朗阿巴斯港致7人受伤",
           "url": "https://wallstreetcn.com/livenews/3135273",
           "source": "华尔街见闻-快讯",
@@ -693,6 +738,17 @@
           "time_info": "19时16分"
         },
         {
+          "title": "美国证实摧毁了伊朗港口监视塔。",
+          "url": "https://wallstreetcn.com/livenews/3135795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "伊朗革命卫队：美国目前已陷入困境，唯一出路是撤出西亚地区。美国霸凌和挑衅的时代已经结束。",
           "url": "https://flash.jin10.com/detail/20260717031532132800",
           "source": "金十数据",
@@ -787,7 +843,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -853,7 +909,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -941,7 +997,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -1188,17 +1244,6 @@
           "time_info": "05时59分"
         },
         {
-          "title": "伊朗称摧毁多架美军战斗机",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
           "title": "巴林外交部：谴责伊朗多次侵犯巴林、科威特、卡塔尔和约旦领土的行为，这严重升级地区安全与稳定风险。巴林全力支持兄弟国家，并支持各国采取一切合法措施捍卫其主权、安全和稳定。",
           "url": "https://flash.jin10.com/detail/20260717182628121800",
           "source": "金十数据",
@@ -1208,6 +1253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "美联储哈玛克：持续高通胀仍是最大担忧",
+          "url": "https://flash.jin10.com/detail/20260717221317843800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
@@ -1271,7 +1327,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -1353,6 +1409,17 @@
           "time_info": "19时16分"
         },
         {
+          "title": "美联储哈玛克：商业领袖指出能源成本和供应链中断是因素，但也提到保险压力和人工智能数据中心建设的影响。",
+          "url": "https://flash.jin10.com/detail/20260717220828737800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "周四（7月16日），美联储隔夜逆回购协议（RRP）使用规模为1.25亿美元（交易对手1家），上个交易日报1.51亿美元。",
           "url": "https://wallstreetcn.com/livenews/3135208",
           "source": "华尔街见闻-快讯",
@@ -1397,6 +1464,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "美联储哈玛克：我看到良好的增长数据和稳定的消费支出。",
+          "url": "https://flash.jin10.com/detail/20260717220819542800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "伊朗重申与海湾邻国不存在敌对关系",
           "url": "https://wallstreetcn.com/livenews/3135175",
           "source": "华尔街见闻-快讯",
@@ -1417,6 +1495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：美联储双重职责（维持价格稳定+实现充分就业）之间不存在冲突。 （相比劳动力市场）通胀顽固地偏高是更大的顾虑。 通胀太高，且广泛地存在。 美国经济增长良好，消费者开支稳定。 企业称美联储需要针对通胀问题采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3135776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "美联储副主席杰斐逊将于十分钟后就经济和货币政策发表讲话。",
@@ -1452,6 +1541,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "美联储哈玛克：我以开放心态对待每次联邦公开市场委员会（FOMC）会议，专注于为美国人民实现最佳结果。",
+          "url": "https://flash.jin10.com/detail/20260717220751566800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "伊朗方面否认有美籍人员从该国监狱获释",
           "url": "https://wallstreetcn.com/livenews/3135308",
           "source": "华尔街见闻-快讯",
@@ -1485,13 +1585,24 @@
           "time_info": "04时57分"
         },
         {
+          "title": "美联储哈玛克：企业正要求对通胀采取行动，消费者对其财务状况感到绝望。",
+          "url": "https://flash.jin10.com/detail/20260717220744933800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        },
+        {
           "title": "美军袭击摧毁了伊朗一座海上交通控制塔。（伊通社）",
           "url": "https://wallstreetcn.com/livenews/3135691",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -1553,6 +1664,34 @@
       ]
     },
     {
+      "keyword_group": "美股 纳斯达克 道琼斯 有色金属 标普 英伟达 Google",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时59分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌2.5%，全球科技股指数ETF跌近2%，能源业ETF、日常消费品ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
       "match_count": 1,
       "titles": [
@@ -1566,23 +1705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 有色金属 标普 英伟达 Google",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 05时59分]"
         }
       ]
     }
