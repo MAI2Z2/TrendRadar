@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T16:09:46.250758+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-07-24T18:55:53.926435+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 74,
+      "match_count": 80,
       "titles": [
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -16,11 +16,12 @@
             8,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时01分 ~ 16时09分]"
+          "appearance_count": 12,
+          "time_info": "[03时01分 ~ 18时55分]"
         },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -68,8 +69,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 16时09分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 18时55分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -80,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 16时09分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 18时55分]"
         },
         {
           "title": "伊朗外长：扣押他国资产“极具煽动性”",
@@ -101,9 +102,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "俄罗斯与伊朗两国外长举行会晤 讨论海湾地区局势",
+          "url": "https://flash.jin10.com/detail/20260724184036588800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "胡塞武装开辟伊朗战争“第二战线”！曼德海峡告急，沙特出口面临新风险",
@@ -137,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "世界银行：摩洛哥2026年通胀将因伊朗战争上升至2.4%。",
+          "url": "https://flash.jin10.com/detail/20260724183846825800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
@@ -185,6 +208,18 @@
           "time_info": "[06时53分 ~ 07时54分]"
         },
         {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 18时55分]"
+        },
+        {
           "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
           "url": "https://flash.jin10.com/detail/20260724051248877800",
           "source": "金十数据",
@@ -208,6 +243,18 @@
           "time_info": "[07时53分 ~ 09时52分]"
         },
         {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 18时55分]"
+        },
+        {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
@@ -225,17 +272,6 @@
           "ranks": [
             12,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 16时09分]"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -283,7 +319,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -330,17 +366,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时09分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗格什姆岛和拉尔克岛附近传出爆炸声。",
@@ -508,6 +533,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国国务卿鲁比奥：我们本该更早攻击伊朗。 我们将尽一切努力在石油供应方面帮助日本。",
+          "url": "https://wallstreetcn.com/livenews/3139427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
           "url": "https://www.cls.cn/detail/2435700",
           "source": "财联社热门",
@@ -536,7 +572,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -550,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称袭击科威特的AL-ADIRI美军基地。",
+          "url": "https://wallstreetcn.com/livenews/3139426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "伊朗外长阿拉格齐：美国政府内部一些人无视现实，只关注2028年大选。其推动的盲目侵略行动只会让美国总统为寻求达成的协议付出更高代价。",
@@ -690,7 +737,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
         },
@@ -783,6 +830,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "伊拉克否认替美向伊朗转交停火提议",
+          "url": "https://wallstreetcn.com/livenews/3139400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
           "url": "https://wallstreetcn.com/livenews/3138976",
           "source": "华尔街见闻-快讯",
@@ -800,9 +858,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时09分"
+        },
+        {
+          "title": "美国将用伊朗资金“赔偿”遭袭船只",
+          "url": "https://www.toutiao.com/trending/7665110482323308585/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
