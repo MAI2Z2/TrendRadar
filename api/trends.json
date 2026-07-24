@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T18:55:53.926435+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-07-24T20:15:36.477768+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -20,8 +20,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时01分 ~ 18时55分]"
+          "appearance_count": 13,
+          "time_info": "[03时01分 ~ 20时15分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 20时15分]"
         },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -62,17 +73,6 @@
           "time_info": "[01时11分 ~ 16时09分]"
         },
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 18时55分]"
-        },
-        {
           "title": "伊朗公布美军近期袭击伤亡数据",
           "url": "https://news.ifeng.com/c/8v0yEqjepG6",
           "source": "凤凰网",
@@ -81,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 20时15分]"
         },
         {
           "title": "伊朗外长：扣押他国资产“极具煽动性”",
@@ -107,13 +107,24 @@
           "time_info": "16时09分"
         },
         {
+          "title": "伊朗称美将伊朗当武器试验场",
+          "url": "https://wallstreetcn.com/livenews/3139467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "俄罗斯与伊朗两国外长举行会晤 讨论海湾地区局势",
           "url": "https://flash.jin10.com/detail/20260724184036588800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -129,6 +140,17 @@
           "time_info": "13时14分"
         },
         {
+          "title": "伊朗革命卫队警告中东民众远离美军所在地",
+          "url": "https://flash.jin10.com/detail/20260724200340945800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
           "url": "https://flash.jin10.com/detail/20260724023243593800",
           "source": "金十数据",
@@ -138,6 +160,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 20时15分]"
         },
         {
           "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
@@ -157,7 +191,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -208,18 +242,6 @@
           "time_info": "[06时53分 ~ 07时54分]"
         },
         {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 18时55分]"
-        },
-        {
           "title": "美国高级官员：美国总统特朗普将动用其掌握的一切工具来实现他所期望的目标，包括使用关税。",
           "url": "https://flash.jin10.com/detail/20260724051248877800",
           "source": "金十数据",
@@ -232,6 +254,18 @@
           "time_info": "[05时58分 ~ 06时53分]"
         },
         {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 20时15分]"
+        },
+        {
           "title": "伊朗、胡塞武装：已做好应战准备",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
           "source": "百度热搜",
@@ -241,18 +275,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时53分 ~ 09时52分]"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 18时55分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -288,6 +310,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 04时16分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：我们本该更早攻击伊朗。 我们将尽一切努力在石油供应方面帮助日本。",
+          "url": "https://wallstreetcn.com/livenews/3139427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 20时15分]"
         },
         {
           "title": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元（交易对手6家），上个交易日报3.76亿美元。",
@@ -500,6 +534,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "据伊朗国家电视台：伊朗南部贾斯克地区传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260724200028302800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗南部城市阿瓦兹发生多起爆炸声 。",
           "url": "https://flash.jin10.com/detail/20260724071249063800",
           "source": "金十数据",
@@ -533,15 +578,15 @@
           "time_info": "01时11分"
         },
         {
-          "title": "美国国务卿鲁比奥：我们本该更早攻击伊朗。 我们将尽一切努力在石油供应方面帮助日本。",
-          "url": "https://wallstreetcn.com/livenews/3139427",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称袭击美国亚马逊公司一数据中心",
+          "url": "https://www.toutiao.com/trending/7665519115210899499/",
+          "source": "今日头条",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "20时15分"
         },
         {
           "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
@@ -594,7 +639,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -742,6 +787,17 @@
           "time_info": "16时09分"
         },
         {
+          "title": "黎巴嫩总统奥恩：我与特朗普总统的会晤富有成效，结束战争的时刻已经到来。",
+          "url": "https://flash.jin10.com/detail/20260724194909354800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
           "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
           "url": "https://wallstreetcn.com/livenews/3138980",
           "source": "华尔街见闻-快讯",
@@ -836,7 +892,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -869,7 +925,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
