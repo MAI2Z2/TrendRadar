@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T19:03:44.134933+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-07-25T21:04:32.295804+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时12分 ~ 19时03分]"
+          "appearance_count": 13,
+          "time_info": "[02时12分 ~ 21时04分]"
         },
         {
           "title": "伊朗外长：无需更多调解者，美应改变态度",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时21分 ~ 19时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时21分 ~ 21时04分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时12分 ~ 10时22分]"
+        },
+        {
+          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
+          "url": "https://news.ifeng.com/c/8v324dBINEL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 21时04分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -72,17 +83,6 @@
           "time_info": "[02时12分 ~ 07时59分]"
         },
         {
-          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
-          "url": "https://news.ifeng.com/c/8v324dBINEL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时03分]"
-        },
-        {
           "title": "美元指数24日上涨",
           "url": "https://flash.jin10.com/detail/20260725053410066800",
           "source": "金十数据",
@@ -104,17 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
-        },
-        {
-          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
-          "url": "https://wallstreetcn.com/livenews/3139737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         },
         {
           "title": "美国总统特朗普：众议院共和党已在推动通过预算案方面取得重要进展。我要求参议院在进入8月休会期之前通过一项预算决议，该决议只需简单多数即可通过。",
@@ -172,17 +161,6 @@
           "time_info": "10时22分"
         },
         {
-          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
-          "url": "https://flash.jin10.com/detail/20260725181020836800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260725051459277800",
           "source": "金十数据",
@@ -204,17 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
-          "url": "https://flash.jin10.com/detail/20260725180813776800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         },
         {
           "title": "一周热榜精选：美伊对抗下双海峡告急！特朗普再挥关税大棒",
@@ -253,6 +220,19 @@
           "time_info": "[05时57分 ~ 10时22分]"
         },
         {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://wallstreetcn.com/livenews/3139731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 21时04分]"
+        },
+        {
           "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3139667",
           "source": "华尔街见闻-快讯",
@@ -266,16 +246,16 @@
           "time_info": "[06时57分 ~ 10时22分]"
         },
         {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://wallstreetcn.com/livenews/3139731",
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://wallstreetcn.com/livenews/3139737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            7
+            1,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时30分 ~ 19时03分]"
+          "time_info": "[19时03分 ~ 21时04分]"
         },
         {
           "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
@@ -300,6 +280,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时52分 ~ 17时30分]"
+        },
+        {
+          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
+          "url": "https://flash.jin10.com/detail/20260725181020836800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时04分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
+          "url": "https://flash.jin10.com/detail/20260725180813776800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时04分]"
         },
         {
           "title": "伊朗军方称将对美军实施对等报复",
@@ -403,6 +407,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时59分]"
+        },
+        {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://flash.jin10.com/detail/20260725174159775800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时04分]"
         },
         {
           "title": "特朗普为何又打关税牌又邀中方访美",
@@ -517,17 +533,6 @@
           "time_info": "10时22分"
         },
         {
-          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
-          "url": "https://flash.jin10.com/detail/20260725174159775800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
           "title": "王毅会见伊朗外长阿拉格齐",
           "url": "https://wallstreetcn.com/livenews/3139591",
           "source": "华尔街见闻-快讯",
@@ -550,6 +555,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://flash.jin10.com/detail/20260725184006843800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "周五（7月24日），美联储隔夜逆回购协议（RRP）使用规模为6.75亿美元（交易对手2家），上个交易日报9.04亿美元。",
           "url": "https://wallstreetcn.com/livenews/3139590",
           "source": "华尔街见闻-快讯",
@@ -570,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
+          "url": "https://flash.jin10.com/detail/20260725183311628800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
@@ -603,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://wallstreetcn.com/livenews/3139738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "特朗普就伊朗问题发表讲话 称有很多种退出策略",
@@ -647,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "专家：特朗普一刀切关税得罪全部盟友",
+          "url": "https://www.toutiao.com/trending/7666410407686311467/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国总统特朗普与特勤局警官维克多·冈萨雷斯（Victor Gonzales）握手致意；冈萨雷斯曾在4月份的白宫记者协会晚宴上制服了那名涉嫌持枪行凶的男子。",
@@ -770,6 +819,17 @@
           "time_info": "13时36分"
         },
         {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉还没有准备好进行选举，但“总有一天他们会准备好的。”",
           "url": "https://flash.jin10.com/detail/20260725033334380800",
           "source": "金十数据",
@@ -798,7 +858,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -930,6 +990,21 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            11,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 21时04分]"
+        },
+        {
           "title": "三星电子与博通签署谅解备忘录，涵盖至2030年在存储芯片、代工服务和先进封装领域的合作，金额可达2000亿美元。三星电子将与博通合作开发基于三星HBM技术的博通下一代人工智能加速器。三星电子将提供亚2纳米代工工艺和先进封装解决方案。",
           "url": "https://flash.jin10.com/detail/20260725131150393800",
           "source": "金十数据",
@@ -939,20 +1014,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
-        },
-        {
-          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3139723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 19时03分]"
         },
         {
           "title": "SK集团与英伟达深化战略合作伙伴关系，涵盖AI工厂与下一代存储技术。",
