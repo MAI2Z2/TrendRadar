@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T19:15:48.020524+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-07-29T21:49:35.875905+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 97,
+      "match_count": 110,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -61,7 +61,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -143,6 +143,17 @@
           "time_info": "13时12分"
         },
         {
+          "title": "美联储决议前夜！黄金夹4000关口进退两难，在憋什么大招？金十VIP正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260729213921736800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "据伊朗媒体报道，伊朗用弹道导弹袭击了位于约旦的美国基地。",
           "url": "https://wallstreetcn.com/livenews/3141335",
           "source": "华尔街见闻-快讯",
@@ -160,9 +171,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人",
+          "url": "https://wallstreetcn.com/livenews/3141741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股低开，存储板块走高，布油涨幅扩大至6%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
@@ -196,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 21时49分]"
         },
         {
           "title": "特朗普称与内塔尼亚胡和泽连斯基分别讨论多项重要议题",
@@ -279,17 +323,6 @@
           "time_info": "[01时20分 ~ 06时06分]"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 19时15分]"
-        },
-        {
           "title": "布伦特原油日内跌幅达6.0%，报80.69美元/桶。 据以色列媒体报道，参与斡旋的调解方相信，美国与伊朗距离达成突破性进展已经不远，双方可能重启今年6月签署的谅解备忘录、即初步停火协议。",
           "url": "https://wallstreetcn.com/livenews/3141131",
           "source": "华尔街见闻-快讯",
@@ -340,6 +373,18 @@
           "time_info": "[01时20分 ~ 06时06分]"
         },
         {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 21时49分]"
+        },
+        {
           "title": "凤凰女记者：针对泽连斯基对立言论，伊朗内部有三种声音",
           "url": "https://news.ifeng.com/c/8v8XXEIU4dL",
           "source": "凤凰网",
@@ -365,6 +410,19 @@
           "time_info": "[09时47分 ~ 16时23分]"
         },
         {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 21时49分]"
+        },
+        {
           "title": "美称伊朗发射多枚导弹袭击驻中东美军",
           "url": "https://www.toutiao.com/trending/7667716185701486122/",
           "source": "今日头条",
@@ -375,17 +433,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时52分 ~ 09时47分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 19时15分]"
         },
         {
           "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
@@ -423,16 +470,26 @@
           "time_info": "[13时12分 ~ 16时23分]"
         },
         {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
           "ranks": [
-            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时49分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时23分 ~ 19时15分]"
+          "time_info": "[19时15分 ~ 21时49分]"
         },
         {
           "title": "专家：乌克兰对伊朗商船动手，想要一箭双雕",
@@ -470,15 +527,37 @@
           "time_info": "[05时00分 ~ 06时06分]"
         },
         {
+          "title": "特朗普拟公布220亿美元杜勒斯机场重建计划",
+          "url": "https://flash.jin10.com/detail/20260729213745835800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "“敌方发射物”击中伊朗西阿塞拜疆省。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3141641",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "伊朗副外长：目前我们的对话仅与阿曼就霍尔木兹海峡问题进行。我们与美国或任何调解方均无任何谈判。",
@@ -501,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "多年来“最不确定”的一次！今晚的美联储会给“惊吓”吗？",
+          "url": "https://wallstreetcn.com/articles/3778189",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "乌克兰外交部长：强调了避免局势升级以及停止伊朗对俄罗斯支持的必要性。",
@@ -536,15 +626,15 @@
           "time_info": "13时12分"
         },
         {
-          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
-          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
-          "source": "凤凰网",
+          "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
+          "url": "https://wallstreetcn.com/articles/3778174",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "21时49分"
         },
         {
           "title": "乌克兰外交部长：已讨论在里海袭击中遇难的伊朗水手，乌克兰的行动旨在保护自己免受俄罗斯侵略。",
@@ -630,18 +720,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
-          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -666,6 +745,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "前美联储理事米兰认为利率应维持不变",
+          "url": "https://wallstreetcn.com/livenews/3141740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
+          "url": "https://www.cls.cn/detail/2440511",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "伊朗副外长：目前我们的情况就像一个没有加入《不扩散核武器条约》的国家一样。国际原子能机构目前在伊朗没有任何核查人员，我们也不会提交任何申报文件，国际原子能机构的所有访问权限都已经被切断。",
@@ -773,7 +874,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -850,9 +951,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "特朗普放狠话：将对德黑兰实施“猛烈回击”",
+          "url": "https://flash.jin10.com/detail/20260729213016639800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "伊朗外长与乌克兰外长通电话。",
@@ -894,7 +1006,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -960,7 +1072,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1020,6 +1132,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "美军警告驻中东士兵勿上传基地遇袭视频 防止被伊朗利用",
+          "url": "https://wallstreetcn.com/livenews/3141708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "甩锅给拜登，特朗普否认美暂停打击伊朗因弹药库存告急",
           "url": "https://wallstreetcn.com/livenews/3141108",
           "source": "华尔街见闻-快讯",
@@ -1064,6 +1187,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "城堡证券预计美联储将加息",
+          "url": "https://wallstreetcn.com/livenews/3141735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "伊朗称在霍尔木兹海峡拦截3艘“违规”油轮",
           "url": "https://wallstreetcn.com/livenews/3141422",
           "source": "华尔街见闻-快讯",
@@ -1095,6 +1229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普称将对伊朗进行猛烈打击 原油价格大涨",
+          "url": "https://wallstreetcn.com/livenews/3141701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
@@ -1109,7 +1254,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
@@ -1129,8 +1274,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时52分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 21时49分]"
         }
       ]
     }
