@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-08-01T03:10:16.981672+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-01T04:55:21.324433+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
           "url": "https://news.ifeng.com/c/8vDSNTsXzUU",
           "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时10分]"
-        },
-        {
-          "title": "伊朗革命卫队一天发表三份声明",
-          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
-          "source": "凤凰网",
-          "ranks": [
+            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时55分]"
         },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -37,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时55分]"
         },
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -46,6 +36,17 @@
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时55分]"
+        },
+        {
+          "title": "伊朗革命卫队一天发表三份声明",
+          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
+          "source": "凤凰网",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -74,6 +75,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "美媒：美联储主席沃什据悉考虑减少美联储政策会议的频率",
+          "url": "https://flash.jin10.com/detail/20260801044238631800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
           "url": "https://flash.jin10.com/detail/20260801004608230800",
           "source": "金十数据",
@@ -85,13 +97,24 @@
           "time_info": "01时21分"
         },
         {
+          "title": "据纽约时报：美联储主席沃什考虑减少美联储政策会议的频率。",
+          "url": "https://flash.jin10.com/detail/20260801043504999800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
           "title": "报道：美联储要求美国各大银行关注欧元兑日元汇率",
           "url": "https://wallstreetcn.com/livenews/3143425",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -127,8 +150,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时55分]"
         },
         {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
@@ -136,11 +159,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时55分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡暂停通行",
@@ -151,8 +175,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时55分]"
         },
         {
           "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
@@ -249,7 +273,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -271,7 +295,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -315,7 +339,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -351,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美元指数31日上涨",
+          "url": "https://flash.jin10.com/detail/20260801041117348800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）可以达成协议。",
@@ -414,7 +449,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -428,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美元指数7月份跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3143438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "美国总统特朗普：（关于乌克兰与导弹问题）并未同意此事。",
@@ -458,7 +504,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -483,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "原美联储副主席克拉里达敦促美联储明确通胀目标，此前沃什暗示可能做出调整",
+          "url": "https://wallstreetcn.com/livenews/3143432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "美国总统特朗普声称：与委内瑞拉关系很好。",
