@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T07:52:19.846445+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-08-03T09:56:55.713028+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 76,
+      "match_count": 82,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 09时56分]"
         },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 09时56分]"
         },
         {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 09时56分]"
         },
         {
           "title": "货币政策的“安娜卡列尼娜原则”：沃什要保住信誉，美联储9月就必须加息？",
@@ -135,6 +135,17 @@
           "time_info": "[00时49分 ~ 06时47分]"
         },
         {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "伊朗总统：签署的谅解备忘录是沙姆成员（黎凡特地区国家）集体智慧的成果，所有成员对此表示认同。我相信，这份谅解备忘录将成为我们未来对外关系的核心。我们必须努力迫使敌人遵守其签署的承诺。这份谅解备忘录将提升我们国家、地区以及盟友的安全。",
           "url": "https://flash.jin10.com/detail/20260803023011765800",
           "source": "金十数据",
@@ -187,6 +198,28 @@
           "time_info": "[01时55分 ~ 06时47分]"
         },
         {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "涉及霍尔木兹海峡，伊朗外交部再发声",
+          "url": "https://news.ifeng.com/c/8vGz11eyBPb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "伊朗：与阿曼之间关于霍尔木兹海峡管理的磋商处于最终阶段，对话不涉及海峡的关闭或开放",
           "url": "https://wallstreetcn.com/livenews/3143712",
           "source": "华尔街见闻-快讯",
@@ -211,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "伊朗最高领袖：伊朗和伊拉克是两个紧密相连的民族，彼此相连。",
@@ -657,7 +701,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -695,13 +739,24 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
+          "url": "https://www.cls.cn/detail/2443408",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
           "url": "https://flash.jin10.com/detail/20260803064716887800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -891,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "美媒：特朗普民调跌至历史新低",
+          "url": "https://www.toutiao.com/trending/7669012238334165035/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "美国政府在伊朗问题上似乎无法找到更好的出路，挫败感正日益加深",
