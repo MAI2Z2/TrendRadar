@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T15:32:04.169670+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-08-04T18:29:08.176568+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 87,
+      "match_count": 101,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时48分 ~ 15时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时48分 ~ 18时29分]"
         },
         {
           "title": "高盛旗帜鲜明：这是人类历史上最大规模的资本需求周期，美联储只是看客",
@@ -82,6 +82,41 @@
           "time_info": "[09时43分 ~ 15时32分]"
         },
         {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 18时29分]"
+        },
+        {
+          "title": "伊朗总统否认辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "美军被曝群发邮件“众筹”对付伊朗方案，美方辩称是创新",
+          "url": "https://news.ifeng.com/c/8vJk4CzK9iC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "美25州联手，特朗普关税再遭阻击",
           "url": "https://news.ifeng.com/c/8vIzMGikgqm",
           "source": "凤凰网",
@@ -91,6 +126,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 12时56分]"
+        },
+        {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.toutiao.com/trending/7668954284482134058/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 18时29分]"
         },
         {
           "title": "美国总统特朗普：为支持军人家庭采取新举措，签署行政命令成立首个总统军事配偶委员会。",
@@ -159,16 +219,26 @@
           "time_info": "03时20分"
         },
         {
-          "title": "伊朗：乌克兰道歉了",
-          "url": "https://www.toutiao.com/trending/7668954284482134058/",
-          "source": "今日头条",
+          "title": "消息人士：美国在伊朗战争中已消耗大量的远程精确导弹",
+          "url": "https://flash.jin10.com/detail/20260804181312602800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "伊朗领袖顾问称美军决策水平大滑坡",
+          "url": "https://wallstreetcn.com/livenews/3144678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的21.27亿美元。",
@@ -191,6 +261,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 18时29分]"
         },
         {
           "title": "法院文件显示，美国25个州提起诉讼，挑战特朗普最新关税措施。",
@@ -227,16 +310,17 @@
           "time_info": "[04时56分 ~ 07时02分]"
         },
         {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
           "ranks": [
-            9,
-            5
+            8,
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 18时29分]"
         },
         {
           "title": "（美国总统特朗普的）加沙和平委员会：我们今日与内塔尼亚胡及其团队会面，旨在推动加沙地区解除武装，并为过渡至文官政府做准备。 我们重申，以色列撤至黄线以外的行动，只有在加沙实现全面解除武装之后方可实施。",
@@ -323,30 +407,6 @@
           "time_info": "[09时43分 ~ 15时32分]"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时32分]"
-        },
-        {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时32分]"
-        },
-        {
           "title": "伊朗放话让美军回到石器时代",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BE%E8%AF%9D%E8%AE%A9%E7%BE%8E%E5%86%9B%E5%9B%9E%E5%88%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -396,15 +456,15 @@
           "time_info": "[01时48分 ~ 03时20分]"
         },
         {
-          "title": "特朗普威胁对伊朗采取“斩首”行动",
-          "url": "https://www.douyin.com/hot/2596526",
-          "source": "抖音",
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "美议员痛批特朗普行事反复无常",
@@ -565,6 +625,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "据路透社：消息人士称，美国陆军在伊朗战争期间已消耗了大量远程陆基导弹。",
+          "url": "https://flash.jin10.com/detail/20260804180253910800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "特朗普政府拟放宽奥巴马时期北极油气钻探规定",
           "url": "https://wallstreetcn.com/livenews/3144285",
           "source": "华尔街见闻-快讯",
@@ -637,7 +708,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -703,7 +774,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -741,6 +812,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "伊朗与阿曼讨论的海峡临时方案或给予伊对入境船运的完全控制权",
+          "url": "https://flash.jin10.com/detail/20260804175624888800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至2%，美国总统特朗普宣称，正在讨论明天开放霍尔木兹海峡的问题。谈判第一阶段是重新开放海峡。霍尔木兹海峡可能最迟明天就会重新开放。",
           "url": "https://wallstreetcn.com/livenews/3144305",
           "source": "华尔街见闻-快讯",
@@ -761,6 +843,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗总统否认辞职传闻",
+          "url": "https://wallstreetcn.com/livenews/3144655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普：与伊朗的谈判正在进行 将分两阶段推进",
@@ -796,6 +889,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "美军被曝征集“创造性”打击伊朗方案",
+          "url": "https://wallstreetcn.com/livenews/3144651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "“美联储传声筒”：鲍威尔或成为数十年来第四位完整履行14年美联储理事任期的官员",
           "url": "https://flash.jin10.com/detail/20260804023415900800",
           "source": "金十数据",
@@ -805,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，伊朗不太可能接受重新开放霍尔木兹海峡的任何其他替代方案。",
+          "url": "https://flash.jin10.com/detail/20260804174925041800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "伊朗经济部长：我们已制定至少为期两年的经济韧性计划，有关我们无法保障预算资金的说法纯属不实。",
@@ -851,6 +966,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "据路透社：伊朗高层消息人士表示，该计划将使伊朗能够掌握霍尔木兹海峡出港交通的动态，并在必要时具备干预能力。",
+          "url": "https://flash.jin10.com/detail/20260804174845912800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "【伊朗高级官员：不允许美在霍尔木兹海峡开辟非伊朗航线】伊朗最高领袖军事顾问穆赫辛·雷扎伊在接受媒体采访时表示，伊朗决不允许美国在霍尔木兹海峡开辟任何非伊朗的航线，即使美国在霍尔木兹海峡的非法航线上部署军舰，伊朗也会将其作为目标。雷扎伊还表示，伊朗此前已准备好攻击乌克兰的三个地点，但是由于乌克兰道歉，伊朗取消了攻击。（央视）",
           "url": "https://wallstreetcn.com/livenews/3144330",
           "source": "华尔街见闻-快讯",
@@ -884,6 +1010,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "据路透社：伊朗高层消息人士表示，对于霍尔木兹海峡出港航道，阿曼将在通知伊朗后为离港船只放行。",
+          "url": "https://flash.jin10.com/detail/20260804174807161800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "伊朗最高领袖顾问Mohsen Rezaee通过国家电视台表示：美国必须迈出第一步行动，并改变其行为方式，这可能是一个积极的开端。 如果特朗普不撤销封锁，美军基地、战舰都将沦为我方的打击目标。 如果美国遵守备忘录的条款，这可能表明其行为出现了变化。 而若这种情况没有发生，我们绝不可能容忍海上封锁，美国军舰和基地将面临严重危险。",
           "url": "https://wallstreetcn.com/livenews/3144329",
           "source": "华尔街见闻-快讯",
@@ -906,13 +1043,24 @@
           "time_info": "03时20分"
         },
         {
+          "title": "据路透社：伊朗高层消息人士表示，霍尔木兹海峡出港航道将采用伊朗与阿曼之间的路线。",
+          "url": "https://flash.jin10.com/detail/20260804174723571800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "美伊官员称伊朗与阿曼接近达成霍尔木兹海峡航行协议",
           "url": "https://wallstreetcn.com/livenews/3144551",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -926,6 +1074,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，与阿曼讨论的霍尔木兹海峡临时方案将赋予德黑兰对进港航运的完全控制权。",
+          "url": "https://flash.jin10.com/detail/20260804174641311800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "伊朗伊斯兰革命卫队高级指挥官穆赫辛·礼萨伊： 我们绝不允许在霍尔木兹海峡开辟第二条航道。 若军舰或军事力量为此目的驶入霍尔木兹海峡，我们将对其实施打击。",
