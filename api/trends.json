@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T06:54:14.633392+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-08-05T07:57:14.240588+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 07时57分]"
+        },
+        {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 07时57分]"
         },
         {
           "title": "伊朗总统回应辞职传闻",
@@ -26,19 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 07时57分]"
         },
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -46,11 +47,25 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 07时57分]"
+        },
+        {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.douyin.com/hot/2596757",
+          "source": "抖音",
+          "ranks": [
+            21,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 07时57分]"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -70,9 +85,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "持武男子在特朗普即将出席活动的加州球场被捕",
+          "url": "https://flash.jin10.com/detail/20260805072343057800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
@@ -81,18 +107,6 @@
           "ranks": [
             12,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 06时54分]"
-        },
-        {
-          "title": "伊朗：乌克兰道歉了",
-          "url": "https://www.douyin.com/hot/2596757",
-          "source": "抖音",
-          "ranks": [
-            21,
-            28
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -174,7 +188,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -185,7 +199,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -196,9 +210,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "美财长称霍尔木兹“自由通行”有望今明达成，特朗普与卡塔尔埃米尔通话促降级",
+          "url": "https://flash.jin10.com/detail/20260805065441562800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”，重点是确保航行安全",
@@ -229,7 +254,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -240,7 +265,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -284,7 +309,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -455,7 +480,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         }
