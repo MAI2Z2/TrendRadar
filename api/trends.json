@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T20:54:28.876668+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-08-04T23:18:11.803941+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 109,
+      "match_count": 114,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -35,6 +35,20 @@
           "time_info": "[01时48分 ~ 09时43分]"
         },
         {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 23时18分]"
+        },
+        {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
           "url": "https://news.ifeng.com/c/8vIQYttFgB2",
           "source": "凤凰网",
@@ -46,17 +60,18 @@
           "time_info": "[01时48分 ~ 07时02分]"
         },
         {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
           "ranks": [
             9,
-            5,
-            3
+            7,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[12时56分 ~ 23时18分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -107,6 +122,18 @@
           "time_info": "[18时28分 ~ 20时54分]"
         },
         {
+          "title": "伊朗总统回应辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时18分]"
+        },
+        {
           "title": "伊朗总统否认辞职传闻",
           "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
           "source": "凤凰网",
@@ -116,6 +143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "美财长透露与伊朗达成协议的时间",
+          "url": "https://news.ifeng.com/c/8vJy6Up6oyy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         },
         {
           "title": "美25州联手，特朗普关税再遭阻击",
@@ -142,19 +180,6 @@
           "time_info": "[12时56分 ~ 18时29分]"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时56分 ~ 20时54分]"
-        },
-        {
           "title": "特朗普威胁对伊朗采取“斩首”行动",
           "url": "https://www.douyin.com/hot/2596526",
           "source": "抖音",
@@ -173,7 +198,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -200,15 +225,15 @@
           "time_info": "03时20分"
         },
         {
-          "title": "伊朗总统回应辞职传闻",
-          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
-          "source": "凤凰网",
+          "title": "据伊朗Press TV：知情人士表示，尽管受到美国的干扰，伊朗与阿曼关于霍尔木兹海海峡航线的谈判已进入新阶段。若美国及其他国家的干扰停止，伊朗与阿曼达成双边谅解指日可待。",
+          "url": "https://flash.jin10.com/detail/20260804231339108800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "23时18分"
         },
         {
           "title": "媒体：伊朗民众已逐渐不再关注特朗普战争言论",
@@ -346,6 +371,18 @@
           "time_info": "[12时56分 ~ 18时29分]"
         },
         {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 23时18分]"
+        },
+        {
           "title": "（美国总统特朗普的）加沙和平委员会：我们今日与内塔尼亚胡及其团队会面，旨在推动加沙地区解除武装，并为过渡至文官政府做准备。 我们重申，以色列撤至黄线以外的行动，只有在加沙实现全面解除武装之后方可实施。",
           "url": "https://wallstreetcn.com/livenews/3144297",
           "source": "华尔街见闻-快讯",
@@ -430,18 +467,6 @@
           "time_info": "[09时43分 ~ 15时32分]"
         },
         {
-          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
-          "url": "https://wallstreetcn.com/articles/3778597",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时54分]"
-        },
-        {
           "title": "伊朗放话让美军回到石器时代",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BE%E8%AF%9D%E8%AE%A9%E7%BE%8E%E5%86%9B%E5%9B%9E%E5%88%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -464,6 +489,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 15时32分]"
+        },
+        {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时18分]"
         },
         {
           "title": "美元指数3日下跌",
@@ -550,6 +586,17 @@
           "time_info": "[04时57分 ~ 06时01分]"
         },
         {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.douyin.com/hot/2596757",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
           "title": "伊朗公布遇袭船只画面",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%81%87%E8%A2%AD%E8%88%B9%E5%8F%AA%E7%94%BB%E9%9D%A2",
           "source": "百度热搜",
@@ -611,7 +658,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -649,17 +696,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
-          "url": "https://www.cls.cn/detail/2445217",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "美国参议院投票，有望围绕临时性融资草案通过程序性投票，该权宜性融资方案将帮助特朗普的联邦政府有资金持续运作至12月11日。",
           "url": "https://wallstreetcn.com/livenews/3144368",
           "source": "华尔街见闻-快讯",
@@ -677,7 +713,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -691,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "美国总统特朗普：已请求参议员达琳·格雷厄姆参加8月11日的共和党特别初选，她已接受。",
+          "url": "https://flash.jin10.com/detail/20260804225055245800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普政府拟放宽奥巴马时期北极油气钻探规定",
@@ -776,7 +823,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -867,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美国国务卿卢比奥：伊朗与阿曼的会谈取得进展。",
+          "url": "https://wallstreetcn.com/livenews/3144817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美参议院少数党领袖：特朗普发动对伊战争是为了让石油巨头盟友获利",
@@ -1139,7 +1197,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1183,7 +1241,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1241,6 +1299,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DDN公司与英伟达(NVDA.O)合作推进GPU驱动的数据访问技术。",
+          "url": "https://flash.jin10.com/detail/20260804230223283800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     }
