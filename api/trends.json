@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T18:27:42.494118+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-08-05T20:49:00.896509+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 54,
+      "match_count": 61,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -55,6 +55,18 @@
           "time_info": "[01时31分 ~ 07时57分]"
         },
         {
+          "title": "私下谈判态度软化？伊朗考虑让欧洲清除霍尔木兹水雷",
+          "url": "https://news.ifeng.com/c/8vKnanF6ECv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 20时49分]"
+        },
+        {
           "title": "伊朗：乌克兰道歉了",
           "url": "https://www.douyin.com/hot/2596757",
           "source": "抖音",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时31分 ~ 09时46分]"
-        },
-        {
-          "title": "私下谈判态度软化？伊朗考虑让欧洲清除霍尔木兹水雷",
-          "url": "https://news.ifeng.com/c/8vKnanF6ECv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 18时27分]"
         },
         {
           "title": "美财长透露与伊朗达成协议时间",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时57分 ~ 18时27分]"
+        },
+        {
+          "title": "伊朗的最后一张牌",
+          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -193,13 +205,35 @@
           "time_info": "[03时19分 ~ 05时03分]"
         },
         {
+          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
+          "url": "https://www.cls.cn/detail/2446327",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.toutiao.com/trending/7670517654829927979/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-05）",
           "url": "https://flash.jin10.com/detail/20260805181255161800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -210,9 +244,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "伊朗总统与哈马斯领导人通话 表示支持巴勒斯坦人民",
+          "url": "https://wallstreetcn.com/livenews/3145393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，如果美国停止对伊朗及其利益的侵略和犯罪行为，并满足所有必要条件以及既定要求，海峡局势才可能恢复到一个月前的状态。",
@@ -314,6 +359,17 @@
           "time_info": "06时54分"
         },
         {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://wallstreetcn.com/livenews/3145385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
           "url": "https://flash.jin10.com/detail/20260805052751847800",
           "source": "金十数据",
@@ -323,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "据CBS新闻：伊朗和阿曼目前正在谈判的重开霍尔木兹海峡的（临时）方案，将对通过该水道的船只免收通行费或服务费。",
+          "url": "https://flash.jin10.com/detail/20260805202726611800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "周二（8月4日），美联储隔夜逆回购协议（RRP）使用规模为22.51亿美元（交易对手3家），上个交易日报21.27亿美元。",
@@ -430,7 +497,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -534,6 +601,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "伊朗媒体称是否开放霍尔木兹海峡取决于美方行为",
+          "url": "https://wallstreetcn.com/livenews/3145374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "“美联储传声筒”：贝森特政策反应函数转向不再那么鸽派",
           "url": "https://flash.jin10.com/detail/20260805002943282800",
           "source": "金十数据",
@@ -614,7 +692,7 @@
     },
     {
       "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "三星探索内存新技术：垂直堆叠于AI加速器之上 密度超传统HBM5十倍",
@@ -648,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "BeamR将英伟达(NVDA.O)视频超分辨率技术引入直播体育赛事。",
+          "url": "https://flash.jin10.com/detail/20260805201941942800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         }
       ]
     }
