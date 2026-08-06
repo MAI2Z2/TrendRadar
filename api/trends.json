@@ -1,833 +1,125 @@
 {
-  "generated_at": "2026-08-06T23:11:01.294882+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2026-08-07T07:51:57.368426+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 113,
+      "match_count": 28,
       "titles": [
         {
-          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
-          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
-          "source": "凤凰网",
+          "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
+          "url": "https://flash.jin10.com/detail/20260807070032047800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 18时31分]"
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
           "url": "https://wallstreetcn.com/articles/3778783",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时45分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
+          "url": "https://www.cls.cn/detail/2447939",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
           "url": "https://news.ifeng.com/c/8vMnd0UIy30",
           "source": "凤凰网",
           "ranks": [
-            1,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时36分 ~ 23时11分]"
-        },
-        {
-          "title": "伊朗的最后一张牌",
-          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时12分]"
-        },
-        {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 18时31分]"
-        },
-        {
-          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
-          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 12时58分]"
-        },
-        {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 15时37分]"
-        },
-        {
-          "title": "美联储鹰派阵营扩容！理事库克称已准备支持加息",
-          "url": "https://www.cls.cn/detail/2446825",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 15时37分]"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.toutiao.com/trending/7670008339098750483/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 20时58分]"
-        },
-        {
-          "title": "特朗普：美国有大量军火，大量军火正运往美国。",
-          "url": "https://wallstreetcn.com/livenews/3145805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
-          "url": "https://www.cls.cn/detail/2446327",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时51分]"
-        },
-        {
-          "title": "特朗普称不想让孩子像拜登那样摔下台",
-          "url": "https://www.toutiao.com/trending/7670741330352734262/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "美退还1000亿美元关税特朗普输了吗",
-          "url": "https://www.toutiao.com/trending/7670860336727068203/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的16.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260806011631938800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬在国家电视台发表讲话：联系最高领袖“非常困难”。",
-          "url": "https://wallstreetcn.com/livenews/3145551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "伊朗副外长：我们与阿曼讨论了在霍尔木兹海峡建立联合航行管理中心。",
-          "url": "https://flash.jin10.com/detail/20260806011433363800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
-          "url": "https://flash.jin10.com/detail/20260806070213899800",
-          "source": "金十数据",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
         {
-          "title": "伊朗副外长：霍尔木兹海峡新安排将关闭临时航道",
-          "url": "https://wallstreetcn.com/livenews/3145550",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储穆萨莱姆：在能源市场波动中我关注核心通胀。",
+          "url": "https://flash.jin10.com/detail/20260807061929186800",
+          "source": "金十数据",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
-          "url": "https://flash.jin10.com/detail/20260806025420387800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "特朗普震怒质问防长：弹药短缺问题为何还没解决？",
-          "url": "https://flash.jin10.com/detail/20260806092008548800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "特朗普否认美国弹药短缺",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E7%BE%8E%E5%9B%BD%E5%BC%B9%E8%8D%AF%E7%9F%AD%E7%BC%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "伊朗副外长：近期未与美国进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260806011229694800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3145620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://www.toutiao.com/trending/7670517654829927979/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            16,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时12分]"
-        },
-        {
-          "title": "美联储今年票委呼吁现在加息：别等通胀失控再“猛踩刹车”，今年三次加息并非不可能",
-          "url": "https://wallstreetcn.com/articles/3778763",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时30分 ~ 23时11分]"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
-          "url": "https://wallstreetcn.com/livenews/3145607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时12分]"
-        },
-        {
-          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3145625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时51分]"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
-          "url": "https://flash.jin10.com/detail/20260806042849231800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时12分]"
-        },
-        {
-          "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
-          "url": "https://flash.jin10.com/detail/20260806055819902800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时51分]"
-        },
-        {
-          "title": "也门正在为与沙特展开全面对抗做准备。 袭击沙特船只巩固了“封锁换封锁”的局面。 根据也门武装部队在地面局势发展方面的情况，过去被认为安全的航线已不再安全。（伊朗塔斯尼姆通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3145525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时17分]"
-        },
-        {
-          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
-          "url": "https://wallstreetcn.com/livenews/3145624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时51分]"
-        },
-        {
-          "title": "美元指数5日下跌",
-          "url": "https://flash.jin10.com/detail/20260806042740895800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时12分]"
-        },
-        {
-          "title": "美国总统特朗普：我们很欣赏马斯克。",
-          "url": "https://flash.jin10.com/detail/20260806055113870800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时51分]"
-        },
-        {
-          "title": "美联储理事库克：若通胀不放缓 我将准备支持加息",
-          "url": "https://flash.jin10.com/detail/20260806041548995800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时12分]"
-        },
-        {
-          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260806054735118800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时51分]"
-        },
-        {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 15时37分]"
-        },
-        {
-          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
-          "url": "https://www.cls.cn/detail/2447200",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 20时58分]"
-        },
-        {
-          "title": "伊朗与阿曼会谈最新细节曝光",
-          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 12时58分]"
-        },
-        {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
-        },
-        {
-          "title": "美联储真讨论了减少议息会议次数？华尔街担忧：更动荡行情将至！",
-          "url": "https://www.cls.cn/detail/2446905",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
-        },
-        {
-          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
-          "url": "https://flash.jin10.com/detail/20260806054724205800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时51分]"
-        },
-        {
-          "title": "伊朗副外长Gharibabadi：伊朗不会接受外国势力干涉霍尔木兹海峡。 伊朗与阿曼达成协议，并不代表执行《伊斯兰堡谅解备忘录》第5条。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3145521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时17分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260806054719148800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时51分]"
-        },
-        {
-          "title": "美国总统特朗普：关税让我们变得富有。",
-          "url": "https://flash.jin10.com/detail/20260806053019525800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时51分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
-          "url": "https://flash.jin10.com/detail/20260806052258964800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时51分]"
+          "time_info": "07时51分"
         },
         {
           "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
           "url": "https://www.zhihu.com/question/2068728009981440588",
           "source": "知乎",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时10分 ~ 23时11分]"
-        },
-        {
-          "title": "机构：霍尔木兹海峡重开后，伊朗仍将建立机制“确保维持和平”",
-          "url": "https://flash.jin10.com/detail/20260806011138184800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "伊朗总统：敌人对任何象征我们能力的事物都感到不安。",
-          "url": "https://flash.jin10.com/detail/20260806024943969800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "特朗普：美国拥有大量“弹药”",
-          "url": "https://flash.jin10.com/detail/20260806123756235800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "伊朗副外长：美国在信息中表示，已准备好重返其承诺。",
-          "url": "https://flash.jin10.com/detail/20260806011018531800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "伊朗总统：目前与伊朗最高领袖的沟通“非常困难”。",
-          "url": "https://flash.jin10.com/detail/20260806024752219800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "路透社/益普索民调显示，在特朗普任期内，注册选民首次在应对战争和恐怖主义问题上更青睐民主党人而非共和党人。",
-          "url": "https://flash.jin10.com/detail/20260806180146115800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "伊朗副外长：新一轮冲突开始约4至5天后，美国发出信息，要求进行谈判并解决相关问题。",
-          "url": "https://flash.jin10.com/detail/20260806010722355800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时51分"
         },
         {
-          "title": "路透社/益普索民调显示，认为伊朗战争将导致中东动荡的美国人是预期局势会更加稳定的人的三倍。",
-          "url": "https://flash.jin10.com/detail/20260806180138932800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
-          "url": "https://wallstreetcn.com/livenews/3145617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "卡尼不点名调侃特朗普",
-          "url": "https://wallstreetcn.com/livenews/3145797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "伊朗总统：敌人试图通过战争和制裁，让伊朗重演叙利亚的命运。伊朗人民的韧性和决心挫败了敌人的阴谋。",
-          "url": "https://flash.jin10.com/detail/20260806024045255800",
+          "title": "特朗普承认某些弹药供应紧张",
+          "url": "https://flash.jin10.com/detail/20260807061416820800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美联储理事库克：消费者信心低迷与多种因素有关，包括高通胀。",
-          "url": "https://flash.jin10.com/detail/20260806040814464800",
-          "source": "金十数据",
+          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
+          "url": "https://www.cls.cn/detail/2447874",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美国化肥供应商CF二季度净销售22.2亿美元，分析师预期24.4亿美元。 二季度每股收益（EPS）为4.73美元，上年同期2.37美元。 二季度现金与现金等价物24.8亿美元，分析师预期27亿美元。 伊朗冲突造成中东地区的尿素供应缩减400万-450万吨。",
-          "url": "https://wallstreetcn.com/livenews/3145616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "伊朗副外长：（与阿曼的）会谈涉及规范商船通行以及为未来管理海峡制定基础框架。",
-          "url": "https://flash.jin10.com/detail/20260806010451877800",
+          "title": "美联储穆萨莱姆：未见能够动摇美元主要储备货币地位的相关条件。",
+          "url": "https://flash.jin10.com/detail/20260807061349050800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美联储理事库克：美联储最终或许仍无需加息。",
-          "url": "https://flash.jin10.com/detail/20260806040811050800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美联储戴利：若通胀压力再度加剧，将需要采取激进的利率应对措施。",
-          "url": "https://flash.jin10.com/detail/20260806091705643800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "特朗普被曝频繁致电沃什 “美联储传声筒”：没错，打好几次",
-          "url": "https://flash.jin10.com/detail/20260806121551898800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "特朗普直升机一度与客机距离过近",
-          "url": "https://wallstreetcn.com/livenews/3145542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "伊朗副外长：伊朗要求改变霍尔木兹海峡当前的航行路线，因为在当前安全形势下，这些路线已不再适宜。",
-          "url": "https://flash.jin10.com/detail/20260806010440846800",
+          "title": "美联储穆萨莱姆：金融环境依然高度宽松，美联储正在监测情况。",
+          "url": "https://flash.jin10.com/detail/20260807061347575800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美联储理事库克：到目前为止，政策并未导致显著的失业。",
-          "url": "https://flash.jin10.com/detail/20260806040756692800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美联储戴利：担忧公众会如何对第二轮重大通胀冲击作出反应。",
-          "url": "https://flash.jin10.com/detail/20260806091639112800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
-          "url": "https://wallstreetcn.com/livenews/3145541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "伊朗副外长：与阿曼达成的新协议将关闭霍尔木兹海峡临时航运路线。新方案将以这样的方式设计，即船只的进入路线以及部分离开路线区段将通过伊朗水域。",
-          "url": "https://flash.jin10.com/detail/20260806010225169800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "美联储理事库克：经济韧性强，扩张步伐稳健。",
-          "url": "https://flash.jin10.com/detail/20260806040753433800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美联储9月加息25个基点的概率为54.4%",
-          "url": "https://flash.jin10.com/detail/20260806060152970800",
+          "title": "美联储穆萨莱姆：许多资产价格仍然较高。",
+          "url": "https://flash.jin10.com/detail/20260807061346811800",
           "source": "金十数据",
           "ranks": [
             12
@@ -837,512 +129,191 @@
           "time_info": "07时51分"
         },
         {
-          "title": "白宫：特朗普有权按公民身份达对美联储的看法，“三军统帅”也有这样的责任",
-          "url": "https://wallstreetcn.com/livenews/3146119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "伊朗副外长：伊朗所有外交立场和外交行动都与战场形势实现了百分之百协调。",
-          "url": "https://flash.jin10.com/detail/20260806010149604800",
+          "title": "美联储穆萨莱姆：美国仍是增长最快、最具创新力的经济体，且拥有有效的法治。",
+          "url": "https://flash.jin10.com/detail/20260807061345231800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美联储理事库克：有理由相信通胀水平可能会缓解。",
-          "url": "https://flash.jin10.com/detail/20260806040752674800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "伊朗副外长：在当前战争状态下，外交与战场行动是相互配合的，而不是相互对立。",
-          "url": "https://flash.jin10.com/detail/20260806010138725800",
+          "title": "美联储穆萨莱姆：我们密切关注金融市场。",
+          "url": "https://flash.jin10.com/detail/20260807060806597800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美联储理事库克：通胀过高风险正不断上升，可能在经济中变得根深蒂固。",
-          "url": "https://flash.jin10.com/detail/20260806040749747800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "伊朗副外长：美国恢复履行其在《伊斯兰堡谅解备忘录》中作出的承诺是一个条件，但不足以实现霍尔木兹海峡重新开放。",
-          "url": "https://flash.jin10.com/detail/20260806010129313800",
+          "title": "美联储穆萨莱姆：央行有时会给市场带来意外。",
+          "url": "https://flash.jin10.com/detail/20260807060741248800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美联储理事库克：通胀威胁超过就业市场担忧。",
-          "url": "https://flash.jin10.com/detail/20260806040730892800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "周三（8月5日），美联储隔夜逆回购协议（RRP）使用规模为16.50亿美元（交易对手2家），上个交易日报22.51亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3145534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "伊朗副外长：伊朗与美国的谈判是在不信任的背景下进行的，而这种不信任仍是当前进程的基础。",
-          "url": "https://flash.jin10.com/detail/20260806010026034800",
+          "title": "美联储穆萨莱姆： 美联储需做出最优决策，但不应被市场裹挟。",
+          "url": "https://flash.jin10.com/detail/20260807060740218800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美联储理事库克：坚定致力于恢复价格稳定。",
-          "url": "https://flash.jin10.com/detail/20260806040728249800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "伊朗：美国说准备恢复履行承诺",
-          "url": "https://wallstreetcn.com/livenews/3145532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "伊朗副外长：霍尔木兹海峡新安排将关闭临时航道",
-          "url": "https://flash.jin10.com/detail/20260806023054312800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "美联储理事库克：如果通胀回落的趋势没有恢复，我们准备加息。",
-          "url": "https://flash.jin10.com/detail/20260806040717683800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "伊朗：美国仅仅履行《伊斯兰堡谅解备忘录》中的承诺是远远不够的",
-          "url": "https://wallstreetcn.com/livenews/3145531",
+          "title": "特朗普承认部分弹药供应“相对紧张”",
+          "url": "https://wallstreetcn.com/livenews/3146293",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美联储理事库克警告通胀固化风险，称必要时将支持加息",
-          "url": "https://wallstreetcn.com/livenews/3145588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "专家：伊朗否认与美直接谈判霍尔木兹海峡问题 意在彰显坚定立场",
-          "url": "https://wallstreetcn.com/livenews/3146038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "伊朗副外长：伊朗与阿曼商定的霍尔木兹海峡潜在过境路线可能在2至4个月内有效。",
-          "url": "https://flash.jin10.com/detail/20260806005632663800",
+          "title": "美联储9月加息25个基点的概率为55%",
+          "url": "https://flash.jin10.com/detail/20260807060353535800",
           "source": "金十数据",
           "ranks": [
-            19
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时51分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：也门方面表示，沙特必须明白，紧张局势的持续和扩大是造成这一局面的相关因素持续存在的直接结果。",
-          "url": "https://flash.jin10.com/detail/20260806005517787800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3145528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "伊朗官员称将与阿曼敲定霍尔木兹海峡航运安排新协议",
-          "url": "https://wallstreetcn.com/livenews/3146032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：也门方面表示，在延布以北海域船只遭袭传递出明确信息，即无法通过替代路线绕开“封锁换封锁”的局面。",
-          "url": "https://flash.jin10.com/detail/20260806005502181800",
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://flash.jin10.com/detail/20260807060056237800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "07时51分"
         },
         {
-          "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
-          "url": "https://flash.jin10.com/detail/20260806021357579800",
+          "title": "美联储穆萨莱姆：忽略政治噪音，专注于央行使命。",
+          "url": "https://flash.jin10.com/detail/20260807055916053800",
           "source": "金十数据",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "07时51分"
         },
         {
-          "title": "特朗普回应多次遇“暗杀企图”",
-          "url": "https://www.toutiao.com/trending/7670150786047295497/",
+          "title": "美联储穆萨莱姆：劳动力市场似乎表现强劲。",
+          "url": "https://flash.jin10.com/detail/20260807055907164800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
           "source": "今日头条",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "07时51分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：也门正在为与沙特展开全面对抗做准备。袭击沙特船只巩固了“封锁换封锁”的局面。根据也门武装部队在地面局势发展方面的情况，过去被认为安全的航线已不再安全。",
-          "url": "https://flash.jin10.com/detail/20260806005320918800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "伊朗副外长：伊朗与阿曼已就几乎所有未解决问题达成广泛共识。",
-          "url": "https://flash.jin10.com/detail/20260806005217596800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：需要考虑通胀可能持续更长时间的情形。 美联储在制定利率政策时面临诸多不同类型的风险。 完全支持7月维持利率不变。 美联储仍需收集数据以制定未来政策举措，9月会议前有很多信息需要收集。 美联储应做好通胀形势失控时采取行动的准备。",
-          "url": "https://wallstreetcn.com/livenews/3145694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "美国白宫否认特朗普与赫格塞思因弹药库存短缺发生争执",
-          "url": "https://wallstreetcn.com/livenews/3145771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "美联储戴利：美联储应做好准备，如果通胀形势失控，便采取行动。",
-          "url": "https://flash.jin10.com/detail/20260806090651150800",
+          "title": "美联储穆萨莱姆：厄尔尼诺天气事件可能带来新的供应冲击。",
+          "url": "https://flash.jin10.com/detail/20260807055335965800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "07时51分"
         },
         {
-          "title": "国际金年内很难再创新高？伊朗高风险豪赌仍有翻车风险 | Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260806201116065800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "自沃什就任美联储主席以来，特朗普多次与其通话。 特朗普就伊朗问题以及人工智能对经济的影响向沃什寻求建议。 沃什在与特朗普的通话中对经济表达了积极看法。 尚不清楚特朗普与沃什是否讨论了货币政策。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3145692",
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/livenews/3146283",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "据华尔街日报：自沃什担任美联储主席以来，美国总统特朗普多次与其通话。",
-          "url": "https://flash.jin10.com/detail/20260806090514682800",
-          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "07时51分"
         },
         {
-          "title": "星展银行首席执行官：不预计今年美联储加息，但将根据市场预期进行交易。",
-          "url": "https://flash.jin10.com/detail/20260806114353563800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "美联储理事丽莎·库克将于十分钟后就经济前景发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260806035500001800",
+          "title": "美联储穆萨莱姆：对美联储工作组非常欢迎。",
+          "url": "https://flash.jin10.com/detail/20260807055128493800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "07时51分"
         },
         {
-          "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
-          "url": "https://flash.jin10.com/detail/20260806035340632800",
+          "title": "WTI原油期货高开1.2%，伊朗在霍尔木兹海峡打击多个目标。",
+          "url": "https://wallstreetcn.com/livenews/3146282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "美联储穆萨莱姆：劳动力市场并不是通胀的推动力。",
+          "url": "https://flash.jin10.com/detail/20260807055039932800",
           "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "07时51分"
         },
         {
-          "title": "美联储戴利：美联储仍需收集数据以制定未来政策举措。",
-          "url": "https://flash.jin10.com/detail/20260806090444664800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "彭博美元指数涨0.1%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3146104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时11分"
-        },
-        {
-          "title": "美联储戴利：完全支持在七月份维持利率不变。",
-          "url": "https://flash.jin10.com/detail/20260806090439868800",
+          "title": "美联储穆萨莱姆：希望每月的通胀月率低于0.2%。",
+          "url": "https://flash.jin10.com/detail/20260807055028622800",
           "source": "金十数据",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "07时51分"
         },
         {
-          "title": "伊朗塔斯尼姆通讯社援引叙利亚当地消息源：以色列间谍直升机及飞机飞越德拉省与库奈特拉省上空。",
-          "url": "https://wallstreetcn.com/livenews/3145575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：通胀预期依然保持显著稳定。 美联储不应将通胀预期稳定视为理所当然。 认为就业市场不会造成太大的通胀压力。 许多人认为供应冲击将导致通胀暂时飙升。 “有充分理由”认为供应冲击不会对通胀产生持续性影响。",
-          "url": "https://wallstreetcn.com/livenews/3145686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "美联储戴利：美联储在制定利率政策时面临不同类型的风险。",
-          "url": "https://flash.jin10.com/detail/20260806090341557800",
+          "title": "美联储穆萨莱姆：核心通胀可能在2.5%到3%之间。",
+          "url": "https://flash.jin10.com/detail/20260807054932687800",
           "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。",
-          "url": "https://wallstreetcn.com/livenews/3145573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT agent 通信 英伟达 Google CPU GPU 6G",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时37分]"
-        },
-        {
-          "title": "美国挑战者企业裁员报告：今年夏天裁员速度显著放缓。裁员计划仍然主要集中在科技行业，人工智能仍然是关注的焦点，因为对这项技术的投资正在重塑企业。",
-          "url": "https://flash.jin10.com/detail/20260806173303564800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 有色金属 标普 英伟达 Google",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时10分 ~ 23时11分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
-          "url": "https://flash.jin10.com/detail/20260806040100669800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "07时51分"
         }
       ]
     }
