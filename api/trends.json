@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T12:49:47.031791+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-08-07T16:08:37.424675+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 16时08分]"
         },
         {
           "title": "美联储鹰风四起！沃什被曝为9月加息敞开大门 承认存在沟通失误",
@@ -24,22 +24,24 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 16时08分]"
         },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
           "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 16时08分]"
         },
         {
           "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
@@ -99,6 +101,18 @@
           "time_info": "[10时10分 ~ 12时49分]"
         },
         {
+          "title": "美国非农报告今晚登场！疲弱数据助推下 美联储降息预期恐升温？",
+          "url": "https://www.cls.cn/detail/2447997",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 16时08分]"
+        },
+        {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
           "url": "https://www.cls.cn/detail/2447874",
           "source": "财联社热门",
@@ -116,11 +130,12 @@
           "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 16时08分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
@@ -134,24 +149,36 @@
           "time_info": "[10时10分 ~ 12时49分]"
         },
         {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 16时08分]"
+        },
+        {
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "决战非农！就业稳态之下失业率暗藏上行风险，美联储能否守住鹰派立场？",
           "url": "https://flash.jin10.com/detail/20260807121658995800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "美国非农报告今晚登场！疲弱数据助推下 美联储降息预期恐升温？",
-          "url": "https://www.cls.cn/detail/2447997",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -200,17 +227,6 @@
           "time_info": "07时51分"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
           "title": "特朗普承认某些弹药供应紧张",
           "url": "https://flash.jin10.com/detail/20260807061416820800",
           "source": "金十数据",
@@ -228,7 +244,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -242,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "美联储穆萨莱姆：金融环境依然高度宽松，美联储正在监测情况。",
@@ -283,7 +310,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
