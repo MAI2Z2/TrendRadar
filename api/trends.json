@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T22:06:58.501338+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-08-07T23:45:43.634203+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 59,
+      "match_count": 68,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -19,6 +19,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时10分 ~ 18时44分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 23时45分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -45,19 +60,27 @@
           "time_info": "[10时10分 ~ 16时08分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            6,
-            4,
+            3,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 22时06分]"
+          "appearance_count": 5,
+          "time_info": "[18时44分 ~ 23时45分]"
+        },
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时45分]"
         },
         {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
@@ -71,29 +94,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时08分 ~ 20时42分]"
-        },
-        {
-          "title": "以情报高官疑因伊朗行动失败被解职",
-          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时44分 ~ 22时06分]"
-        },
-        {
-          "title": "伊朗最高领袖给总统下了“最后警告”？",
-          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
         },
         {
           "title": "特朗普称伊朗谈判取得进展 市场等待就业数据之际美指期货上涨",
@@ -169,7 +169,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -379,6 +379,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美联储穆萨莱姆：许多资产价格仍然较高。",
           "url": "https://flash.jin10.com/detail/20260807061346811800",
           "source": "金十数据",
@@ -399,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "美联储：美国7月短期通胀预期降温，消费者对就业变得更加乐观",
+          "url": "https://wallstreetcn.com/livenews/3146813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -478,6 +500,17 @@
           "time_info": "20时42分"
         },
         {
+          "title": "美联储巴尔金：目前尚不清楚人工智能对整体生产力水平的影响有多大。",
+          "url": "https://flash.jin10.com/detail/20260807224749896800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普承认部分弹药供应“相对紧张”",
           "url": "https://wallstreetcn.com/livenews/3146293",
           "source": "华尔街见闻-快讯",
@@ -500,15 +533,37 @@
           "time_info": "07时51分"
         },
         {
+          "title": "美联储巴尔金：仍然从接触者那里听到很多关于通胀和成本压力的信息。",
+          "url": "https://flash.jin10.com/detail/20260807224450651800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "以媒：未落实更迭伊朗政权计划 摩萨德高官被解职",
           "url": "https://wallstreetcn.com/livenews/3146751",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "特朗普再签行政令，禁止“生育旅游”收紧“出生公民权”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33734678",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -555,6 +610,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "美联储巴尔金：衡量就业市场健康的最佳指标是失业率。",
+          "url": "https://flash.jin10.com/detail/20260807223651063800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美联储穆萨莱姆：劳动力市场似乎表现强劲。",
           "url": "https://flash.jin10.com/detail/20260807055907164800",
           "source": "金十数据",
@@ -599,6 +665,17 @@
           "time_info": "20时42分"
         },
         {
+          "title": "美联储巴尔金：目前不认为存在工资通胀。",
+          "url": "https://flash.jin10.com/detail/20260807223343458800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/livenews/3146283",
           "source": "华尔街见闻-快讯",
@@ -619,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "美联储巴尔金：看到企业间有定价权，但企业对消费者定价能力有限。",
+          "url": "https://flash.jin10.com/detail/20260807223147782800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "WTI原油期货高开1.2%，伊朗在霍尔木兹海峡打击多个目标。",
@@ -652,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "伊朗就霍尔木兹海峡协议措辞展开辩论",
+          "url": "https://wallstreetcn.com/livenews/3146793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美联储穆萨莱姆：核心通胀可能在2.5%到3%之间。",
