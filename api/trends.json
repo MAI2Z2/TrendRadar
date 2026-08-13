@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T20:48:33.340470+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-08-13T23:52:03.463335+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 80,
+      "match_count": 89,
       "titles": [
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -82,6 +82,17 @@
           "time_info": "[00时48分 ~ 07时31分]"
         },
         {
+          "title": "伊朗：将以持久战消耗美国",
+          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 23时52分]"
+        },
+        {
           "title": "特朗普躲避暗杀更多细节曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%B2%E9%81%BF%E6%9A%97%E6%9D%80%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -92,6 +103,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 07时31分]"
+        },
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 23时52分]"
         },
         {
           "title": "伊朗目前经济状况如何？专家：正面临两大困境",
@@ -106,15 +130,51 @@
           "time_info": "[09时10分 ~ 14时10分]"
         },
         {
-          "title": "伊朗：将以持久战消耗美国",
-          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
           "source": "凤凰网",
           "ranks": [
-            1
+            7,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 23时52分]"
+        },
+        {
+          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
+          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 23时52分]"
+        },
+        {
+          "title": "伊朗将正式加入金砖国家新开发银行",
+          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 23时52分]"
+        },
+        {
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
         },
         {
           "title": "美联储哈玛克：通货膨胀是广泛存在的，不仅仅局限于某些行业。",
@@ -123,9 +183,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
+          "url": "https://flash.jin10.com/detail/20260813234415417800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
@@ -158,7 +229,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -169,22 +240,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
+          "title": "高盛副董事长称美联储7月未加息绝对正确 或可“拖一拖”观察更多信号",
+          "url": "https://wallstreetcn.com/livenews/3149236",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 20时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美联储巴尔金：商业投资似乎对利率、成本或不确定性\"无动于衷\"",
@@ -193,7 +262,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -204,7 +273,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -226,7 +295,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -237,7 +306,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -253,18 +322,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时48分]"
         },
         {
           "title": "美元指数12日上涨",
@@ -292,30 +349,6 @@
           "time_info": "[06时32分 ~ 07时31分]"
         },
         {
-          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
-          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时48分]"
-        },
-        {
-          "title": "伊朗将正式加入金砖国家新开发银行",
-          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时48分]"
-        },
-        {
           "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
           "url": "https://flash.jin10.com/detail/20260813054700329800",
           "source": "金十数据",
@@ -340,6 +373,19 @@
           "time_info": "[06时32分 ~ 07时31分]"
         },
         {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 23时52分]"
+        },
+        {
           "title": "美联储料维持准备金管理购买节奏",
           "url": "https://wallstreetcn.com/livenews/3148773",
           "source": "华尔街见闻-快讯",
@@ -350,6 +396,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 23时52分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
@@ -428,18 +485,6 @@
           "time_info": "[05时37分 ~ 06时32分]"
         },
         {
-          "title": "美新闻机构起诉特朗普",
-          "url": "https://www.douyin.com/hot/2607917",
-          "source": "抖音",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 20时48分]"
-        },
-        {
           "title": "特朗普签署备忘录，针对跨国网络犯罪",
           "url": "https://wallstreetcn.com/livenews/3148771",
           "source": "华尔街见闻-快讯",
@@ -450,6 +495,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时31分]"
+        },
+        {
+          "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
+          "url": "https://www.cls.cn/detail/2453838",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
@@ -474,6 +530,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
@@ -560,26 +627,26 @@
           "time_info": "[04时36分 ~ 05时37分]"
         },
         {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "美联储巴尔金：就业持续支撑家庭消费，而拥有房产或股票的人享受了“显著”的财富增长。",
           "url": "https://flash.jin10.com/detail/20260813204138167800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "美国法官驳回特朗普政府指控哈佛大学未能保护犹太学生的诉讼。",
+          "url": "https://flash.jin10.com/detail/20260813233504432800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美联储巴尔金：人工智能使企业能够尝试减少员工人数，但由于盈利强劲，裁员压力不大。",
@@ -588,7 +655,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -610,7 +677,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -621,7 +688,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -632,7 +699,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -643,7 +710,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -676,7 +743,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -687,9 +754,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
+        },
+        {
+          "title": "美国里士满联储主席巴尔金：美国劳动力市场均衡，但脆弱。 难以判断利率是否具有限制性。 如果市场明白美联储的思路，将对政策有裨益。 赞同过度的前瞻性指引会制约美联储。 不认为劳动力市场像数据所显示的那么强劲。",
+          "url": "https://wallstreetcn.com/livenews/3149225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "美国总统特朗普：莱维特将成为我的高级外部顾问之一，也是共和党内有影响力的声音。",
@@ -709,7 +787,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -742,7 +820,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -753,7 +831,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -775,7 +853,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -808,7 +886,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -830,7 +908,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -841,7 +919,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -923,6 +1001,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "油价下跌且通胀接连报喜 交易员不再充分消化美联储年内加息的情景",
+          "url": "https://wallstreetcn.com/livenews/3149211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "伊朗波斯湾海峡管理局：美国官员声称并多次发布消息称霍尔木兹海峡已不再受阻，但这些说法并不能改变现实：霍尔木兹海峡仍处于封锁状态，除非伊朗提出的条件得到接受，否则该海峡不会重新开放。",
           "url": "https://flash.jin10.com/detail/20260813030442991800",
           "source": "金十数据",
@@ -932,6 +1021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "伊朗官员：美若敢用核弹 其全球基地将成靶子",
+          "url": "https://wallstreetcn.com/livenews/3149207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         }
       ]
     },
@@ -958,7 +1058,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
