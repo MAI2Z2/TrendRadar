@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T19:38:46.908666+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-08-14T20:43:53.154267+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
@@ -179,17 +179,6 @@
           "time_info": "[09时09分 ~ 15时11分]"
         },
         {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
           "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
           "url": "https://flash.jin10.com/detail/20260814071558616800",
           "source": "金十数据",
@@ -199,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
@@ -279,6 +279,40 @@
           "time_info": "[09时09分 ~ 13时28分]"
         },
         {
+          "title": "油价下跌、通胀降温，市场不再完全押注美联储年内加息",
+          "url": "https://wallstreetcn.com/articles/3779394",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 20时43分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时11分 ~ 20时43分]"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时43分]"
+        },
+        {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
           "url": "https://wallstreetcn.com/livenews/3149281",
           "source": "华尔街见闻-快讯",
@@ -303,17 +337,6 @@
           "time_info": "[09时09分 ~ 11时58分]"
         },
         {
-          "title": "油价下跌、通胀降温，市场不再完全押注美联储年内加息",
-          "url": "https://wallstreetcn.com/articles/3779394",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 11时58分]"
-        },
-        {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
@@ -323,17 +346,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时57分 ~ 15时11分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时11分 ~ 19时38分]"
         },
         {
           "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -444,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "内塔尼亚胡选战陷困境 特朗普迟迟未表态力挺",
+          "url": "https://flash.jin10.com/detail/20260814200838358800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
@@ -661,7 +684,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -708,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
+          "url": "https://wallstreetcn.com/livenews/3149735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     },
