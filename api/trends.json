@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-14T07:33:00.762484+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-08-14T09:10:10.201055+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
-        {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时51分 ~ 07时33分]"
-        },
         {
           "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
           "url": "https://www.cls.cn/detail/2453838",
@@ -28,20 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时51分 ~ 07时33分]"
-        },
-        {
-          "title": "伊朗：将以持久战消耗美国",
-          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时51分 ~ 07时33分]"
+          "appearance_count": 7,
+          "time_info": "[02时51分 ~ 09时10分]"
         },
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -49,6 +25,31 @@
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时51分 ~ 09时10分]"
+        },
+        {
+          "title": "伊朗：将以持久战消耗美国",
+          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时51分 ~ 09时10分]"
+        },
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -78,13 +79,25 @@
           "time_info": "[02时51分 ~ 04时33分]"
         },
         {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时51分 ~ 09时10分]"
+        },
+        {
           "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
           "url": "https://flash.jin10.com/detail/20260814071558616800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -95,7 +108,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -122,18 +135,6 @@
           "time_info": "04时33分"
         },
         {
-          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
-          "url": "https://www.cls.cn/detail/2453615",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时51分 ~ 07时33分]"
-        },
-        {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
           "url": "https://wallstreetcn.com/livenews/3149281",
           "source": "华尔街见闻-快讯",
@@ -146,13 +147,68 @@
           "time_info": "[02时51分 ~ 04时33分]"
         },
         {
+          "title": "伊朗：美若敢用核弹 全球基地将成靶子",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "油价下跌、通胀降温，市场不再完全押注美联储年内加息",
+          "url": "https://wallstreetcn.com/articles/3779394",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "美联储哈马克发出最强鹰声：需要立即加息以压低过高的通胀",
+          "url": "https://www.cls.cn/detail/2453869",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
+          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
+          "url": "https://www.cls.cn/detail/2454017",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时09分 ~ 09时10分]"
+        },
+        {
           "title": "美国能源部长赖特：我们对伊朗的制裁扼杀了其经济，使其在地区的影响力减弱。对其经济的压制最终将导致伊朗政权崩溃。",
           "url": "https://flash.jin10.com/detail/20260814070112323800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -163,7 +219,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -196,7 +252,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -218,9 +274,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "发警报迫使特朗普换机 中情局质疑以色列用意",
+          "url": "https://wallstreetcn.com/livenews/3149385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "美防长称可无限期封锁伊朗",
@@ -240,7 +307,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -284,7 +351,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -339,7 +406,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -350,7 +417,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -361,7 +428,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -372,7 +439,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -383,7 +450,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -394,7 +461,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -408,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美财长称将对伊朗实施前所未见措施",
+          "url": "https://wallstreetcn.com/livenews/3149366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     }
