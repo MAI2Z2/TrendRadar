@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T08:44:55.732851+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-08-16T10:17:28.299944+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "国际局势 国内政策 北京政策 美元指数 美联储 特朗普 伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 10时17分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 10时17分]"
         },
         {
           "title": "本周市场的“核心逻辑”：美联储9月不加息了？",
@@ -48,9 +48,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 10时17分]"
         },
         {
           "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
@@ -58,11 +58,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 10时17分]"
         },
         {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
@@ -70,22 +71,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 10时17分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 10时17分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -93,11 +96,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 08时44分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 10时17分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -105,11 +109,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 10时17分]"
+        },
+        {
+          "title": "美国总统特朗普周日日程一览",
+          "url": "https://flash.jin10.com/detail/20260816080736055800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时13分 ~ 08时44分]"
+          "time_info": "[08时44分 ~ 10时17分]"
+        },
+        {
+          "title": "哥伦比亚总统：因地震影响，在与美国总统特朗普的电话中请求美国暂时暂停对哥伦比亚产品的关税。",
+          "url": "https://flash.jin10.com/detail/20260816080613858800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 10时17分]"
         },
         {
           "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
@@ -171,26 +200,26 @@
           "time_info": "[07时13分 ~ 08时44分]"
         },
         {
-          "title": "美国总统特朗普周日日程一览",
-          "url": "https://flash.jin10.com/detail/20260816080736055800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "哥伦比亚总统：因地震影响，在与美国总统特朗普的电话中请求美国暂时暂停对哥伦比亚产品的关税。",
-          "url": "https://flash.jin10.com/detail/20260816080613858800",
+          "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
+          "url": "https://flash.jin10.com/detail/20260816090134155800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "10时17分"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时17分"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -199,7 +228,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
